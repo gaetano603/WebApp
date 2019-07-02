@@ -1,0 +1,914 @@
+https://www.yelp.it/biz/taiki-bari;Arredamento elegante, personale gentile e interessanti proposte.;1.5908629074132605
+https://www.yelp.it/biz/ayasofya-torino;Buona, ottima la pizza ....;0.5643823935199818
+https://www.yelp.it/biz/da-nathalie-bari;Locale curato e pulito personale gentile e attento.;1.739625274956067
+https://www.yelp.it/biz/giapponese-xia-torino;Un locale piccolo e accogliente.;0.5643823935199818
+https://www.yelp.it/biz/black-e-white-bari;Antipasto caldo con portate tutte elaborate e speciali.;1.5908629074132605
+https://www.yelp.it/biz/il-porto-torino;Lo staff gentile e premuroso.;0.5643823935199818
+https://www.yelp.it/biz/botta-bari;Bel locale caldo e accogliente.;1.789720770839918
+https://www.yelp.it/biz/grom-torino;Quasi sempre gusti classici, buon gelato ma anche se superiore alla media resta ben lontano dall'essere strepitoso e indimenticabile.;0.8698126374780334
+https://www.yelp.it/biz/al-raffaello-bari;Bel posto,accogliente caldo e piacevole.;1.4317766166719346
+https://www.yelp.it/biz/marechiaro-torino;Personale cortese e locale moderno.;0.5246530721670275
+https://www.yelp.it/biz/pantagruel-torino;Pizza super super super buona!;0.47725887222397817
+https://www.yelp.it/biz/la-cena-coi-fiocchi-torino;Ottimi i crudi di pesce, eccellente tecnica di cottura del pesce, dolci ai massimi livelli.;1.3047189562170503
+https://www.yelp.it/biz/caff%C3%A8-borghese-bari;Qui si sceglie tra diversi tipi di caffè e metodi per fare il caffè (moka o filtro?);0.0
+https://www.yelp.it/biz/niva-cremeria-torino;Personale gentile e disponibile, cibo buono con porzioni abbondanti.;1.3635967777827946
+https://www.yelp.it/biz/torteria-berlicabarbis-torino;Ambiente accogliente, originale e al tempo stesso semplice.;1.1931471805599454
+https://www.yelp.it/biz/chiodi-latini-new-food-torino;Servizio competente cortese e rapido.;0.5246530721670275
+https://www.yelp.it/biz/marhaba-torino;locale piccolo, accogliente con couscous fantastico.;0.419722457733622
+https://www.yelp.it/biz/caff%C3%A8-del-borgo-medioevale-torino;Buon assortimento di primi e secondi preparazione quasi casalinga,molto buoni.;0.23317914318534555
+https://www.yelp.it/biz/panino-giusto-torino;Staff giovane, dinamico, cortese e sorridente... Unici punti deboli i prezzi.;0.47725887222397817
+https://www.yelp.it/biz/caffeteria-federico-ii-bari;Delicato semplice essenziale nel disegno.;1.5739592165010825
+https://www.yelp.it/biz/dolce-mania-di-lepori-raffaele-torino;Servizio veloce, personale giovane e cordiale.;0.47725887222397817
+https://www.yelp.it/biz/waxy-torino;Ottimo bar, personale gentile e disponibile, un Negroni fantastico!!;1.4911073785337716
+https://www.yelp.it/biz/l-hamburgueria-di-eataly-torino;Ambiente caldo, informale e confortevole.;0.5246530721670275
+https://www.yelp.it/biz/la-cuite-torino;Un prezzo onesto, per un pranzo onesto.;0.42328679513998635
+https://www.yelp.it/biz/volver-torino-2;Locale molto caratteristico, personale gentilissimo ma soprattutto ottima carne!;1.1931471805599454
+https://www.yelp.it/biz/palazzo-reale-di-torino-torino;Piccolo accogliente e perfettamente gestito.;0.42328679513998635
+https://www.yelp.it/biz/pizzeria-da-michele-torino;Ottima posizione, cibo molto buono con cucina tipica della tradizione piemontese, personale professionale e gentilissimo!;1.2274625621063806
+https://www.yelp.it/biz/caf%C3%A9-zero-in-condotta-torino;A cena la scelta è più ampia.;0.2
+https://www.yelp.it/biz/la-cantina-torino;Ambiente semplice e rustico, pulito.;0.5246530721670275
+https://www.yelp.it/biz/le-veronique-bari-2;Gli antipasti sono vari e abbondanti, il servizio puntuale e riservato.;1.3635967777827946
+https://www.yelp.it/biz/bar-cavour-55-bari;Arredamento estremamente minimal ma moderno di design, predomina il color bianco metallico, dai tavolini, alle sedie (abbastanza comode), agli arredi.;0.6817983888913973
+https://www.yelp.it/biz/la-caravella-torino-2;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/shodai-bari;Locale accogliente e personale decisamente professionale e attento.;1.1931471805599454
+https://www.yelp.it/biz/i-soliti-ignoti-torino;Un bel locale , spazioso e personale cordiale.;0.5218875824868201
+https://www.yelp.it/biz/mezzaluna-osteria-torino;all'interno trovi gente molto gentile.;0.2
+https://www.yelp.it/biz/caffe-madama-torino;Servizio veloce gentile ma attento!;0.5246530721670275
+https://www.yelp.it/biz/biancofiore-bari;Personale gentile e disponibile e ottime materie prime.;1.1931471805599454
+https://www.yelp.it/biz/indiano-shri-ganesh-torino;Ambiente accogliente e personale disponibile.;0.5246530721670275
+https://www.yelp.it/biz/il-dolcetto-bari;Cornetti vegani buonissimi,marmellate fantastiche e personale gentile e accogliente!;1.3958797346140275
+https://www.yelp.it/biz/filo-di-marianna-torino;Ambiente piccolo, carine e accogliente.;0.5246530721670275
+https://www.yelp.it/biz/du-cesari-torino;Ambiente semplice, amichevole e accogliente.;0.5246530721670275
+https://www.yelp.it/biz/black-jack-torino;Buona pizza... Cotta bene, locale da migliorare, non molto pulito e non carino, sicuramente non per una cena romantica!;0.5
+https://www.yelp.it/biz/roma-gi%C3%A0-talmone-torino;locale semplice e servizio alla buona;0.42328679513998635
+https://www.yelp.it/biz/curry-zone-turin;ristorante indiano semplice ma buono;0.5246530721670275
+https://www.yelp.it/biz/l-aglio-torino;Il cuoco giovane e bravo.;0.5643823935199818
+https://www.yelp.it/biz/eataly-bari;Personale giovane e molto celere, piatti ottimi e di elevata qualità, ottimo rapporto qualità prezzo!;0.8698126374780335
+https://www.yelp.it/biz/kyoto-torino;Personale gentilissimo e super disponibile!;0.5246530721670275
+https://www.yelp.it/biz/raspino-lorenzo-torino;Il personale sorridente e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/tio-chico-torino-2;Bel locale, spazioso e accogliente.;0.5965735902799727
+https://www.yelp.it/biz/pastificio-baretti-torino;I gestori sono gentilissimi e disponibili.;0.42328679513998635
+https://www.yelp.it/biz/gulp-bari;Selezione di birre ampia e varia, dalle estere alle nostrane artigianali.;1.3635967777827946
+https://www.yelp.it/biz/trattoria-piemontese-torino;I proprietari gentilissimi e disponibilissimi.;0.5643823935199818
+https://www.yelp.it/biz/la-cantinetta-torino;Bel locale, colorato e festoso.;0.5965735902799727
+https://www.yelp.it/biz/caff%C3%A8-clarissa-torino;Cameriera simpatica, intuitiva e professionale.;0.5246530721670275
+https://www.yelp.it/biz/prosepe-pasticceri-valenzano;Bel locale, accogliente e confortevole.;0.5965735902799727
+https://www.yelp.it/biz/st-martin-torino;Ingredienti buoni, freschi e abbondanti.;0.5246530721670275
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;locale curato e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/carlo-carni-torino;Servizio veloce e pizza buona.;0.42328679513998635
+https://www.yelp.it/biz/pasticceria-s-rita-di-mariano-a-torino;Personale molto cordiale e preparato.;0.42328679513998635
+https://www.yelp.it/biz/ristorante-g-torino;I camerieri disponibili e gentili.;0.5643823935199818
+https://www.yelp.it/biz/la-panzanella-torino;Il personale gentile e preparato.;0.5643823935199818
+https://www.yelp.it/biz/dellaferrera-torino;Qualità ottima e personale cortese.;0.5246530721670275
+https://www.yelp.it/biz/walima-torino;Ottima location elegante e confortevole.;0.5246530721670275
+https://www.yelp.it/biz/terra-di-mezzo-di-polignano-davide-bari;Il locale è molto carino, intimo e ben arredato.;0.24187816865142078
+https://www.yelp.it/biz/pizzeria-dual-torino;Posto elegante ma moderno, personale gentile e servizio veloce.;1.4911073785337716
+https://www.yelp.it/biz/the-queen-victoria-torino;Il personale é rapido e cortese.;0.5643823935199818
+https://www.yelp.it/biz/bar-telebari-bari;Gelato buonissimo con molte varietà di gusti.Personale molto gentile e cortese facile da raggiungere;0.9545177444479563
+https://www.yelp.it/biz/shot-pub-bari;I piatti erano freschi ed il servizio buono.;0.3386294361119891
+https://www.yelp.it/biz/pizzeria-tarantini-al-cancello-rotto-bari;Location bella ed elegante, specie il giardino esterno, ottimo in periodo primaverile.;1.1597501833040447
+https://www.yelp.it/biz/zheng-yang-torino-2;Personale gentile, veloce e simpatico.;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-alloca-di-pulcinella-torino;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/eataly-torino-torino;Supermercato alimentare di ottima qualità  a Torino, raffinato e chiccoso, da SLOW FOOD!;1.0605752716088404
+https://www.yelp.it/biz/briss-torino;Bella realtà  della periferia torinese, locale piccolo e curato, cucina di fantasia realizzata con buone materie prime e buoni risultati, carta dei vini molta ampia dai ricarichi onesti come il conto finale.;0.14359065621713243
+https://www.yelp.it/biz/da-nicola-torre-a-mare;Locale molto ampio e luminoso, personale molto gentile e affabile.;1.3047189562170503
+https://www.yelp.it/biz/pizzeria-la-piazzetta-bitritto;Oggi il Caffè Palazzo Reale è uno splendido posto per far colazione o bere una bevanda calda rivivendo l'atmosfera autentica dei tempi regali.;0.14037025653646418
+https://www.yelp.it/biz/trattoria-vineria-da-ale-torino;Interno carino e alla moda.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-pizzabon-bari;Vi offrono anche il tè: profumato, caldo e buono pure quello.;0.23317914318534555
+https://www.yelp.it/biz/le-putrelle-osteria-torino;Accoglienza professionale e operativa .;0.5643823935199818
+https://www.yelp.it/biz/cecchi-torino;Prezzi buoni e personale cortese.;1.5739592165010825
+https://www.yelp.it/biz/la-badessa-torino-2;Il locale bello e accogliente.;0.5643823935199818
+https://www.yelp.it/biz/algomas-caf%C3%A9-torino;Rilassante il dehors all'interno del cortile della cascina.;0.0
+https://www.yelp.it/biz/caffe-vittorio-veneto-torino;Genuino , artigianale e buonissimo!!!;0.6995374295560367
+https://www.yelp.it/biz/la-conca-torino-2;Ottimi e freschi anche i dolci.;0.42328679513998635
+https://www.yelp.it/biz/dickens-inn-bari;Classico stlile irlandese con quadri della guinness e luci soffuse,cibo ottimo,vastissima scelta di birre e personale gentile.;1.5397207708399179
+https://www.yelp.it/biz/le-mura-bari;Bravi i ragazzi che servono, attenti e gentili, sorridenti, rapidi finchè è possibile.;1.0151852615374746
+https://www.yelp.it/biz/angolo-del-parin-torino;Ottimo servizio, celere, professionale e cortesissimo.;0.9545177444479563
+https://www.yelp.it/biz/ristoranti-sardegna-torino;il personale cortese e professionale.;0.5643823935199818
+https://www.yelp.it/biz/ci%C3%A0nna-ci%C3%A0nne-bari;Ampio cortile interno, con grandi murales colorati e musica dal vivo.;0.32617973905426256
+https://www.yelp.it/biz/tatami-bari;Personale gentile e competente, ambiente raffinato e intimo.;1.5908629074132605
+https://www.yelp.it/biz/alberosole-bari;l'offerta del cibo è molto ampia con una raffinata innovazione della cucina territoriale.;0.6995374295560367
+https://www.yelp.it/biz/burgheria-torino;Tempi di attesa lunghissimi, personale disattento e disinteressato, al limite col poco cortese, fanno da contraltare a cibo buono, carne ottima, porzioni di giuste dimensioni.;1.3686406851910382
+https://www.yelp.it/biz/banco-di-sicilia-torino;Portate abbondanti e di qualità!;0.5643823935199818
+https://www.yelp.it/biz/kombu-torino;La pizza è davvero buona, tipica napoletana, con il bordo alto e morbido.;1.4496877291300558
+https://www.yelp.it/biz/ciclatera-sotto-il-mare-bari;Prezzi modici e personale simpatico e competente;1.4317766166719346
+https://www.yelp.it/biz/gaudenti-1971-torino;Clima tranquillo, personale cordiale e..;0.5246530721670275
+https://www.yelp.it/biz/spazio-la-stampa-torino;davvero simpatico e "alla buona"!!;0.5643823935199818
+https://www.yelp.it/biz/gelateria-mondello-torino;personale gentile e accogliente, gusti classici e gusti interessanti!;1.8638842231672146
+https://www.yelp.it/biz/mcdonalds-bari-3;Ho ordinato caffè in McCafe - è stato ottimo.;0.14285714285714285
+https://www.yelp.it/biz/morelli-antonio-modugno;ideale per una buona colazione o un pranzo veloce durante le ore di ufficio.;0.8994052665720471
+https://www.yelp.it/biz/la-monachella-torino;Pizza buonissima e locale caratteristico!;1.5739592165010825
+https://www.yelp.it/biz/bistrot-turin-torino;per una cena completa di antipasto, secondo, contorno, dolce, vino e acqua.Punti POSITIVI: ottima qualita  del riso in bianco e dell'acqua minerale in bottiglia di vetro.;0.5614810261458567
+https://www.yelp.it/biz/osteria-povrom-torino;personale cortese e servizio veloce.;0.5246530721670275
+https://www.yelp.it/biz/tokio-zen-torino;Un servizio simpatico e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/scannabue-torino;Personale premuroso e gentile .;0.5643823935199818
+https://www.yelp.it/biz/fiorio-gelateria-torino;Locale scadente e personale poco professionale.;0.419722457733622
+https://www.yelp.it/biz/mister-hu-torino;buon cibo e bel locale, animato ed allegro.;0.43490631873901675
+https://www.yelp.it/biz/ponte-dora-torino;Gentile e solerte il personale.;0.5643823935199818
+https://www.yelp.it/biz/pizza-rama-di-frisone-andrea-modugno;Cameriera rapidissima, disponibile e gentilissima.;0.5246530721670275
+https://www.yelp.it/biz/cera-una-volta-torino;Personale competente gentile e professionale.;1.5739592165010825
+https://www.yelp.it/biz/pai-bikery-torino;servizio veloce personale cortese e buon cibo!prezzo abbordabile!!;1.3047189562170503
+https://www.yelp.it/biz/cantina-babette-torino;Menù invitante, personale gentile, servizio veloce... cibo buonissimo, portate abbondanti... qualità prezzo ottima!;1.6581608301352964
+https://www.yelp.it/biz/el-pollo-loco-torino;personale gentile e veloce nel servizio,;0.5246530721670275
+https://www.yelp.it/biz/la-reseda-torino;Il personale gentile e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-pieros-torino;Gentilissimo ed attento il personale!;0.5643823935199818
+https://www.yelp.it/biz/cinese-nanchino-torino;Personale gentile e simpatico, buona qualità del cibo, per me è si!;0.23317914318534555
+https://www.yelp.it/biz/boheme-torino;Personale gentile, attento e disponibile.;0.5246530721670275
+https://www.yelp.it/biz/rur%C3%A0l-torino;Personale competente, disponibile e simpatico.;0.5246530721670275
+https://www.yelp.it/biz/gelateria-monginevro-smaldone-raffaele-torino;Il personale è cordiale, sorridente e disponibile.;0.419722457733622
+https://www.yelp.it/biz/kirkuk-kaff%C3%A8-torino-2;camerieri simpatici e servizio perfetto.;0.42328679513998635
+https://www.yelp.it/biz/stazione-servizio-erg-bari;Locale accogliente , informale senza fronzoli, cucina locale e mediterranea .;1.3635967777827946
+https://www.yelp.it/biz/hafa-caf%C3%A9-torino-2;Ottimo per un pranzo veloce e soddisfacente.;0.5246530721670275
+https://www.yelp.it/biz/acab-torino;pizze ottime e buona varietà.;0.42328679513998635
+https://www.yelp.it/biz/busters-coffee-torino;Personale gentile disponibile e sociale.;0.5246530721670275
+https://www.yelp.it/biz/sicomoro-torino;Eccellente il servizio, personale gentile e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/rivareno-torino;Ottima qualità, buone materie prime, gusti curiosi e originali, tutti da provare.;1.0437751649736402
+https://www.yelp.it/biz/roar-roads-torino;Eccellente... le ragazze disponibili, gentili e sorridenti.;0.47725887222397817
+https://www.yelp.it/biz/ristrorante-la-chicca-torino-2;Ottimo cibo e personale efficiente e simpatico.;0.47725887222397817
+https://www.yelp.it/biz/ottimo-torino;Buonissimo, golosissimo, creativo e genuino.;1.1931471805599454
+https://www.yelp.it/biz/lunarossa-torino;Pausa pranzo veloce e funzionale.;0.42328679513998635
+https://www.yelp.it/biz/pizzeri-lapislazzulo-torino;Personale gentilissimo e super disponibile!;0.5246530721670275
+https://www.yelp.it/biz/a-picciridda-torino;Cucina squisita, menu vario e completo e alimenti di ottima qualità!;1.1931471805599454
+https://www.yelp.it/biz/le-tre-lanterne-bari;Il servizio cortese e attento.;1.1287647870399635
+https://www.yelp.it/biz/sara-caffetteria-torino;ottimo posto per una colazione speciale;0.42328679513998635
+https://www.yelp.it/biz/caff%C3%A8-e-vini-torino;Una location elegante ma informale.;0.5643823935199818
+https://www.yelp.it/biz/cinese-du-cheng-torino-2;Ristorante elegante, personale accogliente e disponibile.;1.4317766166719346
+https://www.yelp.it/biz/luce-e-gas-torino-2;Ottimo, accogliente, piacevole e conviviale.;0.5965735902799727
+https://www.yelp.it/biz/ichiban-torino;Il personale freddo ma efficiente.;0.5643823935199818
+https://www.yelp.it/biz/la-magnolia-torino-3;Servizio super gentile e velocissimo.;0.5246530721670275
+https://www.yelp.it/biz/taco-bang-torino;La pizza è stile napoletano doc: spessa e morbida.;0.5996035110480314
+https://www.yelp.it/biz/factory-bari;Personale cortese, simpatico e disponibile, ottimi panini e prezzi accessibili.;1.3047189562170503
+https://www.yelp.it/biz/shamrock-inn-torino;Locale ampio e servizio efficiente e gentile.;0.419722457733622
+https://www.yelp.it/biz/moka-torino-2;Personale super attento e cortese.;0.5246530721670275
+https://www.yelp.it/biz/shaka-brah-torino;Carta dei vini adeguata, personale gentile, locale confortevole e diverso dai soliti locali di San Salvario.;1.1632331121783561
+https://www.yelp.it/biz/pizzeria-da-candido-torino;La struttura è a conduzione familiare e sono davvero molto molto professionale e attento e cordiale.;0.6508075530326974
+https://www.yelp.it/biz/il-cortiletto-torino-2;Il cibo ottimo e semplice.;0.5643823935199818
+https://www.yelp.it/biz/il-caffe-di-roma-torino;Mi piace perchè si sentono gli ingredienti a pezzettini, qualità  che poche gelaterie conservano ai tempi d oggi.;0.0
+https://www.yelp.it/biz/sale-in-zucca-torino;Tutto buono in un ambiente tranquillo e rilassante.;0.3386294361119891
+https://www.yelp.it/biz/la-maison-de-marie-torino;personale molto disponibile e cortese.;1.5739592165010825
+https://www.yelp.it/biz/dorian-gray-torino;Bella l'atmosfera familiare e amichevole.;0.5246530721670275
+https://www.yelp.it/biz/le-lupin-dei-f-lli-zambetta-bari;Adatto sia per studenti che per gli impiegati per un pranzo veloce.;0.5643823935199818
+https://www.yelp.it/biz/tisaneria-della-consolata-torino;Le torte all'antica, semplici e caserecce.;0.5246530721670275
+https://www.yelp.it/biz/nuova-dezzuto-torino;Posto molto bello ed elegante.;0.42328679513998635
+https://www.yelp.it/biz/pizza-ad-hoc-torino;servizio veloce , cortese e simpatico!;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-amalfi-torino;Bel locale e personale gentile.;0.5965735902799727
+https://www.yelp.it/biz/anema-e-cozze-torino;Il personale è simpatico e premuroso.;0.42328679513998635
+https://www.yelp.it/biz/arigato-torino;La pizza era perfetto con salsa pieno zeppo fresca e crosta croccante nonché condimenti abbondanti.;1.268981576921843
+https://www.yelp.it/biz/caff%C3%A8-liber-torino;Personale giovane e molto cortese.;0.42328679513998635
+https://www.yelp.it/biz/habanero-torino-2;Eccellente il servizio, personale gentile e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/la-madia-torino;Professionale, attenta, vivace e misurata.;0.5965735902799727
+https://www.yelp.it/biz/eos-torino;Il personale é accogliente e premuroso.;0.5643823935199818
+https://www.yelp.it/biz/re-sole-torino-2;personale molto gentile e accogliente.;1.5739592165010825
+https://www.yelp.it/biz/il-caciucco-torino;Locale pulito , curato ed elegante .;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;Il locale molto semplice e pulito.;0.42328679513998635
+https://www.yelp.it/biz/bunet-torino;Stanze spaziose, personale gentile, parcheggio comodo.;1.5908629074132605
+https://www.yelp.it/biz/il-buco-torino;e i nuovi e raffinati arredi .;0.5643823935199818
+https://www.yelp.it/biz/jb-home-torino;Disponibile e cortese il personale;0.5643823935199818
+https://www.yelp.it/biz/birreria-la-divina-commedia-torino;personale sempre disponibile e simpatico.;0.5246530721670275
+https://www.yelp.it/biz/gramsci-torino-2;Lo staff gentile e cordiale;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-la-sacrestia-torino;Abbiamo avuto anche un bello sconto per un semplice malinteso.;0.2998017555240157
+https://www.yelp.it/biz/winston-churchill-new-pub-torino;Ampio dehor per l'estate con bancone annesso.;0.3386294361119891
+https://www.yelp.it/biz/la-pagoda-di-hu-lia-meng-torino;Bel locale curato e pulito.;0.5965735902799727
+https://www.yelp.it/biz/piola-cianci-torino;Antipasto abbondante e discreto .;0.5643823935199818
+https://www.yelp.it/biz/caffe-lumiere-torino;Servizio veloce e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/la-fila-torino;ambiente estremamente informale e piacevole, cocktail buoni e freschi per tutti i gusti;1.0605752716088404
+https://www.yelp.it/biz/al-grassi-torino-2;Personale simpatico e molto disponibile.;0.42328679513998635
+https://www.yelp.it/biz/spada-reale-torino;Servizio eccellente e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/teriyaky-torino;Il locale e pulito e carino.;0.5643823935199818
+https://www.yelp.it/biz/nyc-caffe-torino;la sala è piccola ma accogliente.;0.42328679513998635
+https://www.yelp.it/biz/exki-8-gallery-torino-2;Molto gentile Il cassiera, molto scostante e poco simpatica la barista.;0.5246530721670275
+https://www.yelp.it/biz/la-gola-torino;Molto adatto per una cenetta romantica;0.42328679513998635
+https://www.yelp.it/biz/cinese-mei-li-hua-torino;veloce e la presentazione curata.;0.5643823935199818
+https://www.yelp.it/biz/l-ancora-torino-3;Servizio cortese e attento, personale molto simpatico e discreto.;0.3727768446334429
+https://www.yelp.it/biz/l-ancora-torino-2;Il personale gentilissimo e impeccabile.;0.5643823935199818
+https://www.yelp.it/biz/biancofarina-bari;Personale super gentile e disponibile.;1.5739592165010825
+https://www.yelp.it/biz/pizzeria-osteria-dal-vassallo-bari;Qualità sempre elevata, menù vario, porzioni abbondanti, atmosfera piacevole, prezzi corretti.;1.1861081420155002
+https://www.yelp.it/biz/osteria-al-gambero-bari;personale super accogliente e simpatico!!!;1.789720770839918
+https://www.yelp.it/biz/mr-rooster-torino-3;Semplice , tradizionale , buono .;0.6995374295560367
+https://www.yelp.it/biz/pasticceria-venier-torino;Personale super attento e cortese.;0.5246530721670275
+https://www.yelp.it/biz/cornetti-night-torino;Il locale bello e accogliente.;0.5643823935199818
+https://www.yelp.it/biz/kido-ism-torino;Il servizio attento e cortese.;0.5643823935199818
+https://www.yelp.it/biz/zonk-di-brigada-igor-torino;Bellissima serata e locale super consigliato.;0.419722457733622
+https://www.yelp.it/biz/la-prima-da-moreno-torino;L'atmosfera è straordinaria, molto romantica, ambiente elegante, menu sofisticato ed abbondante ed ottimo rapporto qualità prezzo.;0.9970569532957338
+https://www.yelp.it/biz/pepe-torino;Ottima la qualità delle portate, mai banali, servizio professionale e attento.;1.1931471805599454
+https://www.yelp.it/biz/matrioska-torino;In aggiunta segnalo la presenza di piatti prevalentemente di carne, pochi di essi fruibili a vegetariani.;0.3386294361119891
+https://www.yelp.it/biz/gennaro-esposito-torino;Conduzione familiare ma ben coordinata.;0.42328679513998635
+https://www.yelp.it/biz/baratti-e-milano-torino-2;Il servizio molto buono, camerieri disponibili e professionali.;1.049306144334055
+https://www.yelp.it/biz/il-porticciolo-torino;Il personale accogliente e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/settes%C3%AC-torino-2;Il personale è gentile e giovane, i prezzi non eccessivi, calcolando la posizione.;0.6995374295560367
+https://www.yelp.it/biz/birreria-don-giovanni-torino;Prezzi moderati e locale accogliente.;0.5246530721670275
+https://www.yelp.it/biz/quattro-soldi-torino;Location semplice ma caratteristico e accogliente.;0.5246530721670275
+https://www.yelp.it/biz/farini-da-lia-torino;Personale gentile disponibile e professionale.....;0.5246530721670275
+https://www.yelp.it/biz/villa-somis-torino;Posizione incantevole, interni curati e raffinati, servizio ineccepibile.;1.3635967777827946
+https://www.yelp.it/biz/la-svolta-torino;Il personale disponibile e gentile.;0.5643823935199818
+https://www.yelp.it/biz/focacceria-santagostino-torino-2;Personale gentile, simpatico e disponibile.;0.5246530721670275
+https://www.yelp.it/biz/giapponese-ohashi-torino;Locale pulito e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/dai-saletta-torino-2;Gestione famigliare accogliente e cordiale!;0.5246530721670275
+https://www.yelp.it/biz/vinolento-torino;Cibo genuino con varietà regionali.;0.42328679513998635
+https://www.yelp.it/biz/vale-un-per%C3%B9-torino-2;Pesce ottimo, misto crudi eccellente.;1.4317766166719346
+https://www.yelp.it/biz/cafe-alberto-torino;Stile minimalista, ampio e chiaro.;0.5246530721670275
+https://www.yelp.it/biz/palazzo-barolo-torino;Locale famigliare e accogliente, cibo gustoso e vario che si adatta agli amanti della buona cucina tradizionale e nazionale.;1.5397207708399179
+https://www.yelp.it/biz/exki-pietro-micca-torino;Materie prime di altissima qualita' e gusti particolari.;1.049306144334055
+https://www.yelp.it/biz/lucky-nugget-saloon-torino;simpatico e gentile il personale.;0.5643823935199818
+https://www.yelp.it/biz/pizzificio-torino;Servizio informale ma attento e curato.;0.42328679513998635
+https://www.yelp.it/biz/al-gatto-nero-torino;Servizio veloce, personale gentile e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/la-gustosa-torino;Personale simpatico disponibile e cordiale.;0.5246530721670275
+https://www.yelp.it/biz/le-grand-tabu-bari;Il personale e’ cordiale, discreto.;0.8465735902799727
+https://www.yelp.it/biz/murphys-torino;Locale tipico, personale gentile e disponibile.;1.9090354888959127
+https://www.yelp.it/biz/caffe-del-centro-torino;La gelateria è piccola, il personale poco cordiale.;0.2821911967599909
+https://www.yelp.it/biz/pizza-pistrocchio-torino;Pizze super personalizzabili e ottime.;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-petit-roi-bitritto;Bel locale,ottima antipasteria calda e fredda, pizza buona ,bel ambiente ,per una ricorrenza e da provare,personale buono ed esperto.;1.5412063767305546
+https://www.yelp.it/biz/pizzeria-pizzemporio-torino;Il gelato genuino e squisito.;0.5643823935199818
+https://www.yelp.it/biz/il-peccato-torino;Il personale cordiale, gentile e disponibile.;0.5246530721670275
+https://www.yelp.it/biz/basilica-di-san-nicola-bari;Interno carino e alla moda.;0.5643823935199818
+https://www.yelp.it/biz/ristorante-lo-scoglio-da-vito-bari-2;Una menzione speciale per gli spaghetti allo Scoglio, semplici e gustosissimi.;1.049306144334055
+https://www.yelp.it/biz/la-campana-torino-2;Il personale disponibile e cortese.;0.5643823935199818
+https://www.yelp.it/biz/a-la-merenda-sinoira-torino;Antipasti abbondanti, ma scadenti come qualità.;0.42328679513998635
+https://www.yelp.it/biz/antica-gelateria-gentile-bari;Assolutamente da provare le granite di frutta fresca !!;0.2
+https://www.yelp.it/biz/focacceria-santagostino-torino;Ambiente rustico, semplice e personale adorabile!;0.47725887222397817
+https://www.yelp.it/biz/pizzeria-vecchio-forno-garibaldi-torino;Prezzo uguale a una pizza normale.;0.42328679513998635
+https://www.yelp.it/biz/pistacchio-torino;Ottimo il servizio, rapidi e cordiali.;0.5246530721670275
+https://www.yelp.it/biz/rossosapore-torino;Camerieri cortesi, solari e celeri.;0.5246530721670275
+https://www.yelp.it/biz/la-braciola-bari;Tutti bravi ragazzi buona famiglia e la pizza al tegamino e  fin troppo buona e i prezzi nella norma , ottima la farinata anche se i dessert scarseggiano ma meglio cosi;0.5302876358044202
+https://www.yelp.it/biz/trattoria-pizzeria-mare-e-monti-torino;I titolari attenti e cortesi.;0.5643823935199818
+https://www.yelp.it/biz/cafe-tabac-torino;Un locale semplice e tranquillo.;1.1287647870399635
+https://www.yelp.it/biz/alla-portata-torino;Personale simpatico disponibile e cordiale.;0.5246530721670275
+https://www.yelp.it/biz/conte-verde-torino-2;Le porzioni sono abbondanti e di buone qualità, personale cordiale e disponibile.;1.1931471805599454
+https://www.yelp.it/biz/baccanale-torino;caffè carino nel centro della città .;0.0
+https://www.yelp.it/biz/girarrosti-santa-rita-torino;Personale gentilissimo, velocissimo e professionale.;0.5246530721670275
+https://www.yelp.it/biz/la-vecchia-europa-torino;Adatta per una cena romantica.;0.5643823935199818
+https://www.yelp.it/biz/babayaga-bari;Buonissimo il gelato te lo servono in coppa di vetro al tavolino è davvero cremoso, buono,gustoso, provatelo con aggiunta di Nutella.;0.6139853911609648
+https://www.yelp.it/biz/opera-bari;Servizio puntuale e attento, brava Maria la proprietaria professionale e presente.;1.6308986952713127
+https://www.yelp.it/biz/dublin-house-bari;Bel locale ormai storico in città con delle birre molto buone e una discreta cucina, con menù varo ed ampio.;1.586259311029784
+https://www.yelp.it/biz/sushi-sound-torino;Servizio veloce ed efficiente .;0.5643823935199818
+https://www.yelp.it/biz/spaghetteria-70cento-bari;Ottimo posto, ottimo cibo, tanta pazienza, ottimo il personale(la ragazza è fin troppo cortese e comprensiva) e gran finale... Ottimo anche il prezzo.;1.4209887010383198
+https://www.yelp.it/biz/master-sandwich-torino;Prodotti di freschi e buoni!;0.5643823935199818
+https://www.yelp.it/biz/faro-bar-torino;Gentili e ospitali oltre che veloci.;2.09861228866811
+https://www.yelp.it/biz/las-vegas-torre-a-mare;Bel locale, la signora alla cassa è una bella donna gentile e cortese.;1.1597501833040447
+https://www.yelp.it/biz/horas-kebab-torino;ideale per gli amanti delle pizze basse.;0.5246530721670275
+https://www.yelp.it/biz/gelateria-piccinni-bari;Il Gelato per eccellenza, genuino fresco e gustoso, dal sapore unico.;1.3635967777827946
+https://www.yelp.it/biz/pizzeria-continental-pizzorante-bari-2;Pizzeria in pieno centro, locale spazioso ed accogliente, personale gentile, ampia scelta di antipasti e pizze strepitose.;1.4212807115445396
+https://www.yelp.it/biz/tiella-bari;Posto caratteristico, primi molto buoni, gustosa e grande la pizza, ottimi i panzerotti.;1.3047189562170503
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;la location carina e particolare.;0.5643823935199818
+https://www.yelp.it/biz/home-burger-palese;Gentile Luca Z.,  Grazie per il feedback positivo e dettagliato.;0.8994052665720471
+https://www.yelp.it/biz/ristoranti-alba-torino;I proprietari molto gentili e ospitali.;0.42328679513998635
+https://www.yelp.it/biz/fratelli-la-cozza-torino-2;Personale super gentile e all altezza!;0.42328679513998635
+https://www.yelp.it/biz/sbrodolone-torino;Gli aperitivi abbondanti e sfiziosi.;0.5643823935199818
+https://www.yelp.it/biz/la-mansa-del-re-torino;Parcheggio relativamente facilmente reperibile in zona.Ambiente caldo e accogliente curato e luminoso in modo delicato con un sottofondo musicale a volume finalmente giusto.;1.3472556744849282
+https://www.yelp.it/biz/juice-torino;Il servizio cordiale e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/la-badessa-torino;Il personale gentile e premuroso.;0.5643823935199818
+https://www.yelp.it/biz/cornetti-night-torino-2;Locale piccolo ed accogliente, personale cortese.;1.4317766166719346
+https://www.yelp.it/biz/trattoria-toscana-torino;Il servizio é veloce ed efficiente.;0.5643823935199818
+https://www.yelp.it/biz/max-caff%C3%A9-bari;A conduzione familiare, il personale è gentile e disponibile.;0.34976871477801835
+https://www.yelp.it/biz/la-via-del-sale-torino;Titolare e personale simpatici e gentili.;0.5246530721670275
+https://www.yelp.it/biz/mexico-70-torino;Per una serata molto tarda, un ottimo ristorante.;0.3386294361119891
+https://www.yelp.it/biz/panperfocaccia-torino-2;IL personale gentile e disponibile , qualità/prezzo giusto.;0.47725887222397817
+https://www.yelp.it/biz/rossopomodoro-torino;Il personale è super disponibile, simpatico, ed efficiente.;1.1931471805599454
+https://www.yelp.it/biz/younger-pub-bari;Cibo buono e abbondante, birra fresca e con ampia scelta.;1.3635967777827946
+https://www.yelp.it/biz/pizzeria-baraonda-bari;Personale cortese e ambiente semplice ma accogliente!;1.259167373200866
+https://www.yelp.it/biz/monte-dei-cappuccini-torino;Servizio accogliente e personale gentile, simpatico e disponibile!;0.43490631873901675
+https://www.yelp.it/biz/palazzo-madama-torino;Lo staff simpatico e qualificato.;0.5643823935199818
+https://www.yelp.it/biz/ristorante-enoteca-parlap%C3%A0-torino-2;locale piccolo ed accogliente, personale cortese e gentilissimo, cioccolata e pasticcini ottimi, posizione ottima;1.6068600813028981
+https://www.yelp.it/biz/l-osteria-di-pierantonio-torino;Efficiente e gentile il servizio.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-la-tana-bari;Ampia e generosa scelta dei condimenti, innovativi e sempre molto gustosi.;1.1931471805599454
+https://www.yelp.it/biz/momo-bari;Il personale cortese e professionale.;0.5643823935199818
+https://www.yelp.it/biz/circolo-dei-lettori-torino;Servizio veloce, preciso e cortese.;0.5246530721670275
+https://www.yelp.it/biz/mara-dei-boschi-torino;Servizio cortese, sorridente e celere.;0.5246530721670275
+https://www.yelp.it/biz/cantine-risso-torino;Il servizio è competente e cordiale, il proprietario molto gentile e disponibile.;1.1931471805599454
+https://www.yelp.it/biz/mc-donalds-torino-2;Sugli addetti nemmeno personale cordiale.;0.42328679513998635
+https://www.yelp.it/biz/bord%C3%B2-torino;Và  bne per la colazione italiana tradizionale, con cappuccio, caffè, brioches ecc...Aspetto che il posto migliori visto che le potenzialità  le ha.;0.13116326804175688
+https://www.yelp.it/biz/la-granseola-torino;Il servizio veloce e cortese.;0.5643823935199818
+https://www.yelp.it/biz/pasticceria-beatrice-2008-torino;Servizio rapido e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/hagakure-bari;Molto grande all'interno, servizio gentile e veloce.;0.34976871477801835
+https://www.yelp.it/biz/quelli-che-ben-pensano-2-torino;Professionale e cortese il personale.;0.5643823935199818
+https://www.yelp.it/biz/kipling-torino;Locale pulito ed elegante, personale molto cortese, cibo delizioso.;1.3047189562170503
+https://www.yelp.it/biz/le-plus-bon-bari;Servizio a domicilio gratuito, rapido e efficiente (la pizza arriva calda e intatta!);1.4496877291300558
+https://www.yelp.it/biz/mc-donalds-torino-5;Personale pronto, cordiale e discreto.;0.5246530721670275
+https://www.yelp.it/biz/mc-donalds-torino-4;chef professionale e disponibile .;0.5643823935199818
+https://www.yelp.it/biz/la-voglia-matta-torino-6;Grandissima scoperta e grandissimi gelati.;0.5246530721670275
+https://www.yelp.it/biz/gelatiamo-torino;Diverso dal solito aperitivo con patatine e arachidi!;0.3386294361119891
+https://www.yelp.it/biz/al-tegamino-moncalieri;buona la pizza ma cara!;0.5643823935199818
+https://www.yelp.it/biz/montecarlo-torino;cucina classica, genuina e onesta.;0.5246530721670275
+https://www.yelp.it/biz/mamma-licia-torino;ambiente caldo e colorato, personale cortese.;0.47725887222397817
+https://www.yelp.it/biz/borgo-dora-torino;Locale molto curato e raffinato!;0.42328679513998635
+https://www.yelp.it/biz/la-limonaia-torino;Personale competente, cortese ed attento.;0.5246530721670275
+https://www.yelp.it/biz/bar-il-mottino-torino;Servizio informale ma preciso .;0.5643823935199818
+https://www.yelp.it/biz/piazza-vittorio-veneto-torino;Una delle mie pizzerie preferite!;0.25
+https://www.yelp.it/biz/gelateria-piu-di-un-gelato-torino;personale molto disponibile e cortese.;0.5246530721670275
+https://www.yelp.it/biz/augusto-torino;Buono ed economico, con personale cortese.;1.5739592165010825
+https://www.yelp.it/biz/la-mela-stregata-torino;Il personale é attento e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/a6-sciamadda-torino;veloce e buono di qualità.;0.5643823935199818
+https://www.yelp.it/biz/pizzerie-charlie-chaplin-torino;Il personale cortese e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/da-ciro-torino;Cucina cinese di ottima qualità , con piatti sfiziosi e originali.;0.34089919444569866
+https://www.yelp.it/biz/olsen-di-caldi-cinzia-torino;Locale piccolo ma accogliente e per nulla asfissiante con un bel arredo e buona musica di sottofondo.;1.3047189562170503
+https://www.yelp.it/biz/el-centenario-torino-2;Locale molto caratteristico, personale super cordiale, cibo strepitoso.;1.3047189562170503
+https://www.yelp.it/biz/mojiteria-bari-2;Pizza al tegamino con le melanzane Pizza al tegamino con le melanzane Farinata al piatto Farinata al piatto La farinata!;0.0
+https://www.yelp.it/biz/pastis-torino;molto gentili e rapidi nel servizio.;0.42328679513998635
+https://www.yelp.it/biz/hamp-bari;Lo staff gentile e friendly.;1.1287647870399635
+https://www.yelp.it/biz/trattoria-mombercelli-di-antico-elena-torino;Locale discreto e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/gelateria-nicola-torino;Il personale è davvero molto cortese e disponibile, oltre ad essere molto attento alle norme igieniche per garantire l'assenza totale del glutine.;0.1739625274956067
+https://www.yelp.it/biz/the-stuart-pub-bari;Educazione, servizio efficiente, ottime birre.;0.6772588722239782
+https://www.yelp.it/biz/pizzeria-au-lapin-agile-torino-2;Disponibile e cortese il personale;0.5643823935199818
+https://www.yelp.it/biz/bacco-bari;L'ambiente è molto elegante , la carta dei vini è di una ottima selezione di vini locali e nazionali .;0.7954314537066303
+https://www.yelp.it/biz/new-mexico-torino-2;buona pasticceria, prezzi contenuti, materiale di buona qualità ottimoi i mignon al cioccolato personale gentile da provare;1.1330423650212744
+https://www.yelp.it/biz/guido-gobino-torino-3;Locale molto piccolo ma accogliente.;0.42328679513998635
+https://www.yelp.it/biz/vanilla-torino;Titolare alla mano e simpatico!;1.1287647870399635
+https://www.yelp.it/biz/piano-b-torino;Personale gentile, disponibile ed efficiente.;0.5246530721670275
+https://www.yelp.it/biz/happy-days-bar-torino;Accoglienza buona locale gradevole personale gentile ed efficiente.;1.9941139065914677
+https://www.yelp.it/biz/sushi-j-torino;Posto curato e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/quanto-basta-bari;Servizio cortese e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/tre-da-tre-torino;Le pizze ottime e sfiziose.;0.5643823935199818
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;Davvero bravi, simpatici e disponibili.;0.5246530721670275
+https://www.yelp.it/biz/mar-rosso-torino-2;Il personale cortese e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/a-vucciria-torino;Cucina ottima e personale cortese.;0.5246530721670275
+https://www.yelp.it/biz/ghiaccio-bollente-bari-santo-spirito;Prezzi molto accessibili, caffè ottimo e dolciumi veramente buoni.;0.7869796082505413
+https://www.yelp.it/biz/stoppani-gaspare-bari-2;Produce anche dolci e cioccolata.;0.25
+https://www.yelp.it/biz/simini-giuliano-torino;Una serata preziosa e particolare.;0.5643823935199818
+https://www.yelp.it/biz/e-pronto-torino-2;Il personale gentile e simpatico .;0.5643823935199818
+https://www.yelp.it/biz/strawberry-torino;Buon posto per una colazione veloce e buona!;0.419722457733622
+https://www.yelp.it/biz/sicily-bar-torino;Un classico, e tale rimane.;0.5643823935199818
+https://www.yelp.it/biz/armeria-reale-torino;Il personale professionale e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/che-bolle-in-pentola-torino;Locale piccolo, carino e personale gentile.;0.47725887222397817
+https://www.yelp.it/biz/distilleria-quaglia-torino;Cucina piemontese corretta, semplice .;0.5246530721670275
+https://www.yelp.it/biz/alcool-torino-2;Piatti veramente buonissimi e freschi.;0.42328679513998635
+https://www.yelp.it/biz/brasserie-bordeaux-torino-2;Ambiente caldo e accogliente, personale cortese e professionale, prezzi onesti per l'ottima qualità delle materie prime e dei piatti.;1.4212807115445396
+https://www.yelp.it/biz/caff%C3%A8-latino-bari-2;Personale molto attento e gentile.;0.42328679513998635
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/ortigia-bistrot-torino;Locale carino e accogliente, personale molto gentile e disponibile.;1.3635967777827946
+https://www.yelp.it/biz/al-111-bari-2;Personale competente gentile e professionale.;1.5739592165010825
+https://www.yelp.it/biz/doubletree-torino;Buona e grande la doccia.;0.5643823935199818
+https://www.yelp.it/biz/galleria-sabauda-torino;Locale raffinato, personale cortese e cibo squisito.;1.5908629074132605
+https://www.yelp.it/biz/mazzini-38-torino;Il servizio veloce e gentile.;0.5643823935199818
+https://www.yelp.it/biz/sweet-lab-torino;Ottimo per un pranzo o una cena con amici, a basso costo e una buona qualità .;0.26232653608351375
+https://www.yelp.it/biz/al-pescatore-bari;il posto giusto per vivere Bari vecchia mangiando pesce fresco e di ottima qualità.;0.9545177444479563
+https://www.yelp.it/biz/il-padellino-torino;Servizio veloce e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/xo-caf%C3%A8-torino-3;Il personale accogliente ed efficiente.;0.5643823935199818
+https://www.yelp.it/biz/caff%C3%A8-savoia-torino-3;Servizio pronto e gentile, da ristorante più che da Pub.;0.24187816865142078
+https://www.yelp.it/biz/sushitao-bari;Materie prime fresche e di buona qualità.;1.259167373200866
+https://www.yelp.it/biz/trattoria-valenza-torino;Cibo buonissimo, atmosfera accogliente, proprietari gentili e simpatici.;1.3635967777827946
+https://www.yelp.it/biz/vo-torino;Cena sopraffina in un ambiente caldo e accogliente.;1.259167373200866
+https://www.yelp.it/biz/pizza-speedy-torino;Servizio veloce, personale simpatico e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/il-punto-verde-torino-2;Il locale è carino, piccolo ma tranquillo.;0.419722457733622
+https://www.yelp.it/biz/il-ristoro-dei-mercanti-torino;buoni ingredienti, servizio veloce e proprietari cortesi e disponibili.;1.3635967777827946
+https://www.yelp.it/biz/gasperini-bari;Locale spazioso a pochi passi dalla città vecchia dove si possono gustare una grande varietà di gelati buonissimi.;0.6817983888913973
+https://www.yelp.it/biz/freemadam-torino;Carino e accogliente personale simpatico.;0.5246530721670275
+https://www.yelp.it/biz/burgheria-torino-2;Il locale è pulito ed accogliente.;0.42328679513998635
+https://www.yelp.it/biz/la-cabane-torino-2;personale cortese e servizio veloce.;1.5739592165010825
+https://www.yelp.it/biz/toscano-torino-3;Tutto buono e personale simpatico;0.5246530721670275
+https://www.yelp.it/biz/rizzelli-torino;Gentilissimi e cordiali... Consiglio a tutti di provarlo almeno una volta!;0.5643823935199818
+https://www.yelp.it/biz/caff%C3%A8-vergnano-torino-2;Il titolare disponibile e gentile.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-enzo-bari;locale molto accogliente... personale molto simpatico, gentile e professionale!;1.3958797346140275
+https://www.yelp.it/biz/gelateria-delle-alpi-torino;Il locale è sempre pieno ma il personale e' cortese e le varie paste dolci sono fantastiche e sempre fresche.;0.9319421115836073
+https://www.yelp.it/biz/huntsman-pub-torino;Bellissimo locale, molto accogliente, personale gentilissimo, festa di San Patrizio stupenda.;1.3958797346140275
+https://www.yelp.it/biz/pizza-speedy-torino-2;Bravi e simpatici i gestori .;0.5643823935199818
+https://www.yelp.it/biz/freevolo-torino;Luogo favorevole e personale accogliente.;0.5246530721670275
+https://www.yelp.it/biz/pizza-speedy-torino-3;Ambiente ampio ma angusto e affollato.;0.5246530721670275
+https://www.yelp.it/biz/miagola-cafe-torino;Pulito, personale gentile, servizio veloce nonostante i numerosi ospiti.;1.4911073785337716
+https://www.yelp.it/biz/borgo-antico-bari;Location molto carina e accogliente, servizio eccezionale e puntuale, menù vario e originale.;1.6750556815368332
+https://www.yelp.it/biz/dolce-basilico-torino;Ottima pasta, semplice, economica e genuina.;0.47725887222397817
+https://www.yelp.it/biz/la-piadineria-torino;Gelato ottimo e personale molto cortese, da provare.;0.34976871477801835
+https://www.yelp.it/biz/coox-torino;Discreti gli antipasti della tradizione, gustosi i fiori di zucca ripieni, primi così così, buon roast-beef... Dolci buoni.;1.1964683439548807
+https://www.yelp.it/biz/colorado-caffe-bari;Il Colorado caffè è il posto ideale per trascorrere dei piacevoli momenti in completo relax, gustando un ottimo caffè.;0.7342444188061202
+https://www.yelp.it/biz/il-gelato-amico-torino;Classico stlile irlandese con quadri della guinness e luci soffuse,cibo ottimo,vastissima scelta di birre e personale gentile.;1.5397207708399179
+https://www.yelp.it/biz/cult-bari;È anche possibile mangiare alcuni antipasti o hamburger.;0.14285714285714285
+https://www.yelp.it/biz/al-savoia-bari;Caffè eccellente, ambiente curatissimo e raffinatissimo, prezzi un pò alti.;0.894860385419959
+https://www.yelp.it/biz/pasta-mon-amour-torino;Personale gentile, disponibile e amichevole!;0.5246530721670275
+https://www.yelp.it/biz/beaubar-torino;Personale pronto e gentile .;0.5643823935199818
+https://www.yelp.it/biz/messicano-mamasita-torino;Davvero un buon ristorante: cucina ricercata e di qualità, personale cortese e disponibile, ambiente gradevole!;1.1861081420155002
+https://www.yelp.it/biz/jumping-jester-torino;Locale ideale per una piacevole serata con amici, arredamento curato e pulito, personale gentile e menù con piatti più buoni dei soliti pub a prezzi ottimi.;1.4209887010383198
+https://www.yelp.it/biz/emporio-gastronomico-torino;Locale accogliente e carino .;0.5643823935199818
+https://www.yelp.it/biz/la-maison-di-chez-rino%C3%B2-torino;Locale carino e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/fondazione-pietro-accorsi-torino;Comoda e intima la saletta interna.;0.5246530721670275
+https://www.yelp.it/biz/emozioni-di-gusto-bari;Buona giornata anche a lei caro amico;0.34976871477801835
+https://www.yelp.it/biz/diecicento-torino-2;Il personale è giovane e simpatico... Una bellissima e buonissima scoperta!!!;1.8638842231672146
+https://www.yelp.it/biz/kiki-torino;Clima decisamente accogliente e locale semplice ma elegante e romantico grazie alla luce soffusa.;1.3958797346140275
+https://www.yelp.it/biz/pizzeria-pizza-e-altro-bari;Ambiente informale molto accogliente con personale simpatico e competente.;1.3635967777827946
+https://www.yelp.it/biz/les-arcades-tamango-torino;Bar moderno e accogliente, servono pranzi veloci ma non è il loro punto di forza.;0.5723488060003936
+https://www.yelp.it/biz/pizzeria-la-stua-torino;Personale gentile rapido ed efficiente.;0.5246530721670275
+https://www.yelp.it/biz/al-cacimperio-torino;Prezzi nella norma e locale carino, ma niente di che;0.16666666666666666
+https://www.yelp.it/biz/la-ristonomia-torino;Carino anche il salotto arabo dove si può chiacchierare con gli amici gustando dolcetti arabi e thé alla menta.;0.4842951435387946
+https://www.yelp.it/biz/tommy-tegamino-torino;Posto carino e personale gentile ed efficiente.;0.47725887222397817
+https://www.yelp.it/biz/7-nani-torino;Servizi igienici curati e puliti.;0.5246530721670275
+https://www.yelp.it/biz/bocciofila-mossetto-torino;Atmosfera carina, personale moderatamente cordiale.;0.419722457733622
+https://www.yelp.it/biz/antonelli-torino;che sarà  anche sana, veloce, economica e leggera, ma il sapore ???;0.29828679513998635
+https://www.yelp.it/biz/osteria-antichi-sapori-bari;Il pesce comunque freschissimo come le materie prime.;0.6772588722239782
+https://www.yelp.it/biz/sibiriaki-bugianen-torino;personale cordiale e prezzo onesto!;0.5246530721670275
+https://www.yelp.it/biz/fondazione-torino-musei-torino;Locale pulito ed accogliente !;0.5643823935199818
+https://www.yelp.it/biz/la-locanda-bari;Simpatico ed efficiente il servizio e conto giusto.;1.259167373200866
+https://www.yelp.it/biz/blah-blah-torino;Personale cortese ed efficiente, servizio impeccabile, ottimo vino e cibo sublime.;1.4496877291300558
+https://www.yelp.it/biz/nouvel-vis-a-vis-modugno;Posto carino, cucina casalinga di qualità, personale cortese e disponibile, prezzi contenuti.;1.3047189562170503
+https://www.yelp.it/biz/the-governor-pub-torino;Gentili, veloci, semplice ma ottimo.;0.5965735902799727
+https://www.yelp.it/biz/t-bone-station-torino;Ambiente caldo e accogliente , personale qualificato e presente, servizio rapido e pietanze gustose e invitanti.;1.959644617432623
+https://www.yelp.it/biz/gelateria-due-salette-torino;Locale carino fresco ed estivo.;1.5739592165010825
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;Nel menù sono presenti solo pizze classiche con prezzi medio/alti.;0.5246530721670275
+https://www.yelp.it/biz/cristina-due-torino;Il personale cortese e disponibile!;0.5643823935199818
+https://www.yelp.it/biz/pasticceria-lovreglio-torino;Servizio ottimo, rapido e simpatico.;0.5246530721670275
+https://www.yelp.it/biz/el-mir-torino;Arriviamo al cibo: Antipasti semplici, ma ottimi, nella giusta quantità.;0.2998017555240157
+https://www.yelp.it/biz/buosi-torino;Locale accogliente e personale super gentile!;0.47725887222397817
+https://www.yelp.it/biz/timeout-bari;Il servizio è celere e gentile.;0.8465735902799727
+https://www.yelp.it/biz/vitelloni-torino;Il personale gentilissimo ed efficientissimo .;0.5643823935199818
+https://www.yelp.it/biz/cacio-e-pepe-torino;Gentilissimi i proprietari e disponibili.;0.5643823935199818
+https://www.yelp.it/biz/tiffany-lounge-torino;Locale pulito ed accogliente .;0.5643823935199818
+https://www.yelp.it/biz/da-mauro-torino;Il locale è antico e accogliente!;0.42328679513998635
+https://www.yelp.it/biz/wispobish-torino;Buone ed abbondanti le insalate.;0.5643823935199818
+https://www.yelp.it/biz/berbel-torino;Locale elegante con personale gentile e preparato.;1.259167373200866
+https://www.yelp.it/biz/trattoria-da-cinzia-torino;Cordiale e premuroso il personale.;0.5643823935199818
+https://www.yelp.it/biz/forchetta-e-scarpetta-torino;Gentili, veloci, semplice ma ottimo.;0.5965735902799727
+https://www.yelp.it/biz/la-uascezze-bari;Cibo ottimo, locale accogliente e personale bravissimo.;1.739625274956067
+https://www.yelp.it/biz/cinque-lire-torino;Locale carino, servizio puntuale e attento.;1.259167373200866
+https://www.yelp.it/biz/el-puig-d-estelles-torino;tranquillo locale in zona centrale, ideale per serate infrasettimanali.;0.3727768446334429
+https://www.yelp.it/biz/soup-e-go-torino;Un pranzo goloso ma salutare!;0.5643823935199818
+https://www.yelp.it/biz/libery-pizza-e-artigianal-beer-torino;Il servizio veloce e cortese.;0.5643823935199818
+https://www.yelp.it/biz/pizze-e-cozze-torino;Pizze ottime, menù ricco, servizio affabile e veloce.;1.0226975833370961
+https://www.yelp.it/biz/giapponese-sakura-torino;Ottimo rapporto qualità/prezzo, personale molto cortese.;1.1931471805599454
+https://www.yelp.it/biz/bene-cos%C3%AC-torino;cibo ottimo, personale cortese a attento.;1.9090354888959127
+https://www.yelp.it/biz/pizzeria-gelateria-cecchi-torino;Gentili e ospitali oltre che veloci.;2.09861228866811
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;Luminoso e con un servizio informale e preciso.;0.5246530721670275
+https://www.yelp.it/biz/antica-trattoria-del-sole-torino;Veloce, gentile il servizio .;0.5643823935199818
+https://www.yelp.it/biz/pollastrini-torino;Servizio cordiale e gentile, locale pulito e caratteristico.;1.739625274956067
+https://www.yelp.it/biz/enzo-e-grazia-di-matera-grazia-torino;Personale e proprietario gentilissimi ed attenti.;0.5246530721670275
+https://www.yelp.it/biz/prima-e-poi-torino;Servizio velocissimo e gentile... Pizza buonissima!;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-bianco-farina-bari;Ristorante molto elegante e raffinato.;0.42328679513998635
+https://www.yelp.it/biz/a-casa-di-pulcinella-torino;Pizza ottima (una delle migliori di Torino): ingredienti freschi e saporiti, consistente ma leggera.;1.3958797346140275
+https://www.yelp.it/biz/bar-torrefazione-beccuti-torino;Con un personale gentile e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/hokkaido-torino;Menù classico ma abbastanza ampio.;0.42328679513998635
+https://www.yelp.it/biz/la-piramide-torino;Gestori gentilissimi e cortesi più prezzo giusto fanno il giusto compendio di questa esperienza.;0.8677434040435966
+https://www.yelp.it/biz/tadadatta-pub-bari;Ottimo l'impasto e di buona qualità gli ingredienti.;0.3386294361119891
+https://www.yelp.it/biz/garden-caffetteria-torino;infine dolce caffè e amaro.;0.42328679513998635
+https://www.yelp.it/biz/la-conca-torino;Locale carino e personale qualificato.;0.5246530721670275
+https://www.yelp.it/biz/borgo-medioevale-torino;Vengono allestite delle mostre e mercatini domenicali.;0.2
+https://www.yelp.it/biz/il-panino-giusto-torino;Staff giovane, dinamico, cortese e sorridente... Unici punti deboli i prezzi.;0.47725887222397817
+https://www.yelp.it/biz/in-vino-veritas-torino;Servizio giovane cortese, semplice e rapido.;0.9545177444479563
+https://www.yelp.it/biz/dog-out-presso-otto-gallery-torino;Il servizio allegro e veloce.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-aladino-bari;Consiglio i menù fissi ricchi di antipasti.;0.6772588722239782
+https://www.yelp.it/biz/steamboat-torino;locale accogliente , caldo e gradevole.;0.5965735902799727
+https://www.yelp.it/biz/porta-palatina-torino-2;Avete presente un caffè caldo e accogliente, con personale gentile e sorridente?;1.3047189562170503
+https://www.yelp.it/biz/cib%C3%B2-bari;Personale simpatico e buona scelta di cocktail e shots.;0.2821911967599909
+https://www.yelp.it/biz/l-antico-arco-cellamare;La pizzeria non è molto grande gestione famigliare personale gentile cordiale e preparato .;1.268981576921843
+https://www.yelp.it/biz/del-cambio-torino;Dolci e vini ottimi, personale attento e gentile.;1.3047189562170503
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;Il posto è carino e pulito.;0.42328679513998635
+https://www.yelp.it/biz/al-cantuccio-bari;Il personale è gentile e disponibile ed il servizio rapido ed efficiente.;1.3635967777827946
+https://www.yelp.it/biz/martin-pescatore-torino;Antipasti abbondanti e molto ricercati.;0.42328679513998635
+https://www.yelp.it/biz/pizzeria-da-donato-bari;Pizza buona e gustosa, servizio serio e tranquillo, prezzo giusto.;1.6308986952713127
+https://www.yelp.it/biz/l-angolo-divino-torino;Cibo buono e locale carino, ma piccolo.;0.47725887222397817
+https://www.yelp.it/biz/matti-brown-bari;Cortese e disponibile il personale.;1.1287647870399635
+https://www.yelp.it/biz/john-lennons-torino;Ottima qualità, buone materie prime, gusti curiosi e originali, tutti da provare.;0.26094379124341005
+https://www.yelp.it/biz/biberon-torino;Locale curato e grazioso, personale silenzioso ma efficiente.;1.739625274956067
+https://www.yelp.it/biz/osteria-della-travi-bari;Insuperabili le orecchiette con il ragù e la braciola.personale cordiale e veloce.;1.049306144334055
+https://www.yelp.it/biz/panificio-ursino-francesco-torino-2;il proprietario gentile e attento.;0.5643823935199818
+https://www.yelp.it/biz/shannon-torino;Il personale cordiale... Un sacco di persone che visita il ristorante.;0.5
+https://www.yelp.it/biz/okinawa-torino;Pesce crudo ottimo e fresco.;0.5246530721670275
+https://www.yelp.it/biz/antica-osteria-cairoli-bari;Cibo delizioso, dettagli curati, locatIon moderna e raffinata.;1.3635967777827946
+https://www.yelp.it/biz/pasticceria-amore-torino;Ampio locale moderno con dehor esterno .;0.47725887222397817
+https://www.yelp.it/biz/la-provolina-bari;Locale accogliente, personale simpatico e carne ottima.;1.5908629074132605
+https://www.yelp.it/biz/pizzeria-dreher-dregh%C3%A8r-bari;personale gentile disponibile e "alla mano".;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-al-buco-bari;personale molto simpato e cortese e allo stesso tempo un grande lavoro di squadra.davvero complimenti alla prossima;1.5227778923062119
+https://www.yelp.it/biz/ristoranti-tromlin-torino;antipasti tipici buoni e abbondanti .;0.5246530721670275
+https://www.yelp.it/biz/yu-jiasheng-torino;Semplice ed efficace secondo me.;0.5643823935199818
+https://www.yelp.it/biz/caff%C3%A9-montevecchio-torino;Classica birreria in stile irlandese, luci soffuse e ambiente tranquillo ... È possibile vedere Leggi il seguito;1.003629966320808
+https://www.yelp.it/biz/1610-bagel-torino;Gentilissimi e ottimo il servizio.;0.5643823935199818
+https://www.yelp.it/biz/tabit-bari;Bellissimo locale,personale molto professionale-cordiale-gentilissimo,cibo freschissimo e buonissimo,ottima pure la pizza.;1.4729550745276567
+https://www.yelp.it/biz/il-picchio-torino;Locale rumoroso e affollato .;0.5643823935199818
+https://www.yelp.it/biz/pasticceria-beatrice-torino;Il servizio cortese e professionale.;0.5643823935199818
+https://www.yelp.it/biz/pepino-torino;ambiente caldo ed accogliente, un locale raffinato,elegante, storico un buon bicerìn in ottima compagnia.;1.6068600813028981
+https://www.yelp.it/biz/bari-napoli-bari;Personale veloce e gentile, ottima pizza ... meravigliosi e gustosi primi!;1.3047189562170503
+https://www.yelp.it/biz/il-fornaccio-bari;Buon assortimento di panzerotti salati e dolci, ottima qualità.;1.3635967777827946
+https://www.yelp.it/biz/meridien-torino;Molto rumoroso e affollato, buono per le cene di gruppo fra amici;0.2998017555240157
+https://www.yelp.it/biz/al-sorso-preferito-bari;Portate abbondanti, personale cortese ed attento, servizio celere.;1.8638842231672146
+https://www.yelp.it/biz/pan-cafe-torino;Carino e accogliente personale simpatico.;0.5246530721670275
+https://www.yelp.it/biz/grill-burger-house-bari;Servizio impeccabile e personale gentile e disponibile.;1.4317766166719346
+https://www.yelp.it/biz/osteria-dei-quattro-gatti-bari;Personale educato e cordiale, prezzi moderati e locale molto pulito.;1.6308986952713127
+https://www.yelp.it/biz/da-giannino-l-angolo-d-abruzzo-torino;Il servizio cordiale e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/al-ghibellin-fuggiasco-torino;Il personale e gentile e veloce.;0.5643823935199818
+https://www.yelp.it/biz/eno-libero-emporio-enogastronomico-torino;Dehor tranquillo, ambiente originale ed accogliente.;1.259167373200866
+https://www.yelp.it/biz/trattoria-casalinga-torino;personale educato simpatico e professionale.;0.5246530721670275
+https://www.yelp.it/biz/jubin-di-hu-lidan-torino;Semplice e onesto sia nel cibo che nel prezzo.;0.42328679513998635
+https://www.yelp.it/biz/camilla-kitchen-torino;Servizio veloce e personale disponibile e gentile.;0.47725887222397817
+https://www.yelp.it/biz/ichi-torino;Veloci nel servizio e gentilissimi.;0.5643823935199818
+https://www.yelp.it/biz/menodiciotto-torino;Il personale giovane e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/chlo%C3%A9-bistrot-torino;Locale piccolo ma pulito e carino.;0.5246530721670275
+https://www.yelp.it/biz/il-vicolo-torino;, molto buona e curata.;0.5643823935199818
+https://www.yelp.it/biz/alberto-marchetti-torino;Gelato gustoso, saporito e fresco.;0.5246530721670275
+https://www.yelp.it/biz/passaggio-in-india-torino;Il personale gentile e veloce.;0.5643823935199818
+https://www.yelp.it/biz/sushi-sun-torino;carino perchè il locale è su due piani.;0.16666666666666666
+https://www.yelp.it/biz/silvano-torino-2;Cibo squisito con vasta scelta vegana, personale disponibile e gentile e prezzi onesti ^.;1.4729550745276567
+https://www.yelp.it/biz/michi-tanzariello-torino;personale disponibile e gentile... ????;0.6995374295560367
+https://www.yelp.it/biz/samoa-torino;Staff gentile e cortese, ti mette a proprio agio, cucina ottima (da provare gli agnolotti), e vino buono per qualsiasi tasca, da quello della casa al Barbera;0.5302876358044202
+https://www.yelp.it/biz/enoteca-rossorubino-torino;Cordiale e simpatica la proprietaria.;0.5643823935199818
+https://www.yelp.it/biz/delfino-blu-torino;Note positive: servizio veloce e cortese, locale curato, bell'impiattamento delle portate.;1.963940099370209
+https://www.yelp.it/biz/maks-torino;Buonissimo locale centrale e pulito ...gusti favolosi e personale gentilissimo .;0.34896993365350687
+https://www.yelp.it/biz/b2-burger-and-beer-torino;Lo staff è giovane e simpatico.;0.42328679513998635
+https://www.yelp.it/biz/dal-vecchio-torino;Locale semplice ma pulito bagno incluso.;0.419722457733622
+https://www.yelp.it/biz/500-calorie-torino;Il posto è caldo e confortevole, il personale molto gentile ed il cibo molto buono e soprattutto economico anche rispetto ad altri ristoranti cinesi.;0.9853268714922547
+https://www.yelp.it/biz/karmacola-torino;Cibo buonissimo, personale gentile e rapidissimo, titolare molto ospitale e prezzi ragionevoli.;1.3958797346140275
+https://www.yelp.it/biz/fiorio-caff%C3%A8-torino;buoni soprattutto i gusti tradizionali come panna, cioccolato, nocciola prezzi medio alti e porzioni piccole;0.6523594781085251
+https://www.yelp.it/biz/glamour-caff%C3%A8-lamie;I cornetti sono ottimi ed il servizio e cordiale.;0.6772588722239782
+https://www.yelp.it/biz/freccia-club-torino;Oste gentile, sorridente, generoso e simpatico!;0.47725887222397817
+https://www.yelp.it/biz/fratelli-roselli-torino;Il personale é attento e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/sfashion-cafe-torino;locale accogliente in pieno centro.;0.5246530721670275
+https://www.yelp.it/biz/bar-cristal-torino;Struttura accogliente e personale preparato.;0.5246530721670275
+https://www.yelp.it/biz/ristoranti-taverna-delle-rose-torino-2;Ideale per un appuntamento romantico.;0.5643823935199818
+https://www.yelp.it/biz/i-soliti-amici-torino;Bel locale, grande e pulito.;0.5965735902799727
+https://www.yelp.it/biz/la-tana-del-polpo-bari;Cibo buonissimo, personale gentile e rapidissimo, titolare molto ospitale e prezzi ragionevoli.;1.3958797346140275
+https://www.yelp.it/biz/l-angolo-greco-torino;Personale gentilissimo e prezzi ragionevoli.;0.42328679513998635
+https://www.yelp.it/biz/cit-ma-bon-torino;Locale carino, piccolo ma accogliente.;1.049306144334055
+https://www.yelp.it/biz/farmacia-dei-sani-bari;Locale curato nei minimi dettagli e atmosfera calda e piacevole.;1.3635967777827946
+https://www.yelp.it/biz/dess%C3%AC-torino;Locale bello, grande, tranquillo ed elegante.;0.47725887222397817
+https://www.yelp.it/biz/da-ciccillo-torino;Gentile e comprensiva , dolce , SPECIALE ??;0.5246530721670275
+https://www.yelp.it/biz/la-taverna-greca-torino-2;la bufala fresca e saporita!;0.5643823935199818
+https://www.yelp.it/biz/imbarco-perosino-torino;Antipasti freddi e insapori .;0.5643823935199818
+https://www.yelp.it/biz/paco-torino;Personale gentile e prezzi bassi.;0.8465735902799727
+https://www.yelp.it/biz/pastamaneria-torino;Personale cortese e cibo buono.;0.8465735902799727
+https://www.yelp.it/biz/stanza-caff%C3%A8-bari;Il proprietario gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/caf%C3%A9-murat-bari;Servizio veloce e personale cortese.;0.5246530721670275
+https://www.yelp.it/biz/shizen-torino;Un bel locale, curato ma semplice.;0.5965735902799727
+https://www.yelp.it/biz/storie-del-vecchio-sud-bari;locale grande ma sempre affollato.;1.5739592165010825
+https://www.yelp.it/biz/sciuscia-pizzeria-torino;Servizio professionale, rapido ed efficiente.;0.5246530721670275
+https://www.yelp.it/biz/piper-pub-torino;Il personale cordiale e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/chez-zeina-torino;Bel locale, atmosfera carina e curata, ottima degustazione, proprietario gentile e disponibile nell'illustrare i vari cibi tipici della cultura e della tradizione libanese.;1.5541576908207275
+https://www.yelp.it/biz/b-eat-torino;servizio veloce, personale gentile e preparato.;0.47725887222397817
+https://www.yelp.it/biz/tre-galli-torino-2;personale super accogliente e simpatico!!!;0.5965735902799727
+https://www.yelp.it/biz/nishiki-torino;La cameriera simpatica e gentile.;0.5643823935199818
+https://www.yelp.it/biz/la-granda-torino;Personale gentilissimo e competente .;0.5643823935199818
+https://www.yelp.it/biz/bicyclette-torino;Locale piccolo ma super accogliente!;0.5246530721670275
+https://www.yelp.it/biz/barber-and-caffee-torino;Ambiente piacevole e giovanile ma professionale e cortese.;0.47725887222397817
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;I camerieri, gentili e veloci.;0.5643823935199818
+https://www.yelp.it/biz/oolivoo-bari;La pizza è ottima, bordo basso e pasta eccezionale, ottimo il condimento.;1.0605752716088404
+https://www.yelp.it/biz/el-pedro-di-graziosi-michele-bari;Locale pulito e personale cortese.;0.5246530721670275
+https://www.yelp.it/biz/o-raffertys-pub-torino;Clima tranquillo, personale cordiale e..;0.5246530721670275
+https://www.yelp.it/biz/taglio-torino;Ricercato, accogliente, chic e romantico.;0.5965735902799727
+https://www.yelp.it/biz/astoria-torino;Il pesce ottimo e fresco.;0.5643823935199818
+https://www.yelp.it/biz/singapore-torino;Prezzi onesti e personale gentile;0.5246530721670275
+https://www.yelp.it/biz/blue-eyes-bari;Cibo buonissimo, personale molto disponibile e cordiale.;1.5908629074132605
+https://www.yelp.it/biz/big-mama-club-torino;Personale gentile, cordiale e professionale.;0.5246530721670275
+https://www.yelp.it/biz/lo-stonnato-torino;Il locale è semplice e spartano, ma ha un suo perchè e il personale è gentilissimo.;0.6995374295560367
+https://www.yelp.it/biz/wasabi-torino;Gusti particolari, dessert deliziosi e personale sveglio e veloce.;1.8638842231672146
+https://www.yelp.it/biz/braceria-signorile-bari;Locale carino, personale gentile e simpatico.;1.4317766166719346
+https://www.yelp.it/biz/diplomatic-torino;Ampia scelta, con personale molto attento e cortese.;1.5908629074132605
+https://www.yelp.it/biz/la-battigia-di-schiralli-antonio-bari;locale accogliente e di stampo tradizionale.;1.5739592165010825
+https://www.yelp.it/biz/porcaloca-torino;Bel locale, ampio e confortevole... Personale gentile... La pizza si può prendere sia normale che al tegamino, entrambe davvero buone... Così come la farinata che è assolutamente da provare, buonissima...;0.5965735902799727
+https://www.yelp.it/biz/caff%C3%A9-tiffany-torino-2;Splendida atmosfera, servizio cortese e puntuale.;0.419722457733622
+https://www.yelp.it/biz/jolly-principi-di-piemonte-torino;Per i dolci ampia scelta!;0.5643823935199818
+https://www.yelp.it/biz/convitto-torteria-caf%C3%A8-torino;Locale carinissimo con musica anni trenta quadri divertenti alle pareti cucina buona e divertente Locale carinissimo con musica anni trenta quadri divertenti alle pareti cucina buona e divertente;0.9798223087163115
+https://www.yelp.it/biz/%C3%A8-cucina-cesare-marretti-torino;Personale giovane, cordiale e veloce!;0.5246530721670275
+https://www.yelp.it/biz/dausin-torino;Il personale simpatico ed accogliente.;0.5643823935199818
+https://www.yelp.it/biz/porto-di-bari-bari-2;Rilassante e semplice :) Rilassante e semplice :);0.42328679513998635
+https://www.yelp.it/biz/trattoria-spirito-santo-torino-2;Un ristorantino piccolo ma accogliente.;0.5643823935199818
+https://www.yelp.it/biz/ristoro-28-3-torino-2;Menu raffinato, personale cordiale ed amichevole!;0.47725887222397817
+https://www.yelp.it/biz/fondazione-sandretto-re-rebaudengo-torino;Il locale è grande e molto curato!;0.3386294361119891
+https://www.yelp.it/biz/bar-costarica-torino;Qualità buona e servizio efficiente.;0.42328679513998635
+https://www.yelp.it/biz/pasticceria-giori-torino;Molto friabili e fresche,farcitura a scelta sul momento!;0.2821911967599909
+https://www.yelp.it/biz/bar-lo-scudiero-torino;ottima la colazione e tranquillissimo l ambiente.;0.42328679513998635
+https://www.yelp.it/biz/kokoroya-torino;Prezzi nella norma, cibo ottimo e casereccio, titolare gentilissimo, unica pecca il posto minuscolo.;1.268981576921843
+https://www.yelp.it/biz/sandrino-bari;Locale pulito e accogliente, ottimo personale gentile e disponibile, gelati favolosi ed esclusivi...il mio bar preferito!;1.778315050073717
+https://www.yelp.it/biz/costadoro-torino;Grande scelta e ottimo cibo.;0.5246530721670275
+https://www.yelp.it/biz/taverna-i-miserabili-torino;Piatti abbondanti, qualità buona, prezzi corretti.;1.049306144334055
+https://www.yelp.it/biz/friedas-pub-torino;Cura del cliente, ottime birre, ed ampi spazi fanno il resto Davvero consigliato;0.1881274645066606
+https://www.yelp.it/biz/villa-regina-torino;Pranzo domenicale veloce e gustoso.;0.5246530721670275
+https://www.yelp.it/biz/my-sushi-bari;Personale giovane, professionale ed attento.;0.5246530721670275
+https://www.yelp.it/biz/old-wild-west-torino-2;Vino della casa buono, cortesi e molto professionali.;0.6995374295560367
+https://www.yelp.it/biz/lo-sfizio-bitritto;Cibo genuino e naturale, cucina casalinga tipica pugliese.;1.8638842231672146
+https://www.yelp.it/biz/mcdonalds-torino-3;Pizza ottima ricca e sottile.;0.5246530721670275
+https://www.yelp.it/biz/grom-torino-2;ottimo il gelato di GROM, con dei gusti molto particolari e raffinati, fatti con ingredienti genuini.;0.9545177444479563
+https://www.yelp.it/biz/grom-torino-4;La pizzeria è nelle vicinanze del vecchio stadio filadelfia, è abbastanza grande, il personale è disponibile e gentile il locale è arredato bene e la pizza è buona, i costi sono nella media;0.1134538222797435
+https://www.yelp.it/biz/mercato-di-porta-palazzo-torino;Mercato storico e il più grande di torino.;0.3386294361119891
+https://www.yelp.it/biz/la-capannina-torino-2;il locale bello e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/grande-muraglia-di-zhans-rong-e-li-songhai-torino;Il personale gentile e accogliente.;0.5643823935199818
+https://www.yelp.it/biz/la-romana-torino-2;Personale gentile e attento, pesce fresco.;1.259167373200866
+https://www.yelp.it/biz/premiata-osteria-dellhermada-torino;Antipasti abbondanti, ma scadenti come qualità.;0.42328679513998635
+https://www.yelp.it/biz/petit-baladin-torino;in più personale super gentile!;1.5739592165010825
+https://www.yelp.it/biz/signorvino-torino;Personale molto gentile e disponibile, locale carino e centrale.;1.3635967777827946
+https://www.yelp.it/biz/la-cantinella-torino;Il ristorante è nelle vicinaze del ponte che porta al lingotto, la zona è tranquilla, il parcheggio si trova abbastanza facilmente la cucina è buona e il ristorante è carino;0.09993391850800523
+https://www.yelp.it/biz/tor-na-torino;Ottimo tutto divertente ed elegante.;0.5246530721670275
+https://www.yelp.it/biz/istanbul-santasophia-torino;Ottimo e cordiale il servizio;0.5643823935199818
+https://www.yelp.it/biz/black-angus-turin;Servizio eccellente e personale gentile e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/grotta-azzurra-bari;Atmosfera familiare, cibo genuino, prezzi onesti.;1.049306144334055
+https://www.yelp.it/biz/crocetta-torino;Servizio attento e cortese .;0.5643823935199818
+https://www.yelp.it/biz/da-benito-torino;Cucina semplice e genuina, porzioni non proprio abbondanti e prezzi alti.;1.0605752716088404
+https://www.yelp.it/biz/la-stadera-pizzeria-la-stadera-di-muscariello-s-e-c-pizz-torino;Personale disponibile e gentile .;0.5643823935199818
+https://www.yelp.it/biz/il-borgo-medievale-torino;Cucina libanese di alta qualità !;0.8465735902799727
+https://www.yelp.it/biz/caff%C3%A8-elena-storico-torino;Accoglienza cordiale e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/cioccolato-peyrano-torino-2;Pasticcini freschi golosissimi e mignon.;0.5246530721670275
+https://www.yelp.it/biz/neko-cafe-torino;servizio attento e gentile .;0.5643823935199818
+https://www.yelp.it/biz/la-baita-bari;Il posto è piccolo ma si sta tranquilli il personale è gentile e comunque si mangia bene il servizio è abbastanza veloce da provare;0.5302876358044202
+https://www.yelp.it/biz/casablanca-bari;Buona cena in un bel locale sul mare, Pesce freschissimo e servizio impeccabile.;1.4496877291300558
+https://www.yelp.it/biz/pizzeria-spaccanapoli-torino;Pizza sottile e buonissima .;0.5643823935199818
+https://www.yelp.it/biz/mastro-ciccio-di-mastrandrea-fabio-bari;In piena zona centrale, un bel locale moderno e accogliente.;1.1183305339003289
+https://www.yelp.it/biz/officine-panino-torino;Bel locale, personale cortese, cucina in stile made in Japan.;0.29828679513998635
+https://www.yelp.it/biz/zelli-wine-bar-torino;Personale molto gentile e delicato.;0.42328679513998635
+https://www.yelp.it/biz/menupizza-torino;Il personale, giovane, è gentilissimo.;0.42328679513998635
+https://www.yelp.it/biz/bar-st-germain-torino;Atmosfera speciale, personale simpatico e..;0.5246530721670275
+https://www.yelp.it/biz/l-idrovolante-torino;Scarsa la quantità ma personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/arcanomatto-torino;Ambiente elegante e personale gentilissimo.;0.5246530721670275
+https://www.yelp.it/biz/autogrill-torino-4;Locale carino e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/hua-dou-cheng-torino;Personale giovane ma gentile e professionale;0.5246530721670275
+https://www.yelp.it/biz/greek-food-lab-torino-2;Locale carino fresco ed estivo.;0.5246530721670275
+https://www.yelp.it/biz/bar-gerla-1927-torino;Un classico, e tale rimane.;0.5643823935199818
+https://www.yelp.it/biz/via-roma-torino;Pasta soffice e spessa, ottimi prodotti, ben cotta.;0.34089919444569866
+https://www.yelp.it/biz/seven-up-torino;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/agnolotti-e-friends-torino;Bello e accogliente il locale.;0.5643823935199818
+https://www.yelp.it/biz/osteria-rotonda-dei-facchinetti-torino;Ambiente pulito ed accogliente, personale gentile e disponibile.;0.43490631873901675
+https://www.yelp.it/biz/la-gricia-torino;gentile e attento anche lo chef.;0.42328679513998635
+https://www.yelp.it/biz/i-tre-scalini-torino;il locale é particolare, datato, ma accogliente.;0.42328679513998635
+https://www.yelp.it/biz/gatsbys-torino;Personale giovane e gentilissimo !!!;0.5643823935199818
+https://www.yelp.it/biz/estrella-do-sul-torino;Servizio cortese e abbastanza veloce.;0.42328679513998635
+https://www.yelp.it/biz/la-casa-del-demone-torino;Servizio curato, personale esperto e vini medio alti.;1.4911073785337716
+https://www.yelp.it/biz/sandrino-bari-2;simpatia, ampia scelta di prodotti e materie prime eccellenti fanno da cornice a questa gelateria pugliese.;0.7954314537066303
+https://www.yelp.it/biz/pizzeria-d-autore-bari;locale piccolo ma accogliente,il sign.antonio gentilissimo e bravo!;1.5908629074132605
+https://www.yelp.it/biz/san-tommaso-10-torino;Personale preparato, gentile ed attento.;0.5246530721670275
+https://www.yelp.it/biz/gufo-bianco-torino;in una casa ristrutturata, e con un bel forno a legna a vista, in questa pizzeria puoi gustare un ottima pizza;0.14109559837999544
+https://www.yelp.it/biz/san-giorgio-torino;Pittoresco e piacevole, personale gentile e disponibile.;0.5218875824868201
+https://www.yelp.it/biz/ai-2-ghiottoni-bari-2;Le portate all'altezza dei migliori ristoranti con pesce fresco e ottima qualità della carne;1.0605752716088404
+https://www.yelp.it/biz/one-apple-torino;Pieno di gente giovane e modaiola!;0.5246530721670275
+https://www.yelp.it/biz/quaglia-teresa-torino;Il servizio è gentile e rapido.;0.42328679513998635
+https://www.yelp.it/biz/m-bun-torino;Locale pulito ed accogliente .;0.5643823935199818
+https://www.yelp.it/biz/mitiko-pizzeria-consegna-a-domicilio-torino;Servio celere e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/el-churrasco-bari-2;Cibo raffinati e delicato, buona selezione di birre e personale fantastico.;1.6308986952713127
+https://www.yelp.it/biz/solferino-torino;Il personale gentile e professionale.;0.5643823935199818
+https://www.yelp.it/biz/stars-e-roses-torino;proprietario e personale gentile e professionale .;0.5246530721670275
+https://www.yelp.it/biz/moderat-bari;Che dire, proprietario gentilissimo e super disponibile, personale eccellente, cocktail e stuzzicherie ottime.;1.6068600813028981
+https://www.yelp.it/biz/italians-wok-better-torino-3;Ottimo per un pranzo o una cena tranquilla.;0.42328679513998635
+https://www.yelp.it/biz/verdi-d-indivia-torino;locale essenziale ma molto accogliente!!!;0.5246530721670275
+https://www.yelp.it/biz/scalo-vanchiglia-torino;Molto caratteristico il posto, tipico sardo.;0.419722457733622
+https://www.yelp.it/biz/barcollo-torino;L'ambiente è semplice e curatissimo.;0.42328679513998635
+https://www.yelp.it/biz/mamasita-torino;La carne, molto tenera e virtuosa, cotta al punto giusto, servita a tavola si una lastra di pietra incandescente.;0.18356110470153006
+https://www.yelp.it/biz/casa-fiore-torino;Una buona scelta di birre, patatine fritte buonissime in porzioni abbondanti e personale gentile e allegro.;1.6068600813028981
+https://www.yelp.it/biz/antica-salumeria-torino;Piacevole serata e personale gentile!;0.5246530721670275
+https://www.yelp.it/biz/frat%C3%B2-torino;Personale qualificato e gentile .;0.5643823935199818
+https://www.yelp.it/biz/bar-marconi-di-torre-francesco-torino;Locale accogliente, elegante e pulito.;0.5246530721670275
+https://www.yelp.it/biz/osteria-antiche-sere-torino;Locale carino e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/la-taverna-dei-mercanti-turin;personale disponibile e professionale .;0.5643823935199818
+https://www.yelp.it/biz/al-bicerin-torino;Gentilissimi e ottimo il servizio.;1.1287647870399635
+https://www.yelp.it/biz/old-wild-west-torino;Il personale è molto cordiale e preparato.;0.2
+https://www.yelp.it/biz/osteria-fate-infretta-a-tavola-torino;Posto gradevole e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/kebab-samir-torino;Il servizio cortese e attento.;0.5643823935199818
+https://www.yelp.it/biz/copacabana-torino;Personale qualificato e super simpatici.;0.5246530721670275
+https://www.yelp.it/biz/vyta-torino;Gentile, paziente e personale disponibile.;0.5965735902799727
+https://www.yelp.it/biz/barbagia-di-ollolai-torino;Gentili e disponibili i camerieri.;0.5643823935199818
+https://www.yelp.it/biz/ala-torino;Locale piccolino e personale cordiale.;0.5246530721670275
+https://www.yelp.it/biz/laboratorio-comba-torino;Il titolare molto gentile, disponibile, attento al cliente.;0.34976871477801835
+https://www.yelp.it/biz/quo-vadis-torino-2;Locale ben curato ed accogliente.;0.42328679513998635
+https://www.yelp.it/biz/arcadia-torino-4;Un pranzo goloso ma salutare!;0.5643823935199818
+https://www.yelp.it/biz/monferrato-torino;Cucina tipica piemontese di ottima qualità!;1.259167373200866
+https://www.yelp.it/biz/turet-torino;Personale gentilissimo e affabile e il titolare presente e disponibile.;1.5908629074132605
+https://www.yelp.it/biz/cris-e-bio-bari;Ottimi e abbondanti gli antipasti.;1.1287647870399635
+https://www.yelp.it/biz/pizzeria-divina-bari;Piatti tipici della cucina pugliese di ottima qualità , nonchè pizze della tradizione barese con ingredienti freschi e di stagione.;1.2885043704129484
+https://www.yelp.it/biz/tobiko-torino;gentile ma freddo il servizio;0.5643823935199818
+https://www.yelp.it/biz/ciacolon-ca-veneta-torino;Personale gentile, disponibile e solerte.;0.5246530721670275
+https://www.yelp.it/biz/hagakure-fusion-bari;Tartare top, pesce freschissimo, per non parlare dei roll,cheesecake buonissima, personale gentile e professionale.;0.8698126374780335
+https://www.yelp.it/biz/exki-giolitti-torino-3;Semplice , gradevole e dissetante.;0.6995374295560367
+https://www.yelp.it/biz/bilab%C3%AC-bari;Latticini di alta qualità , formaggi stagionati saporiti, marmellata e confettura Birra stile amber-ale.;0.19078293533346455
+https://www.yelp.it/biz/hua-li-du-torino;Staff veloce e molto gentile.;0.42328679513998635
+https://www.yelp.it/biz/l-birichin-torino-2;Bravi ragazzi gentili premurosi e buona cucina della tradizione , location deliziosa nella Bari vecchia , antipasti vari e abbondanti primi ottimi e conto perfetto !;1.5986122886681098
+https://www.yelp.it/biz/turin-hotels-international-torino;Il personale gentile cortese e disponibile.;0.5246530721670275
+https://www.yelp.it/biz/caffe-vergnano-torino;Pesce buono e freschissimo, personale molto cordiale.;0.39771572685331513
+https://www.yelp.it/biz/imbarchino-torino;Il locale è accogliente e pulito, il personale gentile e disponibile, il pesce è sempre fresco è buonissimo.;1.2885043704129484
+https://www.yelp.it/biz/locanda-da-betty-torino;Informale ma elegante e piacevole.;2.09861228866811
+https://www.yelp.it/biz/urban-bari;Posto accogliente, clima informale, ambiente giovanile e universitario.;1.3635967777827946
+https://www.yelp.it/biz/gelateria-bucaneve-2-torino;Non sanno cosa vuol dire fare una torta gelato!!!;0.125
+https://www.yelp.it/biz/pizzeria-di-cosimo-bari;Vasta scelta, buona qualità, prezzi moderati;1.049306144334055
+https://www.yelp.it/biz/murphys-pub-torino;Locale tipico, personale gentile e disponibile.;1.9090354888959127
+https://www.yelp.it/biz/l-ancienne-maison-du-th%C3%A9-torino;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/le-vigne-torino;Intimo e tranquillo come location.;0.5643823935199818
+https://www.yelp.it/biz/teapot-torino;Pulito con gli arredi carinissimi.;0.5643823935199818
+https://www.yelp.it/biz/frulez-bari;Prezzo medio alto, ma più che giusto per la qualità dei prodotti e per la passione che traspare da ogni singolo piatto!!;1.0872657968475419
+https://www.yelp.it/biz/orso-torino;Simpatici e disponibili i due proprietari, localino spartano lindo e accogliente.;1.3047189562170503
+https://www.yelp.it/biz/il-gelatiere-bari-3;Il gelato è davvero ottimo e le porzioni sono abbondanti, il personale è paziente e cortese!;0.8677434040435966
+https://www.yelp.it/biz/panificio-magda-bari;La focaccia è ottima, il personale gentile e veloce.;1.049306144334055
+https://www.yelp.it/biz/fuzion-torino;Locale piccolo ma accogliente (soprattutto per lo staff gentilissimo) nel centro di Torino.;0.7869796082505413
+https://www.yelp.it/biz/giovanni-torino;personale cortese e sollecito .;0.6995374295560367
+https://www.yelp.it/biz/casa-mad-torino;Persone molto educato e gentile.;0.42328679513998635
+https://www.yelp.it/biz/boka-torino;buon cibo e personale carino.;0.42328679513998635
+https://www.yelp.it/biz/da-paolo-bari;Location pulita e ordinata, personale gentile e disponibile.;1.5908629074132605
+https://www.yelp.it/biz/pizzeria-giampy-di-mazzola-giuseppe-torino;Il servizio veloce e cortese.;0.5643823935199818
+https://www.yelp.it/biz/catullo-torino-2;Bel locale, ampio e luminoso.;0.5965735902799727
+https://www.yelp.it/biz/o-l-s-torino;Decisamente uno dei migliori bar da aperitivo!;0.2
+https://www.yelp.it/biz/maltos-beer-bari;Lo spazio all'esterno è arioso ed ampio, il personale cortese e presente.;1.1931471805599454
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;Staff efficienti e simpatici .;0.5643823935199818
+https://www.yelp.it/biz/km5-torino;Buon servizio e personale disponibilissimo e gentile.;1.259167373200866
+https://www.yelp.it/biz/family-bar-torino;Locale accogliente, pulito e minimal.;0.5246530721670275
+https://www.yelp.it/biz/simbad-kebab-torino;Clima piacevole, personale gentile e cibo buonissimo.;1.5908629074132605
+https://www.yelp.it/biz/brek-torino;Il personale gentile e veloce.;0.5643823935199818
+https://www.yelp.it/biz/bar-italia-noicattaro;Locale carino al piano superiore.;0.42328679513998635
+https://www.yelp.it/biz/regina-margherita-torino;Disponibilissimi, attenti e molto simpatici!;0.5246530721670275
+https://www.yelp.it/biz/caff%C3%A8-torino-torino-2;Abbiamo testato la cucina con piatti a base di carne fresca che richiedevano preparazione e manualità .;0.09090909090909091
+https://www.yelp.it/biz/joys-pub-bari;Piccolo ma accogliente e una cucina ottima.;1.5739592165010825
+https://www.yelp.it/biz/bbq-di-pennestri-davide-antonio-c-torino;Personale simpatico... Cinzia in primis!!!!;0.5
+https://www.yelp.it/biz/le-cantine-di-bacco-torino;Tutto semplice e buono, come anticipato.;0.42328679513998635
+https://www.yelp.it/biz/pastificio-defilippis-torino;Tutto pulito, accogliente e perfetto.;0.5246530721670275
+https://www.yelp.it/biz/giusti-torino;, patate fritte ( fresche!!);0.5643823935199818
+https://www.yelp.it/biz/i-tartufi-bistrot-torino;La cameriera solerte e simpatica.;0.5643823935199818
+https://www.yelp.it/biz/mordillo-torino;Pub molto carino con un ampio spazio all'aperto per godersi le belle serate dell'estate ligure.;1.0872657968475419
+https://www.yelp.it/biz/mamma-mia-torino-2;Collaboratori preparati, cordiali e gentili.;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-cristina-torino;Ottima pizza, personale molto gentile e accogliente.;1.1931471805599454
+https://www.yelp.it/biz/l-osto-d%C3%ABl-borgh-vej-torino;La cameriera era gentile e disponibile, il vino eccellente, i prezzi bassi e le persone - guardando affascinante!;1.1861081420155002
+https://www.yelp.it/biz/la-pupetta-bari;Molto piccolo posto fantastico, servizio molto cordiale, focaccia incredibile.;0.7954314537066303
+https://www.yelp.it/biz/la-parrilla-de-juan-bari;Locale posto in zona centralissima e dalle specialità messicane, per gli amanti del cibo piccante.;1.4496877291300558
+https://www.yelp.it/biz/ristorante-consorzio-torino;Location soft chic, ideale x coppie ed amici.;1.3635967777827946
+https://www.yelp.it/biz/la-pignata-bari;Locale accogliente, servizio celere, cucina tradizionale, qualità pregevole.;1.1931471805599454
+https://www.yelp.it/biz/amici-miei-torino;Piacevole ristorante, accogliente e affollato.;1.789720770839918
+https://www.yelp.it/biz/galante-torino-2;Il servizio efficiente e attento.;0.5643823935199818
+https://www.yelp.it/biz/gandhi-torino;Bello, accogliente e con ottimo cibo.;0.5246530721670275
+https://www.yelp.it/biz/art-lunch-di-jo-cafe-torino;Cibo genuino con varietà regionali.;0.42328679513998635
+https://www.yelp.it/biz/il-tabisca-turin;ristorante pizzeria napoletano, come si intuisce dal nome.;0.2821911967599909
+https://www.yelp.it/biz/focacceria-tipica-ligure-torino;Centralissima e personale super gentile;0.5965735902799727
+https://www.yelp.it/biz/entremetier-di-lingweifu-torino;Gestione cinese: molto gentili .;0.42328679513998635
+https://www.yelp.it/biz/ij-brande-torino;Personale di sala giovane e cordiale.;0.42328679513998635
+https://www.yelp.it/biz/il-rospetto-torino;Pizza gustosissima sottile e leggera.;0.5246530721670275
+https://www.yelp.it/biz/paese-zhou-torino-2;È certamente un cinese classico.;0.42328679513998635
+https://www.yelp.it/biz/mare-nostrum-torino;Il tutto accompagnato da un ottimo vino siciliano fresco consigliato da mimmo!;0.26232653608351375
+https://www.yelp.it/biz/windigo-saloon-bari;Locale tranquillo, stile texano, per bere una buona birra in coppia o in compagnia di amici e trascorrere una piacevole serata.;0.7342444188061202
+https://www.yelp.it/biz/magorabin-torino;ideale per una cena speciale.;0.5643823935199818
+https://www.yelp.it/biz/adonis-torino;A fare da sfondo musica di giovani gruppi, quattro chiacchere, e l'immancabile vino della casa, abbondante anch esso sulla tavola.;0.6817983888913973
+https://www.yelp.it/biz/la-pace-torino;Cameriera simpatica, intuitiva e professionale.;0.5246530721670275
+https://www.yelp.it/biz/kashmir-torino-2;Personale molto gentile e disponibile.;0.42328679513998635
+https://www.yelp.it/biz/porto-di-savona-torino;Cibo ottimo,buon rappirto qualita prezzo,personale gentile efficente e premuroso.;1.767546089433188
+https://www.yelp.it/biz/america-graffiti-torino;Simpatico locale vicino al centro di Torino.;1.259167373200866
+https://www.yelp.it/biz/dora-in-poi-torino;Clima sobrio ed elegante .;0.5643823935199818
+https://www.yelp.it/biz/il-siculo-di-savona-monica-torino;Materie prime fresche ed eccellenti (la frutta fresca arriva dall'ortofrutta adiacente) ed un gelato "magro", per niente "burroso".;1.586259311029784
+https://www.yelp.it/biz/bottega-baretti-moncalieri;Personale cortese e locale stupendo!;0.5246530721670275
+https://www.yelp.it/biz/aldente-torino;Locale accogliente e personale gentilissimo.;0.5246530721670275
+https://www.yelp.it/biz/caff%C3%A8-petra-torino;Ordino una pizza, discreta, sottile e croccante.;0.419722457733622
+https://www.yelp.it/biz/soul-kitchen-torino;Locale accogliente, personale gentile, servizio buono.;1.5908629074132605
+https://www.yelp.it/biz/gelateria-fenice-torino;Un locale piccolo ed accogliente.;0.5643823935199818
+https://www.yelp.it/biz/mc-donald-torino;Facile e un ampio parcheggio.;0.5643823935199818
+https://www.yelp.it/biz/sotto-la-mole-torino;Un ristorantino piccolo ma accogliente.;0.5643823935199818
+https://www.yelp.it/biz/torino-citt%C3%A1-torino;Elegante e la cucina eccellente.;0.5643823935199818
+https://www.yelp.it/biz/gelateria-grom-torino-2;Qualita´ottima, personale gentile, ottimo per un break.;1.5908629074132605
+https://www.yelp.it/biz/esperia-torino-2;camerieri gentili e servizievoli .;0.5643823935199818
+https://www.yelp.it/biz/ginza-sushi-king-torino;Personale cortese e cibo buono.;0.8465735902799727
+https://www.yelp.it/biz/siciloso-torino;I gestori sono gentilissimi e disponibili.;0.42328679513998635
+https://www.yelp.it/biz/conchigliabar-bari;Fornitissimo di brioche e dolci buoni e freschissimi, caffè e cappuccino eccellente.;0.29828679513998635
+https://www.yelp.it/biz/gelateria-ciuffos-torino;Gelato ottimo e personale molto cortese, da provare.;0.34976871477801835
+https://www.yelp.it/biz/cinese-fang-xiang-bari;Buona qualità e alta professionalità, in un ambiente famigliare.;1.049306144334055
+https://www.yelp.it/biz/bar-delle-scienze-torino;Lo staff gentile e premuroso.;0.5643823935199818
+https://www.yelp.it/biz/pastarell-mont%C3%A0;Sicuramente uno dei gelati più buoni di Torino, rapporto ottimo qualità prezzo, locale molto pulito e personale competente.;1.116703787691222
+https://www.yelp.it/biz/girarrosto-santa-rita-torino;buona carne e buon sushi.;0.8465735902799727
+https://www.yelp.it/biz/napul-e-bari;per mangiare una pizza scondita, cruda, gommosa.;1.259167373200866
+https://www.yelp.it/biz/barnum-torino;Pizza croccante all'esterno e bella morbida all'interno, farinata dal sapore accentuato e soffice al punto giusto.;1.3958797346140275
+https://www.yelp.it/biz/yu-xieshu-torino;personale cortese e sollecito .;0.6995374295560367
+https://www.yelp.it/biz/pizzeria-vecchia-londra-torino;Personale pronto, cordiale e discreto.;0.5246530721670275
+https://www.yelp.it/biz/la-drogheria-torino;Cibo raffinati e delicato, buona selezione di birre e personale fantastico.;1.6308986952713127
+https://www.yelp.it/biz/martinucci-bari-2;Il personale è attento, gentile e veloce.;0.839444915467244
+https://www.yelp.it/biz/ai-4-assi-di-sanna-roberto-torino;Ambiente accogliente e personale disponibile.;0.5246530721670275
+https://www.yelp.it/biz/torteria-olsen-torino;è un bar molto bello e personalmente lo trovo parecchio rilassante.;0.1111111111111111
+https://www.yelp.it/biz/pastis-2020-torino;Personale cordiale e stra disponibile.;0.42328679513998635
+https://www.yelp.it/biz/oriental-daily-by-kiki-torino;Servizio discreto e informale ideale per passare una serata allegra e low cost.;1.1597501833040447
+https://www.yelp.it/biz/casa-amica-friski-torino;Cucina semplice e genuina, porzioni non proprio abbondanti e prezzi alti.;1.0605752716088404
+https://www.yelp.it/biz/pizzeria-silvestro-torino;Simpatico, disponibile e super accogliente!;0.5965735902799727
+https://www.yelp.it/biz/bar-miramare-bari;Ottima accoglienza, servizio cortese, rapido ed efficiente.;1.1931471805599454
+https://www.yelp.it/biz/napples-torino;Location moderna, accogliente e informale.;0.5246530721670275
+https://www.yelp.it/biz/serranos-torino;Locale molto carino, personale giovanissimo e gentile.;1.1931471805599454
+https://www.yelp.it/biz/ristopizza-giampaolo-bari;Buon ambiente e personale disponibile e cordiale .;1.4317766166719346
+https://www.yelp.it/biz/the-bakery-torino;Locale piccolino, familiare e pulito.;0.5246530721670275
+https://www.yelp.it/biz/birrificio-torino-torino;Elegante, tipico cinese e tailandese;1.789720770839918
+https://www.yelp.it/biz/osteria-del-frate-torino;Ideale per una serata romantica a..;0.5643823935199818
+https://www.yelp.it/biz/ceccarelli-torino;Servizio curato, personale gentile e disponibile.;1.4317766166719346
+https://www.yelp.it/biz/pizzeria-queendici-torino;Locale semplice, piccolo, ma accogliente.;0.5246530721670275
+https://www.yelp.it/biz/la-gaia-scienza-torino;E piatti particolari e raffinati!;0.5643823935199818
+https://www.yelp.it/biz/il-trabaccolo-bari;servizio rapido, personale cortese, pizze buonissime.;0.39771572685331513
+https://www.yelp.it/biz/crepes-a-porter-torino;Ottima pizza, personale molto gentile e accogliente.;1.1931471805599454
+https://www.yelp.it/biz/complice-di-zhou-jinshu-torino;Vino discreto, servizio veloce ed efficiente.;0.419722457733622
+https://www.yelp.it/biz/tasty-burger-torino;Locale accogliente e personale super gentile!;0.47725887222397817
+https://www.yelp.it/biz/the-egg-torino;Location semplice e molto accogliente.;0.42328679513998635
+https://www.yelp.it/biz/tiffany-caff%C3%A8-bari;Ottima cucina anche vegetariana, veloci, cortesi e al giusto prezzo!;0.29828679513998635
+https://www.yelp.it/biz/cammaf%C3%A0-torino-4;la vera pizza buonisssssiiiiimmmaaa .;0.5643823935199818
+https://www.yelp.it/biz/la-romana-torino;Classica osteria di una volta.;0.3333333333333333
+https://www.yelp.it/biz/pizzeria-antipasteria-bistro-bari;Il menù a prezzo fisso è molto buono tutta roba genuina.;0.6995374295560367
+https://www.yelp.it/biz/shore-torino;Locale posto in zona centralissima e dalle specialità messicane, per gli amanti del cibo piccante.;1.4496877291300558
+https://www.yelp.it/biz/granbar-torino;l'ambiente è molto accogliente, il personale molto gentile e il cibo buono.;0.23317914318534555
+https://www.yelp.it/biz/bar-del-duomo-torino;Personale cortese e servizio veloce.;0.42328679513998635
+https://www.yelp.it/biz/terra-di-mezzo-bari;Panino buono e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/da-giuliano-torino;Buona la qualità e personale gentile;0.5246530721670275
+https://www.yelp.it/biz/gelateria-popolare-torino;Un'atmosfera semplice e piacevole .;0.5643823935199818
+https://www.yelp.it/biz/galante-torino;cale elegante anche se in stile primo  900.;0.16666666666666666
+https://www.yelp.it/biz/indian-street-food-torino;Atmosfera accogliente ma prezzi eccessivi.;0.42328679513998635
+https://www.yelp.it/biz/vittoria-torino-3;Locale piccolo ma super accogliente!;0.5246530721670275
+https://www.yelp.it/biz/poormanger-torino;Buono, semplice, rapido e economico!;0.5965735902799727
+https://www.yelp.it/biz/sushi-yu-torino;Locale curato e grazioso, personale silenzioso ma efficiente.;0.43490631873901675
+https://www.yelp.it/biz/la-porta-rossa-torino;Una vera, genuina ed onesta cucina familiare con una ascendenza regionale.;1.1183305339003289
+https://www.yelp.it/biz/cinese-chen-lon-torino;I proprietari cordiali e simpatici!;0.5643823935199818
+https://www.yelp.it/biz/bollicine-di-gigliotti-e-de-bartolo-torino;Personale competente, disponibile e cordiale.;0.5246530721670275
+https://www.yelp.it/biz/i-tesori-bari;Molto caratteristico, personale cordiale, ambiente retrò ma con stile.;1.0226975833370961
+https://www.yelp.it/biz/primaepoi-torino-3;Locale grande ma affollato, camerieri e manager indaffarati ma cordiali e disponibili.;1.6308986952713127
+https://www.yelp.it/biz/fassoneria-torino;Personale giovane ma gentile e professionale;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-enzo-e-ciro-di-fraddosio-v-c-bari;Locale tipico, informale, personale e propietari cortesi, pronti, professionali.;1.3958797346140275
+https://www.yelp.it/biz/club-monviso-torino;Personale giovane, professionale ed attento.;0.5246530721670275
+https://www.yelp.it/biz/re-vittorio-bari;Il locale è carino ed il personale gentile e accogliente.;1.049306144334055
+https://www.yelp.it/biz/biffi-valenzano;Il personale è cortese e l'atmosfera piacevole.;0.6772588722239782
+https://www.yelp.it/biz/la-locanda-del-bollito-torino;30  Bar illy veramente carino con pasticceria fresca e simpatica coppia di baristi gentilissimi.;0.8677434040435966
+https://www.yelp.it/biz/ristrot-guviol-torino;Una cena fantastica, un servizio professionale e cortese in un locale accogliente.;1.3635967777827946
+https://www.yelp.it/biz/yoshi-bar-torino;Il personale gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/la-galina-scannata-torino;Personale simpatico attento e disponibile.;0.5246530721670275
+https://www.yelp.it/biz/il-rustico-bari;Antipasti ottimi, pizza davvero buona, prezzi onesti, personale gentile.;1.4496877291300558
+https://www.yelp.it/biz/gyrosteria-yannis-bari-2;Cibo buono e personale cordiale.;1.049306144334055
+https://www.yelp.it/biz/focacceria-riviera-ligure-torino;Oltre a dolci e cornetti, il bar pasticceria propone biscotti e tanti tipi di cioccolatini di qualità  della Venchi.;0.0
+https://www.yelp.it/biz/taverna-delloca-torino;Il personale cordiale e gentile.;0.5643823935199818
+https://www.yelp.it/biz/eat-sicily-torino;Personale accogliente e simpatico .;0.5643823935199818
+https://www.yelp.it/biz/villa-della-regina-torino;Locale semplice, accogliente e familiare.;0.5246530721670275
+https://www.yelp.it/biz/cantinero-de-cuba-bari;Una location elegante ma informale.;0.5643823935199818
+https://www.yelp.it/biz/tre-galline-torino-2;Locale e personale accogliente .;0.5643823935199818
+https://www.yelp.it/biz/alberto-marchetti-torino-2;Personale gentile e competente .;0.5643823935199818
+https://www.yelp.it/biz/vasa-vasa-torino;Personale preparato, gentile ed attento.;0.5246530721670275
+https://www.yelp.it/biz/la-cecchina-bari;Location molto carina ,personale gentile e preparato.;1.5908629074132605
+https://www.yelp.it/biz/cento-90-due-torino-2;Ambiente accogliente, pulito e grazioso.;0.5246530721670275
+https://www.yelp.it/biz/bucks-g-d-34-torino-2;Se vi piace la cucina a base di pesce, ottimo locale.;0.48375633730284157
+https://www.yelp.it/biz/giudice-esercizio-torino;Accoglienza ottima, personale gentile e preparato.;0.47725887222397817
+https://www.yelp.it/biz/osteria-del-fiat-torino;Accoglienza buona locale gradevole personale gentile ed efficiente.;1.9941139065914677
+https://www.yelp.it/biz/alivella-torino;Bel locale curato e pulito.;0.5965735902799727
+https://www.yelp.it/biz/oashi-torino;Locale accogliente, personale simpatico e carne ottima.;1.5908629074132605
+https://www.yelp.it/biz/sir-francis-drake-torino;locale molto accogliente,piatti molto buoni e abbondanti e menú convenienti (birra inclusa!);1.268981576921843
+https://www.yelp.it/biz/la-bufala-torino;La pasta era buona, ben cotta.;0.3386294361119891
+https://www.yelp.it/biz/manhattan-pub-torino;Cibo con porzioni maxi, adatto per clientela affamata, di buona qualità, personale grezzo del servire.;1.1861081420155002
+https://www.yelp.it/biz/perbacco-bari;Rivisitazione di piatti semplici della tradizione popolare in chiave "radical chic" con risultato scarso da un punto di vista qualitativo e quantitativo!;1.4729550745276565
+https://www.yelp.it/biz/maggazino-52-torino;Mi limiterò a un semplice consiglio.;0.25
+https://www.yelp.it/biz/trattoria-torricelli-torino;Il posto accogliente personale gentilissimo.;0.5246530721670275
+https://www.yelp.it/biz/bar-tolesco-antonio-bari;Servizio veloce gentile ma attento!;0.5246530721670275
+https://www.yelp.it/biz/mina-torino;Buona pizza... Cotta bene, locale da migliorare, non molto pulito e non carino, sicuramente non per una cena romantica!;0.5
+https://www.yelp.it/biz/bocciofila-cavorettese-torino;Cucina piemontese semplice e buona.;0.5246530721670275
+https://www.yelp.it/biz/la-luna-rossa-torino;Cordiale e disponibile il personale;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-chez-jo-bari;Il locale è carino e accogliente e i camerieri bravi e disponibili.;1.3635967777827946
+https://www.yelp.it/biz/caff%C3%A8-palazzo-reale-torino-2;Ottimo ristorante da conoscere, ambiente sereno ed accogliente, servizio ottimo e in tempi giusti, cucina di livello molto apprezzabile.;1.1964683439548807
+https://www.yelp.it/biz/la-via-della-seta-torino;Il maître, cinese ma con completa padronanza della lingua italiana, è cortese ed efficiente.;1.4496877291300558
+https://www.yelp.it/biz/oro-birra-torino;Cibo ottimo , semplice e gustoso.;0.5246530721670275
+https://www.yelp.it/biz/caffe-shop-vergnao-torino;Il proprietario gentile e disponibile.;0.5643823935199818
+https://www.yelp.it/biz/antichi-sapori-torre-a-mare;personale cortese, cibo molto buono e dolce caldo alla crema superlativo.;1.550977482904475
+https://www.yelp.it/biz/ristoranti-tropicana-torino;Ottima e digeribile la pizza.;0.5643823935199818
+https://www.yelp.it/biz/l-angolo-del-caff%C3%A8-torino;Il locale inizialmente si presenta carino dall'esterno.;0.16666666666666666
+https://www.yelp.it/biz/boja-fauss-torino-2;Per un pranzo di lavoro o una cenetta romantica.;0.25
+https://www.yelp.it/biz/sibir-torino-2;bel locale, pulito, atmosfera moderna.;0.47725887222397817
+https://www.yelp.it/biz/macario-caffe-torino;Aperitivi ottimi e personale cordiale.;0.5246530721670275
+https://www.yelp.it/biz/pizzeria-poldo-torino;Locale tranquillo, semplice, ma accogliente.;0.5246530721670275
+https://www.yelp.it/biz/la-societ%C3%A0-dei-carbonari-torino;Per gli amanti della carne profondamente gustosa e rotonda è ideale.;1.3635967777827946
+https://www.yelp.it/biz/casa-del-barolo-torino-3;Camerieri cortesi, disponibili e precisi.;0.5246530721670275
+https://www.yelp.it/biz/peperosso-torino;Il servizio veloce e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/taverna-rossa-di-zappia-pasquale-torino;Costoso ma di alta qualità;0.5643823935199818
+https://www.yelp.it/biz/caffetteria-mazzini-torino;Osteria molto carina, in cui il piatto forte (letteralmente) sono gli antipasti.;0.1881274645066606
+https://www.yelp.it/biz/san-francisco-caff%C3%A8-torino;la cucina e ottima personale gentile e simpatico.;0.47725887222397817
+https://www.yelp.it/biz/libanese-el-mir-torino;Molto tranquillo, personale sempre gentile e cordiale.;1.1931471805599454
+https://www.yelp.it/biz/gelateria-miretti-torino-7;Menù molto ampio e vasto oltre che buonissimo !;1.259167373200866
+https://www.yelp.it/biz/banco-vini-e-alimenti-torino;Pittoresco e piacevole, personale gentile e disponibile.;0.5218875824868201
+https://www.yelp.it/biz/fetta-di-polenta-torino;locale accogliente in pieno centro.;0.5246530721670275
+https://www.yelp.it/biz/punto-pizza-di-moro-michel-torino;Pizza ottima, leggera e squisita.;0.5246530721670275
+https://www.yelp.it/biz/l-oca-fola-torino;Cordiale ed attento il servizio.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-ideal-di-atzori-alberto-torino;Servizio buono e personale gentile.;0.5246530721670275
+https://www.yelp.it/biz/cioccolato-peyrano-torino;Il posto è piccolo ma si sta tranquilli il personale è gentile e comunque si mangia bene il servizio è abbastanza veloce da provare;0.5302876358044202
+https://www.yelp.it/biz/l-agrifoglio-torino;Un posto confortevole e familiare.;0.5643823935199818
+https://www.yelp.it/biz/caffe-mozart-bari;Bella location personale gentile e affabile.;0.9545177444479563
+https://www.yelp.it/biz/quadrilatero-romano-torino;Locale piccolo ma molto accogliente.;0.42328679513998635
+https://www.yelp.it/biz/don-gennaro-torino;Il servizio attento e cortese.;0.5643823935199818
+https://www.yelp.it/biz/pizza-bon-bari;Comunque buona la pizza, meglio dei panzerotti e personale gentile!;0.8994052665720471
+https://www.yelp.it/biz/bastimento-torino;Sfiziosi e variegati gli antipasti.;0.5643823935199818
+https://www.yelp.it/biz/oinos-torino;Ottimo pesce, connubi delicati e interessanti tra i sapori siciliani e il tipico sushi.;1.4496877291300558
+https://www.yelp.it/biz/pizzeria-gino-torino;Personale fantastico sempre gentilissimo e super simpatici.;1.1931471805599454
+https://www.yelp.it/biz/nuovo-fizzarotti-bari;Servizio veloce e personale gentile.;1.5739592165010825
+https://www.yelp.it/biz/lo-scugnizzo-torino;Atmosfera elegante, calda e accogliente.;0.5246530721670275
+https://www.yelp.it/biz/le-due-antenne-bari;Raccomandato agli amanti del genuino.;0.5643823935199818
+https://www.yelp.it/biz/caff%C3%A8-mulassano-torino-3;Personale accogliente e professionale !;0.5643823935199818
+https://www.yelp.it/biz/panetteria-borgo-nuovo-torino;Servizio veloce, personale simpatico e disponibile.;0.47725887222397817
+https://www.yelp.it/biz/pippo-paranza-torino;I titolari simpatici e disponibili.;0.5643823935199818
+https://www.yelp.it/biz/john-joy-torino;Elegante e la cucina eccellente.;0.5643823935199818
+https://www.yelp.it/biz/al-garamond-torino;chef professionale e disponibile .;0.5643823935199818
+https://www.yelp.it/biz/al-paradise-palese;Ottimo locale , personale accogliente , gentile e spiritoso.;1.86117297948537
+https://www.yelp.it/biz/soci%C3%A9te-lut%C3%A9ce-torino-2;Indiscutibile la qualitá dei prodotti di mare e non , location molto bella ed accogliente propretario disponibile e molto gentile !;1.3596508380255292
+https://www.yelp.it/biz/fiorio-gelateria-torino-2;Personale solertissimo e gentile .;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-marfi-torino;Pizza buonissima e personale simpatico.;0.5246530721670275
+https://www.yelp.it/biz/piu-di-un-gelato-torino;Materie prime fresche e di buona qualità.;1.259167373200866
+https://www.yelp.it/biz/grezzo-torino;E' un locale elegante, con prodotti di altissima qualità e un personale motivato e appassionato.;1.0605752716088404
+https://www.yelp.it/biz/panificio-el-focacciaro-bari;Molto buoni anche i pan brioche, disponibile in più varianti e con l'impasto classico o integrale.;0.9488865136124002
+https://www.yelp.it/biz/osteria-le-arpie-bari;Porzioni abbondanti e prezzi perfetti, buona qualità del cibo e personale attento e disponibile.;1.6750556815368332
+https://www.yelp.it/biz/palazzo-bricherasio-torino;Il servizio è rapido e molto gentile!;0.6772588722239782
+https://www.yelp.it/biz/lady-bar-torino;baruccio carino in zona centrale.;0.25
+https://www.yelp.it/biz/sharazad-torino;Servizio veloce e personale cortese.;0.5246530721670275
+https://www.yelp.it/biz/il-barotto-torino;Staff gentile, capace e veloce.;0.5246530721670275
+https://www.yelp.it/biz/bar-imperfetto-di-da-campo-giuseppe-torino;Ma semplice allo stesso tempo.;0.5643823935199818
+https://www.yelp.it/biz/mole-antonelliana-torino;è una struttura enorme e molto elegante.;0.3386294361119891
+https://www.yelp.it/biz/sen-mi-ya-torino-2;Gli altri molto gentili e sorridenti.;0.5246530721670275
+https://www.yelp.it/biz/bar-peroni-bari;caratteristico ristorante dove puoi soddisfare la tua voglia di un piatto di pesce fresco.;0.16931471805599455
+https://www.yelp.it/biz/caffetteria-pasticceria-torino;il personale cortese e professionale.;0.5643823935199818
+https://www.yelp.it/biz/casa-vicina-torino;Centralissima e personale super gentile;0.5965735902799727
+https://www.yelp.it/biz/osteria-sopravento-bari-2;Locale piccolino, accogliente e con una forte atmosfera familiare.;1.1931471805599454
+https://www.yelp.it/biz/il-sedile-bari;Gentile e disponibile il personale.;1.1287647870399635
+https://www.yelp.it/biz/il-covo-del-gusto-perduto-bari;Frittura di pesce ottima accompagnata da un'ottima Verdeca , il personale gentilissimo ti fa sentire a casa .;0.17488435738900918
+https://www.yelp.it/biz/chiesa-della-gran-madre-di-dio-torino-2;Cena buonissima, personale molto gentile, locale all'interno in stile indiano... Una vera scoperta!!;1.3390500677524153
+https://www.yelp.it/biz/ponte-regina-torino;Consiglio vivamente, gentilezza del personale ineccepibile, grande scelta !!;0.24187816865142078
+https://www.yelp.it/biz/il-rosticciere-bari;certo non aspettatevi la classica ruota gigante!!;0.24187816865142078
+https://www.yelp.it/biz/zichella-torino;Buona, semplice e gustosa .;0.6995374295560367
+https://www.yelp.it/biz/lobelix-torino;Il posto piccolo ma carino.;0.5643823935199818
+https://www.yelp.it/biz/la-botte-gaia-torino;Lo staff simpatico e qualificato.;0.5643823935199818
+https://www.yelp.it/biz/bangla-takeaway-torino;Il personale é meraviglioso e gentilissimo!;0.5643823935199818
+https://www.yelp.it/biz/gadi-bari;Gelato buonissimo e cremoso, staff cordiale, locale all'avanguardia.;1.0226975833370961
+https://www.yelp.it/biz/platti-torino-2;Ambiente caldo e riservato, personale cortese.;0.47725887222397817
+https://www.yelp.it/biz/vermouth-anselmo-torino;Il personale, attento e gentile.;0.5643823935199818
+https://www.yelp.it/biz/japs-torino-2;Personale gentile e locale appartato.;1.5739592165010825
+https://www.yelp.it/biz/the-duke-of-wellington-torino;Il personale sorridente e cordiale.;0.5643823935199818
+https://www.yelp.it/biz/antico-balon-torino;Il servizio competente e simpatico.;0.5643823935199818
+https://www.yelp.it/biz/japs-torino-3;Strabuoni i roll, molto particolari e gustosissimi (Hot&Cold e Kunsei i nostri preferiti), pesce sempre fresco, menu vario, consegne puntualissime e personale gentile.;1.2966069649178256
+https://www.yelp.it/biz/duomo-di-torino-torino;Servizio lento e poco efficiente.;0.42328679513998635
+https://www.yelp.it/biz/gusti-e-sapori-torino;Personale cordiale e super disponibile!;0.5246530721670275
+https://www.yelp.it/biz/ristorante-peppino-torino;Personale giovane e gentilissimo !!!;0.5643823935199818
+https://www.yelp.it/biz/il-giglio-torino;Gentile e premuroso il personale.;0.5643823935199818
+https://www.yelp.it/biz/il-re-sole-torino;Semplice ma di altissima qualità.;0.5643823935199818
+https://www.yelp.it/biz/trattoria-alba-torino;Ottima per una cena veloce.;0.5643823935199818
+https://www.yelp.it/biz/pizzeria-l-orchidea-torino;Cordiali e disponibili i camerieri.;0.5643823935199818
+https://www.yelp.it/biz/artinfood-torino;Il personale freddo ma efficiente.;0.5643823935199818

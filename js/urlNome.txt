@@ -1,0 +1,977 @@
+https://www.yelp.it/biz/da-paolo-bari;Da Paolo
+https://www.yelp.it/biz/frulez-bari;Frulez
+https://www.yelp.it/biz/antica-gelateria-gentile-bari;Antica Gelateria Gentile
+https://www.yelp.it/biz/la-uascezze-bari;La Uascezze
+https://www.yelp.it/biz/sandrino-bari-2;Sandrino
+https://www.yelp.it/biz/shodai-bari;Shodai
+https://www.yelp.it/biz/pizzeria-di-cosimo-bari;Pizzeria di Cosimo
+https://www.yelp.it/biz/biancofiore-bari;Biancofiore
+https://www.yelp.it/biz/osteria-sopravento-bari-2;Osteria Sopravento
+https://www.yelp.it/biz/martinucci-bari-2;Martinucci
+https://www.yelp.it/biz/bar-telebari-bari;Bar Telebari
+https://www.yelp.it/biz/gyrosteria-yannis-bari-2;Gyrosteria Yannis
+https://www.yelp.it/biz/osteria-al-gambero-bari;Osteria Al Gambero
+https://www.yelp.it/biz/eataly-bari;Eataly
+https://www.yelp.it/biz/ai-2-ghiottoni-bari-2;AI 2 Ghiottoni
+https://www.yelp.it/biz/bari-napoli-bari;Bari Napoli
+https://www.yelp.it/biz/il-rustico-bari;Il Rustico
+https://www.yelp.it/biz/joys-pub-bari;Joy’s Pub
+https://www.yelp.it/biz/blue-eyes-bari;Blue Eyes
+https://www.yelp.it/biz/pizzeria-enzo-e-ciro-di-fraddosio-v-c-bari;Pizzeria Enzo e Ciro di Fraddosio V. C.
+https://www.yelp.it/biz/napul-e-bari;Napul’ E
+https://www.yelp.it/biz/matti-brown-bari;Matti Brown
+https://www.yelp.it/biz/la-tana-del-polpo-bari;La Tana del Polpo
+https://www.yelp.it/biz/el-churrasco-bari-2;El Churrasco
+https://www.yelp.it/biz/la-cecchina-bari;La Cecchina
+https://www.yelp.it/biz/ristopizza-giampaolo-bari;Ristopizza Giampaolo
+https://www.yelp.it/biz/il-gelatiere-bari-3;Il Gelatiere
+https://www.yelp.it/biz/ciclatera-sotto-il-mare-bari;Ciclatera sotto il Mare
+https://www.yelp.it/biz/gasperini-bari;Gasperini
+https://www.yelp.it/biz/osteria-le-arpie-bari;Osteria Le Arpie
+https://www.yelp.it/biz/dublin-house-bari;Dublin House
+https://www.yelp.it/biz/pizzeria-da-donato-bari;Pizzeria Da Donato
+https://www.yelp.it/biz/bilab%C3%AC-bari;Bilabì
+https://www.yelp.it/biz/hagakure-bari;Hagakure
+https://www.yelp.it/biz/botta-bari;Botta
+https://www.yelp.it/biz/gadi-bari;Gadi
+https://www.yelp.it/biz/tadadatta-pub-bari;tadadatta pub
+https://www.yelp.it/biz/mojiteria-bari-2;Mojiteria
+https://www.yelp.it/biz/osteria-antichi-sapori-bari;Osteria Antichi Sapori
+https://www.yelp.it/biz/black-e-white-bari;Black & White
+https://www.yelp.it/biz/osteria-dei-quattro-gatti-bari;Osteria dei Quattro Gatti
+https://www.yelp.it/biz/pizzeria-baraonda-bari;Pizzeria Baraonda
+https://www.yelp.it/biz/il-rosticciere-bari;Il Rosticciere
+https://www.yelp.it/biz/cantinero-de-cuba-bari;Cantinero De Cuba
+https://www.yelp.it/biz/storie-del-vecchio-sud-bari;Storie del Vecchio Sud
+https://www.yelp.it/biz/perbacco-bari;Perbacco
+https://www.yelp.it/biz/max-caff%C3%A9-bari;Max caffé
+https://www.yelp.it/biz/le-grand-tabu-bari;Le Grand Tabu’
+https://www.yelp.it/biz/farmacia-dei-sani-bari;Farmacia Dei Sani
+https://www.yelp.it/biz/stoppani-gaspare-bari-2;Stoppani Gaspare
+https://www.yelp.it/biz/il-dolcetto-bari;Il Dolcetto
+https://www.yelp.it/biz/al-savoia-bari;Al Savoia
+https://www.yelp.it/biz/mastro-ciccio-bari;Mastro Ciccio
+https://www.yelp.it/biz/cib%C3%B2-bari;Cibò
+https://www.yelp.it/biz/ci%C3%A0nna-ci%C3%A0nne-bari;Ciànna Ciànne
+https://www.yelp.it/biz/caffe-mozart-bari;Caffe’ Mozart
+https://www.yelp.it/biz/al-111-bari-2;Al 111
+https://www.yelp.it/biz/dickens-inn-bari;Dickens’ Inn
+https://www.yelp.it/biz/emozioni-di-gusto-bari;Emozioni di Gusto
+https://www.yelp.it/biz/bacco-bari;Bacco
+https://www.yelp.it/biz/opera-bari;Opera
+https://www.yelp.it/biz/sushitao-bari;Sushitao
+https://www.yelp.it/biz/tiffany-caff%C3%A8-bari;Tiffany Caffè
+https://www.yelp.it/biz/panificio-magda-bari;Panificio Magda
+https://www.yelp.it/biz/braceria-signorile-bari;Braceria Signorile
+https://www.yelp.it/biz/borgo-antico-bari;Borgo Antico
+https://www.yelp.it/biz/mastro-ciccio-di-mastrandrea-fabio-bari;Mastro Ciccio Di Mastrandrea Fabio
+https://www.yelp.it/biz/mcdonalds-bari-3;McDonald’s
+https://www.yelp.it/biz/terra-di-mezzo-di-polignano-davide-bari;Terra Di Mezzo Di Polignano Davide
+https://www.yelp.it/biz/sandrino-bari;Sandrino
+https://www.yelp.it/biz/pizzeria-tarantini-al-cancello-rotto-bari;Pizzeria Tarantini AL Cancello Rotto
+https://www.yelp.it/biz/pizzeria-aladino-bari;Pizzeria Aladino
+https://www.yelp.it/biz/bar-peroni-bari;Bar Peroni
+https://www.yelp.it/biz/moderat-bari;Moderat
+https://www.yelp.it/biz/osteria-della-travi-bari;Osteria della Travi
+https://www.yelp.it/biz/caff%C3%A8-borghese-bari;Caffè Borghese
+https://www.yelp.it/biz/i-tesori-bari;I Tesori
+https://www.yelp.it/biz/la-parrilla-de-juan-bari;La Parrilla De Juan
+https://www.yelp.it/biz/la-baita-bari;La Baita
+https://www.yelp.it/biz/the-stuart-pub-bari;The Stuart Pub
+https://www.yelp.it/biz/dipierro-caffetteria-bari;Dipierro Caffetteria
+https://www.yelp.it/biz/bar-cavour-55-bari;Bar Cavour 55
+https://www.yelp.it/biz/tiella-bari;Tiella
+https://www.yelp.it/biz/da-nathalie-bari;Da Nathalie
+https://www.yelp.it/biz/my-sushi-bari;My Sushi
+https://www.yelp.it/biz/il-trabaccolo-bari;il trabaccolo
+https://www.yelp.it/biz/stanza-caff%C3%A8-bari;Stanza Caffè
+https://www.yelp.it/biz/shot-pub-bari;shot pub
+https://www.yelp.it/biz/factory-bari;Factory
+https://www.yelp.it/biz/pizzeria-pizzabon-bari;Pizzeria Pizzabon
+https://www.yelp.it/biz/pizzeria-al-buco-bari;Pizzeria Al Buco
+https://www.yelp.it/biz/pizzeria-chez-jo-bari;Pizzeria Chez JO
+https://www.yelp.it/biz/alberosole-bari;Alberosole
+https://www.yelp.it/biz/pizzeria-continental-pizzorante-bari-2;Pizzeria Continental Pizzorante
+https://www.yelp.it/biz/panificio-el-focacciaro-bari;Panificio El Focacciaro
+https://www.yelp.it/biz/el-pedro-di-graziosi-michele-bari;EL Pedro di Graziosi Michele
+https://www.yelp.it/biz/maltos-beer-bari;Malto’s Beer
+https://www.yelp.it/biz/al-sorso-preferito-bari;Al Sorso Preferito
+https://www.yelp.it/biz/cafe-rock-bari;Cafe Rock
+https://www.yelp.it/biz/le-tre-lanterne-bari;Le Tre Lanterne
+https://www.yelp.it/biz/caf%C3%A9-murat-bari;Café Murat
+https://www.yelp.it/biz/oolivoo-bari;Oolivoo
+https://www.yelp.it/biz/pizzeria-bianco-farina-bari;Pizzeria Bianco Farina
+https://www.yelp.it/biz/la-pignata-bari;La Pignata
+https://www.yelp.it/biz/gelateria-piccinni-bari;Gelateria Piccinni
+https://www.yelp.it/biz/timeout-bari;Timeout
+https://www.yelp.it/biz/taiki-bari;Taiki
+https://www.yelp.it/biz/stazione-servizio-erg-bari;Stazione Servizio Erg
+https://www.yelp.it/biz/la-provolina-bari;La Provolina
+https://www.yelp.it/biz/la-locanda-bari;La Locanda
+https://www.yelp.it/biz/nuovo-fizzarotti-bari;Nuovo Fizzarotti
+https://www.yelp.it/biz/le-due-antenne-bari;Le Due Antenne
+https://www.yelp.it/biz/younger-pub-bari;Younger Pub
+https://www.yelp.it/biz/pizzeria-pizza-e-altro-bari;Pizzeria Pizza e Altro
+https://www.yelp.it/biz/conchigliabar-bari;Conchigliabar
+https://www.yelp.it/biz/re-vittorio-bari;Re Vittorio
+https://www.yelp.it/biz/cult-bari;Cult
+https://www.yelp.it/biz/hamp-bari;Hamp
+https://www.yelp.it/biz/cinese-fang-xiang-bari;Cinese Fang Xiang
+https://www.yelp.it/biz/pizzeria-antipasteria-bistro-bari;Pizzeria Antipasteria Bistro
+https://www.yelp.it/biz/tatami-bari;Tatami
+https://www.yelp.it/biz/urban-bari;Urban
+https://www.yelp.it/biz/spaghetteria-70cento-bari;Spaghetteria 70Cento
+https://www.yelp.it/biz/caff%C3%A8-latino-bari-2;Caffè Latino
+https://www.yelp.it/biz/pizzeria-la-tana-bari;Pizzeria la Tana
+https://www.yelp.it/biz/tabit-bari;Tabit
+https://www.yelp.it/biz/colorado-caffe-bari;Colorado Caffe
+https://www.yelp.it/biz/bar-tolesco-antonio-bari;Bar Tolesco Antonio
+https://www.yelp.it/biz/grill-burger-house-bari;Grill Burger House
+https://www.yelp.it/biz/la-pupetta-bari;La Pupetta
+https://www.yelp.it/biz/il-sedile-bari;Il Sedile
+https://www.yelp.it/biz/prosepe-pasticceri-valenzano;Prosepe Pasticceri
+https://www.yelp.it/biz/nd%C3%A8rre-a-la-lanze-bari;NDèrre a la lanze
+https://www.yelp.it/biz/le-veronique-bari-2;Le Veronique
+https://www.yelp.it/biz/bar-miramare-bari;Bar Miramare
+https://www.yelp.it/biz/morelli-antonio-modugno;Morelli / Antonio
+https://www.yelp.it/biz/momo-bari;Momo’
+https://www.yelp.it/biz/pizza-bon-bari;Pizza Bon
+https://www.yelp.it/biz/givaro-c-bari;Givaro’ C.
+https://www.yelp.it/biz/al-cantuccio-bari;Al Cantuccio
+https://www.yelp.it/biz/pizzeria-osteria-dal-vassallo-bari;Pizzeria Osteria Dal Vassallo
+https://www.yelp.it/biz/antica-osteria-cairoli-bari;Antica Osteria Cairoli
+https://www.yelp.it/biz/la-braciola-bari;La Braciola
+https://www.yelp.it/biz/biancofarina-bari;Biancofarina
+https://www.yelp.it/biz/le-mura-bari;Le Mura
+https://www.yelp.it/biz/la-battigia-di-schiralli-antonio-bari;La Battigia di Schiralli Antonio
+https://www.yelp.it/biz/gulp-bari;Gulp
+https://www.yelp.it/biz/le-lupin-dei-f-lli-zambetta-bari;LE Lupin dei F.lli Zambetta
+https://www.yelp.it/biz/babayaga-bari;Babayaga
+https://www.yelp.it/biz/pizzeria-dreher-dregh%C3%A8r-bari;Pizzeria Dreher dreghèr
+https://www.yelp.it/biz/pizzeria-d-autore-bari;Pizzeria D’autore
+https://www.yelp.it/biz/al-paradise-palese;Al Paradise
+https://www.yelp.it/biz/terra-di-mezzo-bari;Terra di Mezzo
+https://www.yelp.it/biz/pizzeria-enzo-bari;Pizzeria Enzo
+https://www.yelp.it/biz/caffeteria-federico-ii-bari;Caffeteria Federico II
+https://www.yelp.it/biz/grotta-azzurra-bari;Grotta Azzurra
+https://www.yelp.it/biz/al-raffaello-bari;Al Raffaello
+https://www.yelp.it/biz/le-plus-bon-bari;Le Plus Bon
+https://www.yelp.it/biz/al-pescatore-bari;Al Pescatore
+https://www.yelp.it/biz/pizzeria-il-pirata-bari;Pizzeria Il Pirata
+https://www.yelp.it/biz/da-nicola-torre-a-mare;Da Nicola
+https://www.yelp.it/biz/il-covo-del-gusto-perduto-bari;Il Covo del Gusto Perduto
+https://www.yelp.it/biz/hagakure-fusion-bari;Hagakure - Fusion
+https://www.yelp.it/biz/cris-e-bio-bari;Cris e Bio
+https://www.yelp.it/biz/windigo-saloon-bari;Windigo Saloon
+https://www.yelp.it/biz/quanto-basta-bari;Quanto Basta
+https://www.yelp.it/biz/pizzeria-divina-bari;Pizzeria Divina
+https://www.yelp.it/biz/il-fornaccio-bari;Il Fornaccio
+https://www.yelp.it/biz/l-antico-arco-cellamare;L’antico Arco
+https://www.yelp.it/biz/ghiaccio-bollente-bari-santo-spirito;Ghiaccio Bollente
+https://www.yelp.it/biz/pizzeria-la-piazzetta-bitritto;Pizzeria La Piazzetta
+https://www.yelp.it/biz/pizza-rama-di-frisone-andrea-modugno;Pizza Rama Di Frisone Andrea
+https://www.yelp.it/biz/home-burger-palese;Home Burger
+https://www.yelp.it/biz/nouvel-vis-a-vis-modugno;Nouvel VIS A VIS
+https://www.yelp.it/biz/pizzeria-petit-roi-bitritto;Pizzeria Petit Roi
+https://www.yelp.it/biz/antichi-sapori-torre-a-mare;Antichi Sapori
+https://www.yelp.it/biz/biffi-valenzano;Biffi
+https://www.yelp.it/biz/las-vegas-torre-a-mare;Las Vegas
+https://www.yelp.it/biz/glamour-caff%C3%A8-lamie;Glamour Caffè
+https://www.yelp.it/biz/lo-sfizio-bitritto;Lo Sfizio
+https://www.yelp.it/biz/casablanca-bari;Casablanca
+https://www.yelp.it/biz/bar-italia-noicattaro;Bar Italia
+https://www.yelp.it/biz/ristorante-lo-scoglio-da-vito-bari-2;Ristorante Lo Scoglio DA Vito
+https://www.yelp.it/biz/eataly-torino-torino;Eataly Torino
+https://www.yelp.it/biz/amici-miei-torino;Amici Miei
+https://www.yelp.it/biz/locanda-da-betty-torino;Locanda da Betty
+https://www.yelp.it/biz/baratti-e-milano-torino-2;Baratti & Milano
+https://www.yelp.it/biz/al-bicerin-torino;Al Bicerin
+https://www.yelp.it/biz/signorvino-torino;Signorvino
+https://www.yelp.it/biz/gennaro-esposito-torino;Gennaro Esposito
+https://www.yelp.it/biz/fiorio-caff%C3%A8-torino;Fiorio Caffè
+https://www.yelp.it/biz/grom-torino-2;Grom
+https://www.yelp.it/biz/del-cambio-torino;Del Cambio
+https://www.yelp.it/biz/la-capannina-torino-2;La Capannina
+https://www.yelp.it/biz/poormanger-torino;Poormanger
+https://www.yelp.it/biz/piola-cianci-torino;Piola Cianci
+https://www.yelp.it/biz/caff%C3%A8-mulassano-torino-3;Caffè Mulassano
+https://www.yelp.it/biz/caff%C3%A8-torino-torino-2;Caffè Torino
+https://www.yelp.it/biz/prima-e-poi-torino;Prima e Poi
+https://www.yelp.it/biz/%C3%A8-cucina-cesare-marretti-torino;È Cucina Cesare Marretti
+https://www.yelp.it/biz/teapot-torino;Teapot
+https://www.yelp.it/biz/ristoranti-alba-torino;Ristoranti-Alba
+https://www.yelp.it/biz/sicomoro-torino;Sicomoro
+https://www.yelp.it/biz/quattro-soldi-torino;Quattro Soldi
+https://www.yelp.it/biz/cammaf%C3%A0-torino-4;Cammafà
+https://www.yelp.it/biz/ristoranti-taverna-delle-rose-torino-2;Ristoranti: Taverna Delle Rose
+https://www.yelp.it/biz/master-sandwich-torino;Master Sandwich
+https://www.yelp.it/biz/alberto-marchetti-torino;Alberto Marchetti
+https://www.yelp.it/biz/scannabue-torino;Scannabue
+https://www.yelp.it/biz/m-bun-torino;M**Bun
+https://www.yelp.it/biz/fuzion-torino;Fuzion
+https://www.yelp.it/biz/solferino-torino;Solferino
+https://www.yelp.it/biz/catullo-torino-2;Catullo
+https://www.yelp.it/biz/lobelix-torino;Lobelix
+https://www.yelp.it/biz/busters-coffee-torino;Busters Coffee
+https://www.yelp.it/biz/il-vicolo-torino;Il Vicolo
+https://www.yelp.it/biz/magorabin-torino;Magorabin
+https://www.yelp.it/biz/la-badessa-torino-2;La Badessa
+https://www.yelp.it/biz/panperfocaccia-torino-2;Panperfocaccia
+https://www.yelp.it/biz/guido-gobino-torino-3;Guido Gobino
+https://www.yelp.it/biz/seven-up-torino;Seven Up
+https://www.yelp.it/biz/mare-nostrum-torino;Mare Nostrum
+https://www.yelp.it/biz/imbarco-perosino-torino;Imbarco Perosino
+https://www.yelp.it/biz/pastificio-defilippis-torino;Pastificio Defilippis
+https://www.yelp.it/biz/fratelli-roselli-torino;Fratelli Roselli
+https://www.yelp.it/biz/sfashion-cafe-torino;Sfashion Cafe’
+https://www.yelp.it/biz/eno-libero-emporio-enogastronomico-torino;Eno’ Libero Emporio Enogastronomico
+https://www.yelp.it/biz/tre-galline-torino-2;Tre Galline
+https://www.yelp.it/biz/l-birichin-torino-2;‘L Birichin
+https://www.yelp.it/biz/la-romana-torino-2;La Romana
+https://www.yelp.it/biz/pai-bikery-torino;PAI Bikery
+https://www.yelp.it/biz/bistrot-turin-torino;Bistrot Turin
+https://www.yelp.it/biz/kombu-torino;Kombu
+https://www.yelp.it/biz/a-casa-di-pulcinella-torino;A Casa di Pulcinella
+https://www.yelp.it/biz/grom-torino;Grom
+https://www.yelp.it/biz/torteria-olsen-torino;Torteria Olsen
+https://www.yelp.it/biz/imbarchino-torino;Imbarchino
+https://www.yelp.it/biz/bicyclette-torino;Bicyclette
+https://www.yelp.it/biz/tre-galli-torino-2;TRE Galli
+https://www.yelp.it/biz/coox-torino;Coox
+https://www.yelp.it/biz/osteria-antiche-sere-torino;Osteria Antiche Sere
+https://www.yelp.it/biz/vanilla-torino;Vanilla
+https://www.yelp.it/biz/focacceria-riviera-ligure-torino;Focacceria Riviera Ligure
+https://www.yelp.it/biz/m-bun-torino-3;M Bun
+https://www.yelp.it/biz/open-baladin-torino;Open Baladin
+https://www.yelp.it/biz/la-conca-torino;La Conca
+https://www.yelp.it/biz/soup-e-go-torino;Soup&Go
+https://www.yelp.it/biz/da-ciro-torino;da Ciro
+https://www.yelp.it/biz/gelateria-mondello-torino;Gelateria Mondello
+https://www.yelp.it/biz/kipling-torino;Kipling
+https://www.yelp.it/biz/karmacola-torino;Karmacola
+https://www.yelp.it/biz/la-drogheria-torino;La Drogheria
+https://www.yelp.it/biz/platti-torino-2;Platti
+https://www.yelp.it/biz/napples-torino;Napples
+https://www.yelp.it/biz/augusto-torino;Augusto
+https://www.yelp.it/biz/murphys-pub-torino;murphys pub
+https://www.yelp.it/biz/osteria-del-fiat-torino;Osteria Del Fiat
+https://www.yelp.it/biz/ottimo-torino;Ottimo
+https://www.yelp.it/biz/cinese-du-cheng-torino-2;Cinese Du Cheng
+https://www.yelp.it/biz/birrificio-torino-torino;Birrificio Torino
+https://www.yelp.it/biz/petit-baladin-torino;Petit Baladin
+https://www.yelp.it/biz/la-piramide-torino;La Piramide
+https://www.yelp.it/biz/silvano-torino-2;Silvano
+https://www.yelp.it/biz/t-bone-station-torino;T Bone Station
+https://www.yelp.it/biz/il-siculo-di-savona-monica-torino;Il Siculo di Savona Monica
+https://www.yelp.it/biz/alla-lettera-torino;Alla Lettera
+https://www.yelp.it/biz/japs-torino-2;Japs!
+https://www.yelp.it/biz/la-fila-torino;La Fila
+https://www.yelp.it/biz/pizzeria-gino-torino;Pizzeria Gino
+https://www.yelp.it/biz/pepino-torino;Pepino
+https://www.yelp.it/biz/giapponese-sakura-torino;giapponese Sakura
+https://www.yelp.it/biz/piper-pub-torino;Piper Pub
+https://www.yelp.it/biz/wasabi-torino;Wasabi
+https://www.yelp.it/biz/ristrot-guviol-torino;Ristrot Guviol
+https://www.yelp.it/biz/gufo-bianco-torino;Gufo Bianco
+https://www.yelp.it/biz/burgheria-torino;Burgheria
+https://www.yelp.it/biz/torteria-berlicabarbis-torino;Torteria Berlicabarbis
+https://www.yelp.it/biz/la-taverna-dei-mercanti-turin;La Taverna dei Mercanti
+https://www.yelp.it/biz/walima-torino;Walima
+https://www.yelp.it/biz/fratelli-la-cozza-torino-2;Fratelli la Cozza
+https://www.yelp.it/biz/america-graffiti-torino;America Graffiti
+https://www.yelp.it/biz/cornetti-night-torino-2;Cornetti Night
+https://www.yelp.it/biz/turet-torino;Turet
+https://www.yelp.it/biz/porto-di-savona-torino;Porto di Savona
+https://www.yelp.it/biz/istanbul-pizza-kebab-torino;Istanbul Pizza Kebab
+https://www.yelp.it/biz/la-casa-del-demone-torino;La Casa del Demone
+https://www.yelp.it/biz/manhattan-pub-torino;manhattan pub
+https://www.yelp.it/biz/cera-una-volta-torino;C’era una volta
+https://www.yelp.it/biz/il-gelato-amico-torino;Il Gelato Amico
+https://www.yelp.it/biz/la-societ%C3%A0-dei-carbonari-torino;La Società dei Carbonari
+https://www.yelp.it/biz/rivareno-torino;Rivareno
+https://www.yelp.it/biz/monferrato-torino;Monferrato
+https://www.yelp.it/biz/piu-di-un-gelato-torino;Piu di un Gelato
+https://www.yelp.it/biz/ristorante-consorzio-torino;Ristorante Consorzio
+https://www.yelp.it/biz/simbad-kebab-torino;Simbad Kebab
+https://www.yelp.it/biz/gelateria-miretti-torino-7;Gelateria Miretti
+https://www.yelp.it/biz/mamma-mia-torino-2;Mamma Mia
+https://www.yelp.it/biz/ceccarelli-torino;Ceccarelli
+https://www.yelp.it/biz/cafe-tabac-torino;Cafe Tabac
+https://www.yelp.it/biz/la-cena-coi-fiocchi-torino;La Cena Coi Fiocchi
+https://www.yelp.it/biz/taverna-i-miserabili-torino;Taverna I Miserabili
+https://www.yelp.it/biz/blah-blah-torino;Blah Blah
+https://www.yelp.it/biz/les-arcades-tamango-torino;Les Arcades Tamango
+https://www.yelp.it/biz/il-giglio-torino;Il Giglio
+https://www.yelp.it/biz/delfino-blu-torino;Delfino Blu
+https://www.yelp.it/biz/murphys-torino;Murphys
+https://www.yelp.it/biz/re-sole-torino-2;Re Sole
+https://www.yelp.it/biz/soul-kitchen-torino;Soul Kitchen
+https://www.yelp.it/biz/trattoria-mombercelli-di-antico-elena-torino;Trattoria Mombercelli di Antico Elena
+https://www.yelp.it/biz/orso-torino;Orso
+https://www.yelp.it/biz/shore-torino;Shore
+https://www.yelp.it/biz/cioccolato-peyrano-torino;Cioccolato Peyrano
+https://www.yelp.it/biz/granbar-torino;Granbar
+https://www.yelp.it/biz/gelateria-grom-torino-2;Gelateria Grom
+https://www.yelp.it/biz/diecicento-torino-2;Diecicento
+https://www.yelp.it/biz/bruschetteria-pautasso-di-stecco-susanna-torino;Bruschetteria Pautasso di Stecco Susanna
+https://www.yelp.it/biz/huntsman-pub-torino;Huntsman Pub
+https://www.yelp.it/biz/soci%C3%A9te-lut%C3%A9ce-torino-2;Sociéte Lutéce
+https://www.yelp.it/biz/mezzaluna-osteria-torino;Mezzaluna Osteria
+https://www.yelp.it/biz/il-brigantino-torino;Il Brigantino
+https://www.yelp.it/biz/rossopomodoro-torino;Rossopomodoro
+https://www.yelp.it/biz/monegato-torino;Monegato
+https://www.yelp.it/biz/cinque-lire-torino;Cinque Lire
+https://www.yelp.it/biz/cantine-risso-torino;Cantine Risso
+https://www.yelp.it/biz/a-picciridda-torino;A Picciridda
+https://www.yelp.it/biz/horas-kebab-torino;Horas Kebab
+https://www.yelp.it/biz/km5-torino;Km5
+https://www.yelp.it/biz/exki-pietro-micca-torino;EXKi Pietro Micca
+https://www.yelp.it/biz/la-monachella-torino;La Monachella
+https://www.yelp.it/biz/l-osto-d%C3%ABl-borgh-vej-torino;L’osto dël borgh vej
+https://www.yelp.it/biz/one-apple-torino;One Apple
+https://www.yelp.it/biz/girarrosto-santa-rita-torino;Girarrosto Santa Rita
+https://www.yelp.it/biz/enzo-e-grazia-di-matera-grazia-torino;Enzo e Grazia di Matera Grazia
+https://www.yelp.it/biz/kokoroya-torino;Kokoroya
+https://www.yelp.it/biz/osteria-degli-ottoni-torino;Osteria degli Ottoni
+https://www.yelp.it/biz/kebab-samir-torino;kebab Samir
+https://www.yelp.it/biz/japs-torino-3;Japs!
+https://www.yelp.it/biz/sweet-lab-torino;Sweet Lab
+https://www.yelp.it/biz/la-porta-rossa-torino;La Porta Rossa
+https://www.yelp.it/biz/circolo-dei-lettori-torino;Circolo dei lettori
+https://www.yelp.it/biz/vo-torino;Vo
+https://www.yelp.it/biz/caffe-vittorio-veneto-torino;Caffe Vittorio Veneto
+https://www.yelp.it/biz/paco-torino;Paco
+https://www.yelp.it/biz/miagola-cafe-torino;Miagola cafe
+https://www.yelp.it/biz/passamaneria-torino;Passamaneria
+https://www.yelp.it/biz/casale93-torino;Casale93
+https://www.yelp.it/biz/messicano-mamasita-torino;Messicano Mamasita
+https://www.yelp.it/biz/focacceria-santagostino-torino-2;Focacceria Sant’Agostino
+https://www.yelp.it/biz/pollastrini-torino;Pollastrini
+https://www.yelp.it/biz/caff%C3%A8-elena-storico-torino;Caffè Elena Storico
+https://www.yelp.it/biz/el-puig-d-estelles-torino;El Puig d’Estelles
+https://www.yelp.it/biz/oashi-torino;oashi
+https://www.yelp.it/biz/convitto-torteria-caf%C3%A8-torino;Convitto Torteria Cafè
+https://www.yelp.it/biz/oinos-torino;Oinos
+https://www.yelp.it/biz/vale-un-per%C3%B9-torino-2;Vale Un Perù
+https://www.yelp.it/biz/niva-cremeria-torino;Niva Cremeria
+https://www.yelp.it/biz/volver-torino-2;Volver
+https://www.yelp.it/biz/eos-torino;EOS
+https://www.yelp.it/biz/xo-caf%C3%A8-torino-3;XO’ Cafè
+https://www.yelp.it/biz/taglio-torino;Taglio
+https://www.yelp.it/biz/trattoria-valenza-torino;Trattoria Valenza
+https://www.yelp.it/biz/ristorante-enoteca-parlap%C3%A0-torino-2;Ristorante Enoteca Parlapà
+https://www.yelp.it/biz/le-rondini-torino;Le Rondini
+https://www.yelp.it/biz/bene-cos%C3%AC-torino;Bene Così
+https://www.yelp.it/biz/conte-verde-torino-2;Conte Verde
+https://www.yelp.it/biz/dora-in-poi-torino;Dora In Poi
+https://www.yelp.it/biz/costadoro-torino;Costadoro
+https://www.yelp.it/biz/la-locanda-del-bollito-torino;La Locanda del Bollito
+https://www.yelp.it/biz/l-accademia-del-panino-torino;L’Accademia del Panino
+https://www.yelp.it/biz/boja-fauss-torino-2;Boja Fauss
+https://www.yelp.it/biz/old-wild-west-torino;Old Wild West
+https://www.yelp.it/biz/l-angolo-greco-torino;L’Angolo Greco
+https://www.yelp.it/biz/shamrock-inn-torino;Shamrock inn
+https://www.yelp.it/biz/waxy-torino;Waxy
+https://www.yelp.it/biz/pizzeria-fratelli-la-bufala-torino;Pizzeria Fratelli La Bufala
+https://www.yelp.it/biz/bunet-torino;Bunet
+https://www.yelp.it/biz/el-centenario-torino;El Centenario
+https://www.yelp.it/biz/lord-nelson-torino;Lord Nelson
+https://www.yelp.it/biz/pastarell-mont%C3%A0;Pastarell
+https://www.yelp.it/biz/mcdonalds-torino-3;McDonald’s
+https://www.yelp.it/biz/ristorante-g-torino;Ristorante G
+https://www.yelp.it/biz/lo-stonnato-torino;Lo Stonnato
+https://www.yelp.it/biz/la-ristonomia-torino;La Ristonomia
+https://www.yelp.it/biz/cecchi-torino;Cecchi
+https://www.yelp.it/biz/scapadaca-torino;Scapa’daca’
+https://www.yelp.it/biz/fiorfood-torino;Fiorfood
+https://www.yelp.it/biz/villa-somis-torino;Villa Somis
+https://www.yelp.it/biz/jumping-jester-torino;Jumping Jester
+https://www.yelp.it/biz/adonis-torino;Adonis
+https://www.yelp.it/biz/caffe-del-centro-torino;Caffe’ del Centro
+https://www.yelp.it/biz/shaka-brah-torino;Shaka Brah
+https://www.yelp.it/biz/barnum-torino;Barnum
+https://www.yelp.it/biz/bucks-g-d-34-torino-2;Buck’s G.D. 34
+https://www.yelp.it/biz/frat%C3%B2-torino;Fratò
+https://www.yelp.it/biz/primaepoi-torino-3;Primaepoi
+https://www.yelp.it/biz/el-centenario-torino-2;El Centenario
+https://www.yelp.it/biz/caff%C3%A8-petra-torino;Caffè Petra
+https://www.yelp.it/biz/rossosapore-torino;Rossosapore
+https://www.yelp.it/biz/st-martin-torino;St. Martin
+https://www.yelp.it/biz/le-putrelle-osteria-torino;Le Putrelle Osteria
+https://www.yelp.it/biz/vintage-torino;Vintage
+https://www.yelp.it/biz/cantina-babette-torino;Cantina Babette
+https://www.yelp.it/biz/caff%C3%A9-montevecchio-torino;Caffé Montevecchio
+https://www.yelp.it/biz/serranos-torino;Serranos
+https://www.yelp.it/biz/pizzeria-da-michele-torino;Pizzeria Da Michele
+https://www.yelp.it/biz/tasty-burger-torino;Tasty Burger
+https://www.yelp.it/biz/taco-bang-torino;Taco Bang
+https://www.yelp.it/biz/casa-fiore-torino;Casa Fiore
+https://www.yelp.it/biz/galante-torino;Galante
+https://www.yelp.it/biz/nyc-caffe-torino;NYC Caffe
+https://www.yelp.it/biz/il-tabisca-turin;Il Tabisca
+https://www.yelp.it/biz/la-pagoda-di-hu-lia-meng-torino;La Pagoda di HU LIA Meng
+https://www.yelp.it/biz/caff%C3%A8-palazzo-reale-torino-2;Caffè Palazzo Reale
+https://www.yelp.it/biz/pizzeria-dual-torino;Pizzeria Dual
+https://www.yelp.it/biz/faro-bar-torino;Faro Bar
+https://www.yelp.it/biz/casa-amica-friski-torino;Casa Amica Friski
+https://www.yelp.it/biz/crepes-a-porter-torino;Crepes a Porter
+https://www.yelp.it/biz/la-bottega-del-gusto-torino;La Bottega Del Gusto
+https://www.yelp.it/biz/pastamaneria-torino;Pastamaneria
+https://www.yelp.it/biz/matrioska-torino;Matrioska
+https://www.yelp.it/biz/kiki-torino;Kiki
+https://www.yelp.it/biz/il-padellino-torino;Il Padellino
+https://www.yelp.it/biz/baccanale-torino;Baccanale
+https://www.yelp.it/biz/oriental-daily-by-kiki-torino;Oriental Daily by Kiki
+https://www.yelp.it/biz/fassoneria-torino;Fassoneria
+https://www.yelp.it/biz/astoria-torino;Astoria
+https://www.yelp.it/biz/500-calorie-torino;500 Calorie
+https://www.yelp.it/biz/il-ponte-torino-4;Il Ponte
+https://www.yelp.it/biz/biberon-torino;Biberon
+https://www.yelp.it/biz/grezzo-torino;Grezzo
+https://www.yelp.it/biz/berbel-torino;Berbel
+https://www.yelp.it/biz/ortigia-bistrot-torino;Ortigia Bistrot
+https://www.yelp.it/biz/1610-bagel-torino;1610 Bagel
+https://www.yelp.it/biz/brasserie-bordeaux-torino-2;Brasserie Bordeaux
+https://www.yelp.it/biz/la-maison-de-marie-torino;La Maison de Marie
+https://www.yelp.it/biz/la-mansa-del-re-torino;La Mansa del Re
+https://www.yelp.it/biz/olsen-di-caldi-cinzia-torino;Olsen di Caldi Cinzia
+https://www.yelp.it/biz/settes%C3%AC-torino-2;Settesì
+https://www.yelp.it/biz/caf%C3%A9-accorsi-palace-torino;Café Accorsi Palace
+https://www.yelp.it/biz/pan-cafe-torino;Pan Cafe
+https://www.yelp.it/biz/arigato-torino;Arigato
+https://www.yelp.it/biz/la-via-della-seta-torino;La Via della Seta
+https://www.yelp.it/biz/la-cabane-torino-2;La Cabane
+https://www.yelp.it/biz/gelateria-delle-alpi-torino;Gelateria Delle Alpi
+https://www.yelp.it/biz/angolo-del-parin-torino;Angolo del Parin
+https://www.yelp.it/biz/pastis-2020-torino;Pastis 2020
+https://www.yelp.it/biz/menodiciotto-torino;Menodiciotto
+https://www.yelp.it/biz/gusti-e-sapori-torino;Gusti e Sapori
+https://www.yelp.it/biz/a6-sciamadda-torino;A6 Sciamadda
+https://www.yelp.it/biz/menupizza-torino;Menupizza
+https://www.yelp.it/biz/kirkuk-kaff%C3%A8-torino-2;Kirkuk Kaffè
+https://www.yelp.it/biz/officine-panino-torino;Officine Panino
+https://www.yelp.it/biz/habanero-torino-2;Habanero
+https://www.yelp.it/biz/pizza-ad-hoc-torino;Pizza Ad Hoc
+https://www.yelp.it/biz/la-cuite-torino;La Cuite
+https://www.yelp.it/biz/maggazino-52-torino;Maggazino 52
+https://www.yelp.it/biz/bar-torrefazione-beccuti-torino;Bar Torrefazione Beccuti
+https://www.yelp.it/biz/family-bar-torino;Family Bar
+https://www.yelp.it/biz/caff%C3%A8-savoia-torino-3;Caffè Savoia
+https://www.yelp.it/biz/tiffany-lounge-torino;Tiffany Lounge
+https://www.yelp.it/biz/caff%C3%A8-liber-torino;Caffè Liber
+https://www.yelp.it/biz/la-taverna-greca-torino-2;La Taverna Greca
+https://www.yelp.it/biz/quaglia-teresa-torino;Quaglia Teresa
+https://www.yelp.it/biz/la-via-del-sale-torino;La Via del Sale
+https://www.yelp.it/biz/bar-lo-scudiero-torino;Bar Lo Scudiero
+https://www.yelp.it/biz/antica-salumeria-torino;Antica Salumeria
+https://www.yelp.it/biz/vasa-vasa-torino;Vasa Vasa
+https://www.yelp.it/biz/il-porto-torino;Il Porto
+https://www.yelp.it/biz/bord%C3%B2-torino;Bordò
+https://www.yelp.it/biz/pizzeria-pieros-torino;Pizzeria Piero’s
+https://www.yelp.it/biz/yoshi-bar-torino;Yoshi bar
+https://www.yelp.it/biz/cornetti-night-torino;Cornetti Night
+https://www.yelp.it/biz/gaudenti-1971-torino;Gaudenti 1971
+https://www.yelp.it/biz/john-joy-torino;John Joy
+https://www.yelp.it/biz/pastis-torino;Pastis
+https://www.yelp.it/biz/lady-bar-torino;Lady Bar
+https://www.yelp.it/biz/la-bufala-torino;La Bufala
+https://www.yelp.it/biz/il-picchio-torino;Il Picchio
+https://www.yelp.it/biz/trattoria-da-cinzia-torino;Trattoria Da Cinzia
+https://www.yelp.it/biz/la-mela-stregata-torino;La Mela Stregata
+https://www.yelp.it/biz/l-osteria-di-pierantonio-torino;L’Osteria Di Pierantonio
+https://www.yelp.it/biz/gelateria-popolare-torino;Gelateria Popolare
+https://www.yelp.it/biz/barcollo-torino;Barcollo
+https://www.yelp.it/biz/il-cortiletto-torino-2;Il Cortiletto
+https://www.yelp.it/biz/giapponese-ohashi-torino;Giapponese Ohashi
+https://www.yelp.it/biz/tobiko-torino;Tobiko
+https://www.yelp.it/biz/raspino-lorenzo-torino;Raspino / Lorenzo
+https://www.yelp.it/biz/indiano-shri-ganesh-torino;Indiano Shri Ganesh
+https://www.yelp.it/biz/gennaro-esposito-torino-2;Gennaro Esposito
+https://www.yelp.it/biz/la-briciola-torino;La Briciola
+https://www.yelp.it/biz/distilleria-quaglia-torino;Distilleria Quaglia
+https://www.yelp.it/biz/il-caffe-di-roma-torino;Il Caffe’ Di Roma
+https://www.yelp.it/biz/ponte-regina-torino;Ponte Regina
+https://www.yelp.it/biz/vittoria-torino-3;Vittoria
+https://www.yelp.it/biz/du-cesari-torino;Du’ Cesari
+https://www.yelp.it/biz/monte-dei-cappuccini-torino;Monte dei Cappuccini
+https://www.yelp.it/biz/sicily-bar-torino;Sicily BAR
+https://www.yelp.it/biz/casa-vicina-torino;Casa Vicina
+https://www.yelp.it/biz/dellaferrera-torino;Dellaferrera
+https://www.yelp.it/biz/antica-trattoria-del-sole-torino;Antica Trattoria del Sole
+https://www.yelp.it/biz/sbrodolone-torino;sbrodolone
+https://www.yelp.it/biz/verdi-d-indivia-torino;Verdi D’Indivia
+https://www.yelp.it/biz/arcadia-torino-4;Arcadia
+https://www.yelp.it/biz/zheng-yang-torino-2;Zheng Yang
+https://www.yelp.it/biz/ichi-torino;Ichi
+https://www.yelp.it/biz/sa-corte-noa-torino;Sa Corte Noa
+https://www.yelp.it/biz/pizzeria-queendici-torino;Pizzeria Queendici
+https://www.yelp.it/biz/mexico-70-torino;Mexico 70
+https://www.yelp.it/biz/piano-b-torino;Piano B
+https://www.yelp.it/biz/la-maison-di-chez-rino%C3%B2-torino;La Maison di Chez Rinoò
+https://www.yelp.it/biz/sibiriaki-bugianen-torino;Sibiriaki Bugianen
+https://www.yelp.it/biz/l-osteria-le-ferriere-torino;L’osteria Le Ferriere
+https://www.yelp.it/biz/luce-e-gas-torino-2;luce e gas
+https://www.yelp.it/biz/gramsci-torino-2;Gramsci
+https://www.yelp.it/biz/the-governor-pub-torino;The Governor Pub
+https://www.yelp.it/biz/il-caciucco-torino;Il Caciucco
+https://www.yelp.it/biz/ristoranti-tromlin-torino;Ristoranti: Tromlin
+https://www.yelp.it/biz/mister-hu-torino;Mister HU
+https://www.yelp.it/biz/pizzeria-giampy-di-mazzola-giuseppe-torino;Pizzeria Giampy Di Mazzola Giuseppe
+https://www.yelp.it/biz/alla-portata-torino;Alla Portata
+https://www.yelp.it/biz/my-ecosmartfood-torino-2;My EcoSmartFood
+https://www.yelp.it/biz/le-vitel-etonne-torino;Le Vitel Etonne
+https://www.yelp.it/biz/trattoria-spirito-santo-torino-2;Trattoria Spirito Santo
+https://www.yelp.it/biz/dolce-mania-di-lepori-raffaele-torino;Dolce Mania di Lepori Raffaele
+https://www.yelp.it/biz/hafa-caf%C3%A9-torino-2;Hafa Café
+https://www.yelp.it/biz/pasticceria-lovreglio-torino;pasticceria Lovreglio
+https://www.yelp.it/biz/juice-torino;Juice
+https://www.yelp.it/biz/manz%C3%B2-torino;Manzò
+https://www.yelp.it/biz/l-idrovolante-torino;L’Idrovolante
+https://www.yelp.it/biz/antonelli-torino;Antonelli
+https://www.yelp.it/biz/curry-zone-turin;Curry Zone
+https://www.yelp.it/biz/caffetteria-pasticceria-torino;caffetteria pasticceria
+https://www.yelp.it/biz/gelateria-fenice-torino;Gelateria Fenice
+https://www.yelp.it/biz/la-romana-torino;La Romana
+https://www.yelp.it/biz/caff%C3%A8-e-vini-torino;Caffè e Vini
+https://www.yelp.it/biz/il-re-sole-torino;Il Re Sole
+https://www.yelp.it/biz/la-piadineria-torino;La Piadineria
+https://www.yelp.it/biz/carlo-carni-torino;Carlo Carni
+https://www.yelp.it/biz/pizzeria-da-candido-torino;Pizzeria DA Candido
+https://www.yelp.it/biz/new-mexico-torino-2;New Mexico
+https://www.yelp.it/biz/bar-costarica-torino;Bar Costarica
+https://www.yelp.it/biz/caffe-lumiere-torino;Caffe Lumiere
+https://www.yelp.it/biz/gelateria-due-salette-torino;Gelateria Due Salette
+https://www.yelp.it/biz/pepe-torino;Pepe
+https://www.yelp.it/biz/old-wild-west-torino-2;Old Wild West
+https://www.yelp.it/biz/samoa-torino;Samoa
+https://www.yelp.it/biz/porcaloca-torino;Porcaloca
+https://www.yelp.it/biz/nuova-dezzuto-torino;Nuova Dezzuto
+https://www.yelp.it/biz/wiener-haus-torino;Wiener Haus
+https://www.yelp.it/biz/giudice-esercizio-torino;Giudice Esercizio
+https://www.yelp.it/biz/fiorio-gelateria-torino-2;Fiorio gelateria
+https://www.yelp.it/biz/rur%C3%A0l-torino;Ruràl
+https://www.yelp.it/biz/moka-torino-2;Moka
+https://www.yelp.it/biz/al-cacimperio-torino;Al Cacimperio
+https://www.yelp.it/biz/john-lennons-torino;John Lennon’s
+https://www.yelp.it/biz/cafe-vergnano-1882-torino;Cafe Vergnano 1882
+https://www.yelp.it/biz/regina-margherita-torino;Regina Margherita
+https://www.yelp.it/biz/mara-dei-boschi-torino;Mara dei Boschi
+https://www.yelp.it/biz/b2-burger-and-beer-torino;B2 Burger and Beer
+https://www.yelp.it/biz/zucca-torino;Zucca
+https://www.yelp.it/biz/osteria-del-frate-torino;Osteria del Frate
+https://www.yelp.it/biz/kensho-torino;Kensho
+https://www.yelp.it/biz/la-pace-torino;La Pace
+https://www.yelp.it/biz/giovanni-torino;Giovanni
+https://www.yelp.it/biz/caffe-vergnano-torino;Caffe Vergnano
+https://www.yelp.it/biz/gatsbys-torino;Gatsby’s
+https://www.yelp.it/biz/quo-vadis-torino-2;Quo Vadis
+https://www.yelp.it/biz/ij-brande-torino;Ij Brande’
+https://www.yelp.it/biz/birreria-la-divina-commedia-torino;Birreria La Divina Commedia
+https://www.yelp.it/biz/al-garamond-torino;Al Garamond
+https://www.yelp.it/biz/casa-del-barolo-torino-3;Casa del Barolo
+https://www.yelp.it/biz/caff%C3%A8-vergnano-torino-2;Caffè Vergnano
+https://www.yelp.it/biz/art-lunch-di-jo-cafe-torino;Art Lunch Di Jo Cafe’
+https://www.yelp.it/biz/panetteria-borgo-nuovo-torino;Panetteria Borgo Nuovo
+https://www.yelp.it/biz/mc-donalds-torino-5;Mc. Donalds
+https://www.yelp.it/biz/trattoria-vineria-da-ale-torino;Trattoria Vineria da Ale
+https://www.yelp.it/biz/mina-torino;Mina
+https://www.yelp.it/biz/enoteca-rossorubino-torino;Enoteca Rossorubino
+https://www.yelp.it/biz/pizzeria-spaccanapoli-torino;Pizzeria Spaccanapoli
+https://www.yelp.it/biz/e-pronto-torino-2;E Pronto!
+https://www.yelp.it/biz/taverna-delloca-torino;Taverna Dell’oca
+https://www.yelp.it/biz/eat-sicily-torino;Eat Sicily
+https://www.yelp.it/biz/kashmir-torino-2;kashmir
+https://www.yelp.it/biz/el-pane-d-na-volta-torino;El Pane D’na Volta
+https://www.yelp.it/biz/conogelato-torino;Conogelato
+https://www.yelp.it/biz/aldente-torino;Aldente
+https://www.yelp.it/biz/banco-vini-e-alimenti-torino;Banco Vini e Alimenti
+https://www.yelp.it/biz/dausin-torino;Dausin
+https://www.yelp.it/biz/vermouth-anselmo-torino;Vermouth Anselmo
+https://www.yelp.it/biz/club-monviso-torino;Club Monviso
+https://www.yelp.it/biz/caffe-shop-vergnao-torino;Caffe Shop Vergnao
+https://www.yelp.it/biz/caf%C3%A9-zero-in-condotta-torino;Café Zero in Condotta
+https://www.yelp.it/biz/libery-pizza-e-artigianal-beer-torino;Libery: pizza & artigianal beer
+https://www.yelp.it/biz/pizzeria-alloca-di-pulcinella-torino;Pizzeria All’oca di Pulcinella
+https://www.yelp.it/biz/b-eat-torino;B eat
+https://www.yelp.it/biz/the-bakery-torino;The Bakery
+https://www.yelp.it/biz/tokio-zen-torino;Tokio Zen
+https://www.yelp.it/biz/brek-torino;Brek
+https://www.yelp.it/biz/grom-torino-4;Grom
+https://www.yelp.it/biz/panificio-zappia-domenico-domenico-torino;Panificio Zappia Domenico / Domenico
+https://www.yelp.it/biz/caffetteria-mazzini-torino;Caffetteria Mazzini
+https://www.yelp.it/biz/freevolo-torino;Freevolo
+https://www.yelp.it/biz/giusti-torino;Giusti
+https://www.yelp.it/biz/jb-home-torino;JB Home
+https://www.yelp.it/biz/pasticceria-beatrice-2008-torino;Pasticceria Beatrice 2008
+https://www.yelp.it/biz/kido-ism-torino;Kido-ism
+https://www.yelp.it/biz/caff%C3%A8-bodoni-torino;Caffè Bodoni
+https://www.yelp.it/biz/siciloso-torino;Siciloso
+https://www.yelp.it/biz/la-panzanella-torino;La Panzanella
+https://www.yelp.it/biz/chlo%C3%A9-bistrot-torino;Chloé Bistrot
+https://www.yelp.it/biz/sharazad-torino;Sharazad
+https://www.yelp.it/biz/cinese-chen-lon-torino;Cinese Chen Lon
+https://www.yelp.it/biz/bar-imperfetto-di-da-campo-giuseppe-torino;BAR Imperfetto di DA Campo Giuseppe
+https://www.yelp.it/biz/caff%C3%A8-del-borgo-medioevale-torino;Caffè del Borgo Medioevale
+https://www.yelp.it/biz/pizza-speedy-torino-3;Pizza Speedy
+https://www.yelp.it/biz/focacceria-tipica-ligure-torino;Focacceria Tipica Ligure
+https://www.yelp.it/biz/indian-street-food-torino;Indian Street Food
+https://www.yelp.it/biz/nishiki-torino;Nishiki
+https://www.yelp.it/biz/cafe-alberto-torino;Cafe Alberto
+https://www.yelp.it/biz/la-badessa-torino;La Badessa
+https://www.yelp.it/biz/la-gola-torino;La Gola
+https://www.yelp.it/biz/camilla-kitchen-torino;Camilla Kitchen
+https://www.yelp.it/biz/sushi-sun-torino;Sushi Sun
+https://www.yelp.it/biz/scalo-vanchiglia-torino;Scalo Vanchiglia
+https://www.yelp.it/biz/kyoto-torino;Kyoto
+https://www.yelp.it/biz/al-tegamino-moncalieri;Al Tegamino
+https://www.yelp.it/biz/roma-gi%C3%A0-talmone-torino;Roma Già Talmone
+https://www.yelp.it/biz/mamasita-torino;Mamasita
+https://www.yelp.it/biz/casa-mad-torino;Casa Mad
+https://www.yelp.it/biz/diplomatic-torino;Diplomatic
+https://www.yelp.it/biz/briss-torino;Briss
+https://www.yelp.it/biz/il-ristoro-dei-mercanti-torino;Il Ristoro dei Mercanti
+https://www.yelp.it/biz/don-panino-torino;Don Panino
+https://www.yelp.it/biz/tisaneria-della-consolata-torino;Tisaneria della Consolata
+https://www.yelp.it/biz/da-mauro-torino;DA Mauro
+https://www.yelp.it/biz/simini-giuliano-torino;Simini / Giuliano
+https://www.yelp.it/biz/libanese-el-mir-torino;Libanese El Mir
+https://www.yelp.it/biz/mordillo-torino;Mordillo
+https://www.yelp.it/biz/happy-days-bar-torino;Happy Days Bar
+https://www.yelp.it/biz/bar-del-duomo-torino;Bar del Duomo
+https://www.yelp.it/biz/mr-rooster-torino-3;Mr Rooster
+https://www.yelp.it/biz/ayasofya-torino;Ayasofya
+https://www.yelp.it/biz/sibir-torino-2;Sibir
+https://www.yelp.it/biz/la-cantinella-torino;La Cantinella
+https://www.yelp.it/biz/alberto-marchetti-torino-2;Alberto Marchetti
+https://www.yelp.it/biz/caffe-madama-torino;Caffe Madama
+https://www.yelp.it/biz/l-angolo-del-caff%C3%A8-torino;L’Angolo del Caffè
+https://www.yelp.it/biz/ichiban-torino;Ichiban
+https://www.yelp.it/biz/steamboat-torino;Steamboat
+https://www.yelp.it/biz/peperosso-torino;Peperosso
+https://www.yelp.it/biz/l-ancienne-maison-du-th%C3%A9-torino;L’Ancienne Maison du Thé
+https://www.yelp.it/biz/sen-mi-ya-torino-2;Sen Mi Ya
+https://www.yelp.it/biz/san-francisco-caff%C3%A8-torino;San Francisco Caffè
+https://www.yelp.it/biz/bar-cristal-torino;Bar Cristal
+https://www.yelp.it/biz/strawberry-torino;Strawberry
+https://www.yelp.it/biz/doubletree-torino;DoubleTree
+https://www.yelp.it/biz/antico-balon-torino;Antico Balon
+https://www.yelp.it/biz/beaubar-torino;Beaubar
+https://www.yelp.it/biz/la-scala-ice-torino;La Scala Ice
+https://www.yelp.it/biz/gelatiamo-torino;GelaTiAmo
+https://www.yelp.it/biz/hua-li-du-torino;HUA LI DU
+https://www.yelp.it/biz/ristorante-ratatui-torino-2;Ristorante Ratatui
+https://www.yelp.it/biz/borgo-dora-torino;Borgo Dora
+https://www.yelp.it/biz/magica-egitto-torino;Magica Egitto
+https://www.yelp.it/biz/caffetteria-regina-torino;Caffetteria Regina
+https://www.yelp.it/biz/zelli-wine-bar-torino;Zelli Wine Bar
+https://www.yelp.it/biz/oro-birra-torino;Oro Birra
+https://www.yelp.it/biz/okinawa-torino;Okinawa
+https://www.yelp.it/biz/bangla-takeaway-torino;Bangla Takeaway
+https://www.yelp.it/biz/bocciofila-mossetto-torino;Bocciofila Mossetto
+https://www.yelp.it/biz/caff%C3%A8-della-posta-torino;Caffè della Posta
+https://www.yelp.it/biz/singapore-torino;Singapore
+https://www.yelp.it/biz/pizzeria-vecchio-forno-garibaldi-torino;Pizzeria Vecchio Forno Garibaldi
+https://www.yelp.it/biz/caff%C3%A9-tiffany-torino-2;Caffé Tiffany
+https://www.yelp.it/biz/farini-da-lia-torino;Farini Da Lia
+https://www.yelp.it/biz/caff%C3%A9-margarita-torino-2;Caffé Margarita
+https://www.yelp.it/biz/chez-zeina-torino;Chez Zeina
+https://www.yelp.it/biz/cit-ma-bon-torino;Cit Ma Bon
+https://www.yelp.it/biz/exki-8-gallery-torino-2;EXKi 8 Gallery
+https://www.yelp.it/biz/wang-shao-xiong-torino;Wang Shao Xiong
+https://www.yelp.it/biz/sir-francis-drake-torino;Sir Francis Drake
+https://www.yelp.it/biz/i-soliti-amici-torino;I Soliti Amici
+https://www.yelp.it/biz/neko-cafe-torino;Neko Cafe’
+https://www.yelp.it/biz/osteria-povrom-torino;Osteria Povr’om
+https://www.yelp.it/biz/bastimento-torino;Bastimento
+https://www.yelp.it/biz/da-giuliano-torino;Da Giuliano
+https://www.yelp.it/biz/banco-di-sicilia-torino;Banco di Sicilia
+https://www.yelp.it/biz/the-queen-victoria-torino;the queen victoria
+https://www.yelp.it/biz/la-madia-torino;La Madia
+https://www.yelp.it/biz/ponte-dora-torino;Ponte Dora
+https://www.yelp.it/biz/buosi-torino;Buosi
+https://www.yelp.it/biz/grande-muraglia-di-zhans-rong-e-li-songhai-torino;Grande Muraglia di Zhans Rong e LI Songhai
+https://www.yelp.it/biz/miseria-e-nobilt%C3%A0-torino-7;Miseria & Nobiltà
+https://www.yelp.it/biz/birreria-don-giovanni-torino;Birreria Don Giovanni
+https://www.yelp.it/biz/pizzeria-silvestro-torino;Pizzeria Silvestro
+https://www.yelp.it/biz/exki-xxsettembre-torino;Exki Xxsettembre
+https://www.yelp.it/biz/mixer-bar-di-figliolia-m-torino;Mixer BAR di Figliolia M.
+https://www.yelp.it/biz/la-cantinetta-torino;La Cantinetta
+https://www.yelp.it/biz/alivella-torino;A’livella
+https://www.yelp.it/biz/panino-giusto-torino;Panino Giusto
+https://www.yelp.it/biz/la-limonaia-torino;La Limonaia
+https://www.yelp.it/biz/la-prima-da-moreno-torino;La Prima da Moreno
+https://www.yelp.it/biz/pizzeria-gelateria-cecchi-torino;Pizzeria Gelateria Cecchi
+https://www.yelp.it/biz/da-benito-torino;Da Benito
+https://www.yelp.it/biz/pizzeria-cristina-torino;Pizzeria Cristina
+https://www.yelp.it/biz/pizze-e-cozze-torino;Pizze e Cozze
+https://www.yelp.it/biz/panificio-ursino-francesco-torino-2;Panificio Ursino Francesco
+https://www.yelp.it/biz/ginza-sushi-king-torino;Ginza Sushi King
+https://www.yelp.it/biz/in-vino-veritas-torino;In Vino Veritas
+https://www.yelp.it/biz/i-tre-scalini-torino;I Tre Scalini
+https://www.yelp.it/biz/lunarossa-torino;Lunarossa
+https://www.yelp.it/biz/caff%C3%A8-savoia-torino-2;Caffè Savoia
+https://www.yelp.it/biz/hua-dou-cheng-torino;HUA DOU Cheng
+https://www.yelp.it/biz/algomas-caf%C3%A9-torino;Algomas Café
+https://www.yelp.it/biz/bottega-baretti-moncalieri;Bottega Baretti
+https://www.yelp.it/biz/stars-e-roses-torino;Stars & Roses
+https://www.yelp.it/biz/paese-zhou-torino-2;Paese Zhou
+https://www.yelp.it/biz/alla-baita-dei-7-nani-torino;Alla Baita dei 7 Nani
+https://www.yelp.it/biz/sushi-yu-torino;Sushi Yu
+https://www.yelp.it/biz/pizzeria-la-sueva-torino-3;Pizzeria La Sueva
+https://www.yelp.it/biz/el-pollo-loco-torino;El Pollo Loco
+https://www.yelp.it/biz/burgheria-torino-2;Burgheria
+https://www.yelp.it/biz/vyta-torino;Vyta
+https://www.yelp.it/biz/sushi-sound-torino;Sushi Sound
+https://www.yelp.it/biz/il-punto-verde-torino-2;Il Punto Verde
+https://www.yelp.it/biz/gelateria-piu-di-un-gelato-torino;Gelateria PIU di UN Gelato
+https://www.yelp.it/biz/l-agrifoglio-torino;L’agrifoglio
+https://www.yelp.it/biz/l-ancora-torino-3;L’Ancora
+https://www.yelp.it/biz/masaniello-%C3%A9-turnat-torino;Masaniello é Turnat
+https://www.yelp.it/biz/pony-bubble-tea-torino;Pony Bubble Tea
+https://www.yelp.it/biz/freemadam-torino;Freemadam
+https://www.yelp.it/biz/pasticceria-amore-torino;Pasticceria Amore
+https://www.yelp.it/biz/mazzini-38-torino;Mazzini 38
+https://www.yelp.it/biz/l-ancora-torino-2;L’Ancora
+https://www.yelp.it/biz/marechiaro-torino;Marechiaro
+https://www.yelp.it/biz/istanbul-santasophia-torino;Istanbul SantaSophia
+https://www.yelp.it/biz/trattoria-torricelli-torino;Trattoria Torricelli
+https://www.yelp.it/biz/tommy-tegamino-torino;Tommy Tegamino
+https://www.yelp.it/biz/boheme-torino;Boheme
+https://www.yelp.it/biz/pippo-paranza-torino;Pippo Paranza
+https://www.yelp.it/biz/freccia-club-torino;Freccia Club
+https://www.yelp.it/biz/sushi-j-torino;Sushi J
+https://www.yelp.it/biz/ristoro-28-3-torino-2;Ristoro 28/3
+https://www.yelp.it/biz/la-galina-scannata-torino;La Galina Scannata
+https://www.yelp.it/biz/giapponese-xia-torino;Giapponese Xia
+https://www.yelp.it/biz/bar-architettura-mac-torino;Bar Architettura Mac
+https://www.yelp.it/biz/mar-rosso-torino-2;mar rosso
+https://www.yelp.it/biz/barber-and-caffee-torino;Barber And Caffee
+https://www.yelp.it/biz/7-nani-torino;7 Nani
+https://www.yelp.it/biz/u-caruggiu-torino;U Caruggiu
+https://www.yelp.it/biz/girarrosti-santa-rita-torino;Girarrosti Santa Rita
+https://www.yelp.it/biz/balbo-torino;Balbo
+https://www.yelp.it/biz/l-hamburgueria-di-eataly-torino;L’Hamburgueria di Eataly
+https://www.yelp.it/biz/lucky-nugget-saloon-torino;Lucky Nugget Saloon
+https://www.yelp.it/biz/il-rospetto-torino;Il Rospetto
+https://www.yelp.it/biz/la-magnolia-torino-3;La Magnolia
+https://www.yelp.it/biz/tea-company-torino;Tea Company
+https://www.yelp.it/biz/pizzeria-marfi-torino;Pizzeria Marfi
+https://www.yelp.it/biz/roar-roads-torino;Roar Roads
+https://www.yelp.it/biz/italians-wok-better-torino-3;Italians Wok Better
+https://www.yelp.it/biz/la-botte-gaia-torino;La Botte Gaia
+https://www.yelp.it/biz/pizzeria-la-stua-torino;Pizzeria La Stua
+https://www.yelp.it/biz/san-tommaso-10-torino;San Tommaso 10
+https://www.yelp.it/biz/bar-delle-scienze-torino;Bar delle Scienze
+https://www.yelp.it/biz/tropicana-torino;Tropicana
+https://www.yelp.it/biz/chef-espress-buffet-stazione-porta-susa-torino;Chef Espress Buffet Stazione Porta Susa
+https://www.yelp.it/biz/cinese-mei-li-hua-torino;Cinese Mei Li Hua
+https://www.yelp.it/biz/ala-torino;Ala
+https://www.yelp.it/biz/pizzeria-4-stagioni-torino;Pizzeria 4 Stagioni
+https://www.yelp.it/biz/o-raffertys-pub-torino;O’ Rafferty’s Pub
+https://www.yelp.it/biz/mc-donald-torino;Mc Donald
+https://www.yelp.it/biz/la-campana-torino-2;La Campana
+https://www.yelp.it/biz/bar-nuovo-nazionale-torino-3;Bar Nuovo Nazionale
+https://www.yelp.it/biz/pizzeria-poldo-torino;Pizzeria Poldo
+https://www.yelp.it/biz/caffetteria-auditorium-torino;Caffetteria Auditorium
+https://www.yelp.it/biz/dal-vecchio-torino;Dal Vecchio
+https://www.yelp.it/biz/gandhi-torino;Gandhi
+https://www.yelp.it/biz/tre-da-tre-torino;TRE DA TRE
+https://www.yelp.it/biz/maks-torino;MAK’S
+https://www.yelp.it/biz/vale-un-per%C3%B9-torino;Vale un Perù
+https://www.yelp.it/biz/porto-ribeca-torino-2;Porto Ribeca
+https://www.yelp.it/biz/shizen-torino;Shizen
+https://www.yelp.it/biz/la-gaia-scienza-torino;La Gaia Scienza
+https://www.yelp.it/biz/fattore-k-torino;Fattore K
+https://www.yelp.it/biz/trattoria-piemontese-torino;Trattoria Piemontese
+https://www.yelp.it/biz/il-porticciolo-torino;Il Porticciolo
+https://www.yelp.it/biz/the-duke-of-wellington-torino;The Duke of Wellington
+https://www.yelp.it/biz/ai-4-assi-di-sanna-roberto-torino;AI 4 Assi di Sanna Roberto
+https://www.yelp.it/biz/antica-cafetteria-torino;Antica Cafetteria
+https://www.yelp.it/biz/g%C3%B8rilla-torino;Gørilla
+https://www.yelp.it/biz/bocciofila-cavorettese-torino;Bocciofila Cavorettese
+https://www.yelp.it/biz/grom-torino-3;Grom
+https://www.yelp.it/biz/vitelloni-torino;Vitelloni
+https://www.yelp.it/biz/ciacolon-ca-veneta-torino;Ciacolon CA’ Veneta
+https://www.yelp.it/biz/wispobish-torino;WISPOBISH
+https://www.yelp.it/biz/exki-giolitti-torino-3;Exki Giolitti
+https://www.yelp.it/biz/macario-caffe-torino;Macario Caffe’
+https://www.yelp.it/biz/autogrill-torino-4;Autogrill
+https://www.yelp.it/biz/bar-gerla-1927-torino;Bar Gerla 1927
+https://www.yelp.it/biz/sale-in-zucca-torino;Sale in zucca
+https://www.yelp.it/biz/al-gatto-nero-torino;Al Gatto Nero
+https://www.yelp.it/biz/il-barotto-torino;Il Barotto
+https://www.yelp.it/biz/rizzelli-torino;Rizzelli
+https://www.yelp.it/biz/tor-na-torino;Tor.Na
+https://www.yelp.it/biz/chiodi-latini-new-food-torino;Chiodi Latini New Food
+https://www.yelp.it/biz/focacceria-santagostino-torino;Focacceria Sant’agostino
+https://www.yelp.it/biz/emporio-gastronomico-torino;Emporio Gastronomico
+https://www.yelp.it/biz/estrella-do-sul-torino;Estrella Do Sul
+https://www.yelp.it/biz/cento-90-due-torino-2;Cento 90 Due
+https://www.yelp.it/biz/caff%C3%A8-dellopera-torino;Caffè dell’Opera
+https://www.yelp.it/biz/trattoria-toscana-torino;trattoria toscana
+https://www.yelp.it/biz/pizzeria-la-sacrestia-torino;Pizzeria La Sacrestia
+https://www.yelp.it/biz/l-aglio-torino;L’aglio
+https://www.yelp.it/biz/pasticceria-mele-torino;Pasticceria Mele
+https://www.yelp.it/biz/big-mama-club-torino;Big Mama Club
+https://www.yelp.it/biz/lo-zio-torino;Lo Zio
+https://www.yelp.it/biz/la-stadera-pizzeria-la-stadera-di-muscariello-s-e-c-pizz-torino;La Stadera Pizzeria La Stadera di Muscariello S. e C. Pizz
+https://www.yelp.it/biz/l-oca-fola-torino;L’Oca Fola
+https://www.yelp.it/biz/i-tartufi-bistrot-torino;I Tartufi Bistrot
+https://www.yelp.it/biz/forchetta-e-scarpetta-torino;Forchetta e Scarpetta
+https://www.yelp.it/biz/the-egg-torino;The Egg
+https://www.yelp.it/biz/il-panino-giusto-torino;il panino giusto
+https://www.yelp.it/biz/gelateria-monginevro-smaldone-raffaele-torino;Gelateria Monginevro Smaldone Raffaele
+https://www.yelp.it/biz/la-gustosa-torino;La Gustosa
+https://www.yelp.it/biz/pizza-speedy-torino-2;Pizza Speedy
+https://www.yelp.it/biz/pasticceria-beatrice-torino;pasticceria beatrice
+https://www.yelp.it/biz/spada-reale-torino;Spada Reale
+https://www.yelp.it/biz/sotto-la-mole-torino;Sotto La Mole
+https://www.yelp.it/biz/cinese-nanchino-torino;Cinese Nanchino
+https://www.yelp.it/biz/la-gricia-torino;La Gricia
+https://www.yelp.it/biz/la-conca-torino-2;La Conca
+https://www.yelp.it/biz/da-giannino-l-angolo-d-abruzzo-torino;Da Giannino L’Angolo d’Abruzzo
+https://www.yelp.it/biz/o-l-s-torino;O.L.S.
+https://www.yelp.it/biz/martin-pescatore-torino;Martin Pescatore
+https://www.yelp.it/biz/teriyaky-torino;Teriyaky
+https://www.yelp.it/biz/copacabana-torino;Copacabana
+https://www.yelp.it/biz/ristoranti-sardegna-torino;Ristoranti Sardegna
+https://www.yelp.it/biz/gelateria-nicola-torino;Gelateria Nicola
+https://www.yelp.it/biz/pizzeria-pizzemporio-torino;Pizzeria Pizzemporio
+https://www.yelp.it/biz/dai-saletta-torino-2;Dai Saletta
+https://www.yelp.it/biz/hua-dou-torino;Hua Dou
+https://www.yelp.it/biz/zichella-torino;Zichella
+https://www.yelp.it/biz/gelateria-ciuffos-torino;Gelateria Ciuffo’s
+https://www.yelp.it/biz/mitiko-pizzeria-consegna-a-domicilio-torino;Mitiko Pizzeria Consegna A Domicilio
+https://www.yelp.it/biz/entremetier-di-lingweifu-torino;Entremetier di Lingweifu
+https://www.yelp.it/biz/laboratorio-comba-torino;Laboratorio Comba
+https://www.yelp.it/biz/bottegamia-torino;Bottegamia
+https://www.yelp.it/biz/osteria-rotonda-dei-facchinetti-torino;Osteria Rotonda dei Facchinetti
+https://www.yelp.it/biz/da-ciccillo-torino;Da Ciccillo
+https://www.yelp.it/biz/greek-food-lab-torino-2;Greek Food Lab
+https://www.yelp.it/biz/montecarlo-torino;Montecarlo
+https://www.yelp.it/biz/trattoria-alba-torino;Trattoria Alba
+https://www.yelp.it/biz/taxi-pizza-torino;Taxi Pizza
+https://www.yelp.it/biz/lazzeri-giorgio-torino;Lazzeri / Giorgio
+https://www.yelp.it/biz/alcool-torino-2;Alcool
+https://www.yelp.it/biz/i-soliti-ignoti-torino;I Soliti Ignoti
+https://www.yelp.it/biz/pescheria-cernaia-di-bullaro-e-santacroce-torino;Pescheria Cernaia di Bullaro e Santacroce
+https://www.yelp.it/biz/agnolotti-e-friends-torino;Agnolotti & Friends
+https://www.yelp.it/biz/bar-marconi-di-torre-francesco-torino;Bar Marconi Di Torre Francesco
+https://www.yelp.it/biz/anema-e-cozze-torino;Anema E Cozze
+https://www.yelp.it/biz/pasticceria-venier-torino;Pasticceria Venier
+https://www.yelp.it/biz/dess%C3%AC-torino;Dessì
+https://www.yelp.it/biz/macao-torino;Macao
+https://www.yelp.it/biz/pasta-mon-amour-torino;Pasta Mon Amour
+https://www.yelp.it/biz/turin-hotels-international-torino;Turin Hotels International
+https://www.yelp.it/biz/punto-pizza-di-moro-michel-torino;Punto Pizza di Moro Michel
+https://www.yelp.it/biz/crocetta-torino;Crocetta
+https://www.yelp.it/biz/la-granda-torino;La Granda
+https://www.yelp.it/biz/sapori-d-autore-di-palladino-maurizio-torino;Sapori D’autore di Palladino Maurizio
+https://www.yelp.it/biz/boka-torino;Boka
+https://www.yelp.it/biz/taverna-rossa-di-zappia-pasquale-torino;Taverna Rossa di Zappia / Pasquale
+https://www.yelp.it/biz/caff%C3%A8-clarissa-torino;Caffè Clarissa
+https://www.yelp.it/biz/yu-xieshu-torino;Yu Xieshu
+https://www.yelp.it/biz/che-bolle-in-pentola-torino;Che Bolle in Pentola
+https://www.yelp.it/biz/galante-torino-2;Galante
+https://www.yelp.it/biz/ristorante-peppino-torino;Ristorante Peppino
+https://www.yelp.it/biz/rotonda-valentino-torino;Rotonda Valentino
+https://www.yelp.it/biz/quelli-che-ben-pensano-2-torino;Quelli Che Ben Pensano 2
+https://www.yelp.it/biz/mc-donalds-torino-4;Mc donald’s
+https://www.yelp.it/biz/toscano-torino-3;Toscano
+https://www.yelp.it/biz/smeraldo-torino;smeraldo
+https://www.yelp.it/biz/bar-bar-blu-torino;Bar: BAR BLU
+https://www.yelp.it/biz/vinolento-torino;VinoLento
+https://www.yelp.it/biz/pizza-speedy-torino;Pizza Speedy
+https://www.yelp.it/biz/pizzeria-vecchia-londra-torino;Pizzeria Vecchia Londra
+https://www.yelp.it/biz/al-ghibellin-fuggiasco-torino;Al Ghibellin Fuggiasco
+https://www.yelp.it/biz/jubin-di-hu-lidan-torino;Jubin Di Hu Lidan
+https://www.yelp.it/biz/black-jack-torino;Black Jack
+https://www.yelp.it/biz/cioccolato-peyrano-torino-2;Cioccolato Peyrano
+https://www.yelp.it/biz/la-cantina-torino;La Cantina
+https://www.yelp.it/biz/il-peccato-torino;Il Peccato
+https://www.yelp.it/biz/rubirosa-torino;Rubirosa
+https://www.yelp.it/biz/la-voglia-matta-torino-6;La voglia matta
+https://www.yelp.it/biz/l-angolo-divino-torino;L’Angolo Divino
+https://www.yelp.it/biz/pizzeria-ideal-di-atzori-alberto-torino;Pizzeria Ideal di Atzori Alberto
+https://www.yelp.it/biz/bbq-di-pennestri-davide-antonio-c-torino;Bbq di Pennestri Davide Antonio C.
+https://www.yelp.it/biz/esperia-torino-2;Esperia
+https://www.yelp.it/biz/san-giorgio-torino;San Giorgio
+https://www.yelp.it/biz/le-cantine-di-bacco-torino;Le cantine di bacco
+https://www.yelp.it/biz/cristina-due-torino;Cristina Due
+https://www.yelp.it/biz/lo-scugnizzo-torino;Lo Scugnizzo
+https://www.yelp.it/biz/caff%C3%A8-900-torino;Caffè 900
+https://www.yelp.it/biz/pizzeria-bella-vita-torino;Pizzeria Bella Vita
+https://www.yelp.it/biz/michi-tanzariello-torino;Michi Tanzariello
+https://www.yelp.it/biz/cinese-e-internazionale-torino;Cinese E Internazionale
+https://www.yelp.it/biz/la-granseola-torino;La Granseola
+https://www.yelp.it/biz/dog-out-presso-otto-gallery-torino;Dog Out presso Otto Gallery
+https://www.yelp.it/biz/pizza-pistrocchio-torino;Pizza Pistrocchio
+https://www.yelp.it/biz/bar-st-germain-torino;Bar St. Germain
+https://www.yelp.it/biz/pistacchio-torino;Pistacchio
+https://www.yelp.it/biz/hokkaido-torino;Hokkaido
+https://www.yelp.it/biz/passaggio-in-india-torino;Passaggio in India
+https://www.yelp.it/biz/pasticceria-s-rita-di-mariano-a-torino;Pasticceria S. Rita di Mariano A.
+https://www.yelp.it/biz/amore-mio-torino;Amore MIO
+https://www.yelp.it/biz/pasticceria-giori-torino;pasticceria giori
+https://www.yelp.it/biz/premiata-osteria-dellhermada-torino;Premiata Osteria Dell’hermada
+https://www.yelp.it/biz/la-luna-rossa-torino;La Luna Rossa
+https://www.yelp.it/biz/stickhouse-torino;StickHouse
+https://www.yelp.it/biz/pizzeria-au-lapin-agile-torino-2;Pizzeria Au Lapin Agile
+https://www.yelp.it/biz/fiorio-gelateria-torino;Fiorio Gelateria
+https://www.yelp.it/biz/don-gennaro-torino;Don Gennaro
+https://www.yelp.it/biz/vecchia-europa-torino;Vecchia Europa
+https://www.yelp.it/biz/pizzeria-l-orchidea-torino;Pizzeria L’orchidea
+https://www.yelp.it/biz/pastificio-baretti-torino;Pastificio Baretti
+https://www.yelp.it/biz/jolly-principi-di-piemonte-torino;Jolly Principi Di Piemonte
+https://www.yelp.it/biz/zi-barba-di-pompilio-vito-torino;Zi’ Barba Di Pompilio Vito
+https://www.yelp.it/biz/decameron-torino;Decameron
+https://www.yelp.it/biz/arcanomatto-torino;arcanomatto
+https://www.yelp.it/biz/trattoria-casalinga-torino;Trattoria Casalinga
+https://www.yelp.it/biz/mamma-licia-torino;Mamma Licia
+https://www.yelp.it/biz/le-vigne-torino;Le Vigne
+https://www.yelp.it/biz/ristoranti-tropicana-torino;Ristoranti: Tropicana
+https://www.yelp.it/biz/al-grassi-torino-2;Al Grassi
+https://www.yelp.it/biz/el-mir-torino;El Mir
+https://www.yelp.it/biz/marhaba-torino;Marhaba
+https://www.yelp.it/biz/friedas-pub-torino;Frieda’s Pub
+https://www.yelp.it/biz/meridien-torino;Meridien
+https://www.yelp.it/biz/sciuscia-pizzeria-torino;Sciuscia’ Pizzeria
+https://www.yelp.it/biz/gelateria-bucaneve-2-torino;gelateria Bucaneve 2
+https://www.yelp.it/biz/bar-il-mottino-torino;Bar Il Mottino
+https://www.yelp.it/biz/barbagia-di-ollolai-torino;Barbagia Di Ollolai
+https://www.yelp.it/biz/pizzeri-lapislazzulo-torino;Pizzeri Lapislazzulo
+https://www.yelp.it/biz/a-vucciria-torino;A Vucciria
+https://www.yelp.it/biz/acab-torino;Acab
+https://www.yelp.it/biz/trattoria-pizzeria-mare-e-monti-torino;Trattoria Pizzeria Mare E Monti
+https://www.yelp.it/biz/black-angus-turin;Black Angus
+https://www.yelp.it/biz/zonk-di-brigada-igor-torino;Zonk di Brigada Igor
+https://www.yelp.it/biz/pizzerie-charlie-chaplin-torino;Pizzerie Charlie Chaplin
+https://www.yelp.it/biz/ristrorante-la-chicca-torino-2;Ristrorante La Chicca
+https://www.yelp.it/biz/la-reseda-torino;La Reseda
+https://www.yelp.it/biz/yu-jiasheng-torino;Yu Jiasheng
+https://www.yelp.it/biz/dorian-gray-torino;Dorian Gray
+https://www.yelp.it/biz/tio-chico-torino-2;Tio Chico
+https://www.yelp.it/biz/cacio-e-pepe-torino;Cacio & Pepe
+https://www.yelp.it/biz/brasserie-bordeaux-torino-3;Brasserie bordeaux
+https://www.yelp.it/biz/shannon-torino;shannon
+https://www.yelp.it/biz/winston-churchill-new-pub-torino;Winston Churchill New Pub
+https://www.yelp.it/biz/osteria-fate-infretta-a-tavola-torino;Osteria Fate Infretta A Tavola
+https://www.yelp.it/biz/la-svolta-torino;La Svolta
+https://www.yelp.it/biz/quelli-che-ben-pensano-torino;Quelli che ben pensano
+https://www.yelp.it/biz/a-la-merenda-sinoira-torino;A la Merenda Sinoira
+https://www.yelp.it/biz/pizzeria-amalfi-torino;Pizzeria Amalfi
+https://www.yelp.it/biz/la-vecchia-europa-torino;La Vecchia Europa
+https://www.yelp.it/biz/complice-di-zhou-jinshu-torino;Complice Di Zhou Jinshu
+https://www.yelp.it/biz/bollicine-di-gigliotti-e-de-bartolo-torino;Bollicine di Gigliotti e DE Bartolo
+https://www.yelp.it/biz/filo-di-marianna-torino;Filo Di Marianna
+https://www.yelp.it/biz/sara-caffetteria-torino;Sara Caffetteria
+https://www.yelp.it/biz/mc-donalds-torino-2;mc donalds
+https://www.yelp.it/biz/artinfood-torino;Artinfood
+https://www.yelp.it/biz/il-male-torino;Il Male
+https://www.yelp.it/biz/pizzificio-torino;Pizzificio
+https://www.yelp.it/biz/papaldo-di-terentin-paola-torino;Papaldo Di Terentin Paola
+https://www.yelp.it/biz/la-caravella-torino-2;La Caravella
+https://www.yelp.it/biz/dolce-basilico-torino;Dolce Basilico
+https://www.yelp.it/biz/pantagruel-torino;Pantagruel
+https://www.yelp.it/biz/garden-caffetteria-torino;Garden Caffetteria
+https://www.yelp.it/biz/il-buco-torino;Il Buco
