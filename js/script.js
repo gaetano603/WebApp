@@ -991,8 +991,7 @@ function suggerisciAltro(){
 
 	var arrayLocaliMatch = sceltaArrayUrl();
 	let iRandom = getRandomUrlFromArray(arrayLocaliMatch);
-	urlConsigliato = 'https://www.yelp.it/biz/spaghetteria-70cento-bari';
-	//urlConsigliato = arrayLocaliMatch[iRandom];
+	urlConsigliato = arrayLocaliMatch[iRandom];
 	nome_locale = mapNomi.get(urlConsigliato);
 
 
