@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Context-aware Explanations for Point-of-interest Recommendation</title>
+		<!--=====================================================
+			CSS Stylesheets
+		=====================================================-->
+		<script src="https://www.gstatic.com/firebasejs/5.8.4/firebase-app.js"></script>
+		<script src="https://www.gstatic.com/firebasejs/5.8.4/firebase-firestore.js"></script>
+		<link rel='stylesheet' type='text/css' href='bootstrap/css/bootstrap.min.css' >
+		<link rel='stylesheet' type='text/css' href='css/linea.css' >
+		<link rel='stylesheet' type='text/css' href='css/ionicons.min.css' >
+		<link rel='stylesheet' type='text/css' href='css/owl.carousel.css' >
+		<link rel='stylesheet' type='text/css' href='css/magnific-popup.css' >
+		<link rel='stylesheet' type='text/css' href='css/style.css' >
+		<link rel="stylesheet" type='text/css' href='css/funkyradio.css'>
+
+	</head>
+	<body>
+
+
+		<!--=====================================================
+			Preloader
+		=====================================================-->
+		<div id='preloader'>
+			<div class='loader' ></div>
+			<div class='left' ></div>
+			<div class='right' ></div>
+		</div>
+		<div class='main-content'>
+
+			<!--=====================================================
+				Page Borders
+			=====================================================-->
+			<div class='page-border border-left' ></div>
+			<div class='page-border border-right' ></div>
+			<div class='page-border border-top' ></div>
+			<div class='page-border border-bottom' ></div>
+
+
+
+			<!--=====================================================
+				Menu Button
+			=====================================================-->
+			<a href='#' class='menu-btn' style="visibility:hidden;">
+				<span class='lines' >
+					<span class='l1' ></span>
+					<span class='l2' ></span>
+					<span class='l3' ></span>
+				</span>
+			</a>
+
+			<div class='animation-block' >
+
+			</div>
+
+
+			<!--=====================================================
+				Sections
+			=====================================================-->
+			<div class='sections' >
+
+				<!--=====================================================
+					Main Section
+				=====================================================-->
+				<section id='intro' class='section section-main active' >
+
+									<div class='container-fluid' >
+
+										<div class='v-align' >
+											<div class='inner' >
+												<div class='intro-text' >
+
+													<h1>Context-aware Explanations for Point-of-interest Recommendation</h1>
+
+													<p>
+														Lo scopo di questa piattaforma è di fornirti dei suggerimenti su punti di interesse e attività presenti nei dintorni. Il sistema ti chiederà informazioni sulle tue preferenze e sul contesto in cui ti trovi (con chi sei, il tuo umore, il tuo stato di salute) e sulla base di questi dati ti sarà fornito un suggerimento personalizzato. Accanto al suggerimento riceverai anche due diverse spiegazioni che servono a illustrarti i motivi alla base della raccomandazione. Dovrai scegliere quella che ritieni più efficace e quella più vicina alle definizioni che saranno fornite.
+													</p>
+													<p>
+														 Grazie per la collaborazione!
+													</p>
+
+													<div class='intro-btns' >
+
+														<a href='#about' class='btn-custom section-toggle' data-section='about'>
+															Start
+														</a>
+
+														<!--a href='#contact' class='btn-custom section-toggle' data-section='contact' >
+															Hire Me
+														</a-->
+
+													</div>
+
+												</div>
+											</div>
+
+										</div>
+
+									</div>
+
+								</section>
+
+
+				<!--=====================================================
+					About Section
+				=====================================================-->
+				<section id='about' class='section about-section border-d' >
+
+					<div class='section-block about-block' >
+						<div class='container-fluid' >
+
+							<div class='section-header' >
+								<h2>
+									Seleziona <strong class='color' >contesti</strong>
+								</h2>
+								<hr>
+								<p style="font-size:25px">Indica le tue preferenze e le informazioni di contesto.<br />
+									<b>Importante:</b> non è necessario inserire tutti i contesti!</p>
+									<hr>
+							</div>
+							<div class="row">
+								<div class="form-group">
+								    <label class="titolo__city" for="city"  ><b>Seleziona Città</b></label>
+								    <select class="form-control" id="city" style="border: solid 1px #00008B;" >
+											<option value="" selected disabled hidden>Scegli la tua Città</option>
+								      <option>Bari</option>
+								      <option>Torino</option>
+								    </select>
+								  </div>
+							</div>
+
+							<div class='row'>
+								<hr>
+								<div class='col-md-4' >
+									<p>
+										<b>Umore</b>
+									</p>
+
+									<div class="funkyradio">
+										<div class="funkyradio-success" >
+												<input type="radio" name="umore" id="buonUmore" />
+												<label for="buonUmore" >Buon Umore</label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="umore" id="cattivoUmore" />
+												<label for="cattivoUmore">Cattivo Umore </label>
+										</div>
+
+								</div>
+								</div>
+								<div class='col-md-4' >
+									<p>
+										<b>Giorno</b>
+									</p>
+
+									<div class="funkyradio">
+										<div class="funkyradio-success">
+												<input type="radio" name="giorno" id="feriale" />
+												<label for="feriale">Feriale </label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="giorno" id="festivo" />
+												<label for="festivo">Festivo </label>
+										</div>
+								</div>
+								</div>
+								<div class='col-md-4' >
+									<p>
+										<b>Salute</b>
+									</p>
+
+									<div class="funkyradio">
+						        <div class="funkyradio-success">
+						            <input type="radio" name="salute" id="salutare" />
+						            <label for="salutare">Salutare</label>
+						        </div>
+						        <div class="funkyradio-success">
+						            <input type="radio" name="salute" id="nonSalutare" />
+						            <label for="nonSalutare">Allergie/Intolleranze/Diabete </label>
+						        </div>
+
+						    </div>
+								</div>
+								<div class='col-md-4' >
+									<p>
+										<b>Compagnia</b>
+									</p>
+
+									<div class="funkyradio">
+										<div class="funkyradio-success">
+												<input type="radio" name="compagnia" id="amici" />
+												<label for="amici"> Amici </label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="compagnia" id="coppia" />
+												<label for="coppia">Coppia </label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="compagnia" id="famiglia" />
+												<label for="famiglia">Famiglia</label>
+										</div>
+									</div>
+								</div>
+								<div class='col-md-4' >
+									<p>
+										<b>Pasto</b>
+									</p>
+
+									<div class="funkyradio">
+										<div class="funkyradio-success">
+												<input type="radio" name="pasto" id="colazione" />
+												<label for="colazione">Colazione </label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="pasto" id="pranzo" />
+												<label for="pranzo">Pranzo</label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="pasto" id="cena" />
+												<label for="cena">Cena </label>
+										</div>
+										<div class="funkyradio-success">
+												<input type="radio" name="pasto" id="esigenze" />
+												<label for="esigenze">Ricevimento </label>
+										</div>
+									</div>
+								</div>
+							</div>
+							<br>
+							<div class='context-btn'>
+								<a id="button-run" onclick="startExplanationSystem()"
+								class='btn-custom section-toggle' data-section ='explanation'>
+									Run
+								</a>
+
+								<button  onclick="clearAllRadios()" id="button-reset" class='btn-custom'>
+									Reset
+								</button>
+
+								<button  id="controllo" class='btn-custom' onclick="controlloContesti()">
+									Suggerisci!
+								</button>
+						</div>
+					</div>
+
+				</section>
+
+				<!--=====================================================
+					Explanation Section
+				=====================================================-->
+
+				<section id='explanation' class='section portfolio-section border-d'>
+					<div class='section-block portfolio-block' >
+						<div class='container-fluid' id="containerImage" >
+							<div class='section-header' >
+								<h2>Valuta le <strong class='color'>explanations</strong></h2>
+							</div>
+							<div class="row">
+								<div class="col-md-4">
+									<h1 id="nome_locale">nome</h1>
+									<br>
+									<br>
+									<div id="image_container" class="image_container">
+										<img id="imageLocal" alt="">
+									</div>
+									<br>
+									<br>
+									<p id="indirizzo"></p>
+									<p id="telefono"></p>
+									<p id="categorie"></p>
+								</div>
+								<div class="col-md-6">
+									<!-- <h3 id="context_selected"></h3> -->
+									<div class='review-show'>
+										<h3>Explanation 1</h3>
+										<div class="explanation">
+										<p id="explintro"></p>
+										<p id="explanation1"></p>
+										<p id="explanation2"></p>
+										<p id="explanation3"></p>
+										<p id="explanation4"></p>
+										<p id="explanation5"></p>
+										</div>
+										<h3>Explanation 2</h3>
+										<div class="explanation">
+										<p id="explanationbaseline"></p>
+										</div>
+
+										<br>
+									</div>
+									<div class="favorite-explanation">Quale spiegazione preferisci?
+										<br>
+										<div class="md-radio md-radio-inline">
+								      <input id="tipo1" type="radio" name="tipo" checked>
+								      <label for="tipo1">Explanation 1</label>
+								    </div>
+								    <div class="md-radio md-radio-inline">
+								      <input id="tipo2" type="radio" name="tipo">
+								      <label for="tipo2">Explanation 2</label>
+								    </div>
+										<div class="md-radio md-radio-inline">
+								      <input id="tipo0" type="radio" name="tipo">
+								      <label for="tipo0">Indifferente</label>
+								    </div>
+									</div>
+									<br>
+
+									<div>
+										<p style="font-size:15px"><b>Seleziona il tipo di spiegazione che è più adatta a queste definizioni</b></p>
+										<div class="comprensione_racccomandazione">Ho compreso perchè l'attività mi è stata raccomandata
+											<br>
+											<div class="md-radio md-radio-inline">
+									      <input id="comprensione1" type="radio" name="comprensione" checked>
+									      <label for="comprensione1">Explanation 1</label>
+									    </div>
+									    <div class="md-radio md-radio-inline">
+									      <input id="comprensione2" type="radio" name="comprensione">
+									      <label for="comprensione2">Explanation 2</label>
+									    </div>
+											<div class="md-radio md-radio-inline">
+									      <input id="comprensione0" type="radio" name="comprensione">
+									      <label for="comprensione0">Indifferente</label>
+									    </div>
+
+										</div>
+										<div class="convincente"> La spiegazione ha reso il suggerimento più convincente
+											<br>
+											<div class="md-radio md-radio-inline">
+									      <input id="convincente1" type="radio" name="convincente" checked>
+									      <label for="convincente1">Explanation 1</label>
+									    </div>
+									    <div class="md-radio md-radio-inline">
+									      <input id="convincente2" type="radio" name="convincente">
+									      <label for="convincente2">Explanation 2</label>
+									    </div>
+											<div class="md-radio md-radio-inline">
+											 <input id="convincente0" type="radio" name="convincente">
+											 <label for="convincente0">Indifferente</label>
+										 </div>
+										</div>
+										<div class="nuove-info">La spiegazione mi ha permesso di scoprire nuove informazioni relative all'attività
+											<br>
+											<div class="md-radio md-radio-inline">
+									      <input id="nuove1" type="radio" name="nuove" checked>
+									      <label for="nuove1">Explanation 1</label>
+									    </div>
+									    <div class="md-radio md-radio-inline">
+									      <input id="nuove2" type="radio" name="nuove">
+									      <label for="nuove2">Explanation 2</label>
+									    </div>
+											<div class="md-radio md-radio-inline">
+									      <input id="nuove0" type="radio" name="nuove">
+									      <label for="nuove0">Indifferente</label>
+									    </div>
+										</div>
+										<div class="aumento-fiducia">La spiegazione ha incrementato il mio livello di fiducia nel recommender system
+											<br>
+											<div class="md-radio md-radio-inline">
+									      <input id="fiducia1" type="radio" name="fiducia" checked>
+									      <label for="fiducia1">Explanation 1</label>
+									    </div>
+									    <div class="md-radio md-radio-inline">
+									      <input id="fiducia2" type="radio" name="fiducia">
+									      <label for="fiducia2">Explanation 2</label>
+									    </div>
+											<div class="md-radio md-radio-inline">
+									      <input id="fiducia0" type="radio" name="fiducia">
+									      <label for="fiducia0">Indifferente</label>
+									    </div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<br>
+							<div class="section-footer">
+								<div class='context-btn'>
+									<button id="return" class='btn-custom section-toggle' data-section ='ringraziamenti' onclick="saveData()">
+										Invio
+									</button>
+
+									<button id="next-raccomnandation" class='btn-custom' onclick="suggerisciAltro()">
+										Valuta Successivo
+									</button>
+							</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!--=====================================================
+					Ringraziamenti Section
+				=====================================================-->
+				<section id='ringraziamenti' class='section ringraziamenti-section border-d' >
+									<div class='container-fluid' >
+										<div class='v-align' >
+											<div class='inner' >
+												<div class='intro-text' >
+
+													<h1 style="color:#2121b7;">Grazie per aver partecipato al mio esperimento</h1>
+
+													<br>
+
+													<div class='context-btn'>
+														<button id="return" class='btn-custom section-toggle' data-section ='intro'>
+															Riprova
+														</button>
+												</div>
+
+
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+					</section>
+			</div>
+		</div>
+
+
+
+
+		<!--=====================================================
+			JavaScript Files
+		=====================================================-->
+
+
+		<script src='js/jquery.min.js' ></script>
+		<script src='js/jquery.shuffle.min.js' ></script>
+		<script src='js/owl.carousel.min.js' ></script>
+		<script src='js/jquery.magnific-popup.min.js' ></script>
+		<script src='js/validator.min.js' ></script>
+		<script src='js/script.js' ></script>
+	</body>
+</html>
