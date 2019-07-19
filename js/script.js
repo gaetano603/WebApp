@@ -196,6 +196,13 @@ var mapReview4 = new Map();
 var mapReview5 = new Map();
 var mapReviewBaseline = new Map();
 
+var explanation1;
+var explanation2;
+var explanation3;
+var explanation4;
+var explanation5;
+var explanationbaseline;
+
 var mapImage = new Map();
 var arraySelectedContext = [0,0,0,0,0,0,0,0,0,0,0,0,0];
 var arrayUrl1Match = [];
@@ -355,6 +362,15 @@ function getContextActive() {
 	return contesti;
 }
 
+function readInfo() {
+	getConfirmation();
+	document.getElementById('explanation1').innerHTML = explanation1;
+	document.getElementById('explanation2').innerHTML = explanation2;
+	document.getElementById('explanation3').innerHTML = explanation3;
+	document.getElementById('explanation4').innerHTML = explanation4;
+	document.getElementById('explanation5').innerHTML = explanation5;
+}
+
 function startExplanationSystem() {
 	datiInput = getContextActive();
 	citySelezionta = datiInput[0].toString();
@@ -422,7 +438,7 @@ function setExplanation2(url){
 		
 		var explbaseline = document.getElementById('explanationbaseline').innerHTML;
 		
-		if(explbaseline == "")
+		if(explbaseline === "")
 		{
 			document.getElementById('explanationbaseline').innerHTML = "Non sono state rilevate spiegazioni per questo contesto";
 		}
@@ -494,7 +510,7 @@ function letturaReview1(contesto,url)
 		{
 			if(key === url)
 			{
-				var explanation1 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
+				explanation1 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
 				document.getElementById('explanation1').innerHTML = explanation1;
 				num_spiegati++;
 				
@@ -530,7 +546,7 @@ function letturaReview2(contesto,url)
 		{
 			if(key === url)
 			{
-				var explanation2 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
+				explanation2 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
 				document.getElementById('explanation2').innerHTML = explanation2;
 				num_spiegati++;
 			}
@@ -565,7 +581,7 @@ function letturaReview3(contesto,url)
 		{
 			if(key === url)
 			{
-				var explanation3 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
+				explanation3 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
 				document.getElementById('explanation3').innerHTML = explanation3;
 				num_spiegati++;
 			}
@@ -600,7 +616,7 @@ function letturaReview4(contesto,url)
 		{
 			if(key === url)
 			{
-				var explanation4 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
+				explanation4 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
 				document.getElementById('explanation4').innerHTML = explanation4;
 				num_spiegati++;
 			}
@@ -635,7 +651,7 @@ function letturaReview5(contesto,url)
 		{
 			if(key === url)
 			{
-				var explanation5 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
+				explanation5 = 'E’ un locale adatto per ' + getStringContext(contesto) + ' per questo motivo: "'+ value +'"';
 				document.getElementById('explanation5').innerHTML = explanation5;
 				num_spiegati++;
 			}
@@ -646,6 +662,7 @@ function letturaReview5(contesto,url)
 function setExplanation1(datiInput,urlConsigliato) {
 	
 	num_totali = datiInput.length - 1;
+	var expl1,expl2,expl3,expl4,expl5;
 	
 	document.getElementById('explintro').innerHTML = "Ti suggerisco di provare "+ nome_locale + ".";
 	
@@ -653,7 +670,7 @@ function setExplanation1(datiInput,urlConsigliato) {
 	{
 		case 1:
 			letturaReviewUnique(datiInput[1],urlConsigliato);
-			var expl1 = document.getElementById('explanation1').innerHTML;
+			expl1 = document.getElementById('explanation1').innerHTML;
 			if(expl1 === '')
 			{
 				document.getElementById('explanation1').innerHTML = "Non sono state rilevate spiegazioni per il contesto: "+datiInput[1];
@@ -664,8 +681,8 @@ function setExplanation1(datiInput,urlConsigliato) {
 		case 2:
 			letturaReview1(datiInput[1],urlConsigliato);
 			letturaReview2(datiInput[2],urlConsigliato);
-			var expl1 = document.getElementById('explanation1').innerHTML;
-			var expl2 = document.getElementById('explanation2').innerHTML;
+			expl1 = document.getElementById('explanation1').innerHTML;
+			expl2 = document.getElementById('explanation2').innerHTML;
 			if(expl1 === '')
 			{
 				document.getElementById('explanation1').innerHTML = "Non sono state rilevate spiegazioni per il contesto: "+datiInput[1];
@@ -680,9 +697,9 @@ function setExplanation1(datiInput,urlConsigliato) {
 			letturaReview1(datiInput[1],urlConsigliato);
 			letturaReview2(datiInput[2],urlConsigliato);
 			letturaReview3(datiInput[3],urlConsigliato);
-			var expl1 = document.getElementById('explanation1').innerHTML;
-			var expl2 = document.getElementById('explanation2').innerHTML;
-			var expl3 = document.getElementById('explanation3').innerHTML;
+			expl1 = document.getElementById('explanation1').innerHTML;
+			expl2 = document.getElementById('explanation2').innerHTML;
+			expl3 = document.getElementById('explanation3').innerHTML;
 			if(expl1 === '')
 			{
 				document.getElementById('explanation1').innerHTML = "Non sono state rilevate spiegazioni per il contesto: "+datiInput[1];
@@ -702,10 +719,10 @@ function setExplanation1(datiInput,urlConsigliato) {
 		    letturaReview2(datiInput[2],urlConsigliato);
 			letturaReview3(datiInput[3],urlConsigliato);
 			letturaReview4(datiInput[4],urlConsigliato);
-			var expl1 = document.getElementById('explanation1').innerHTML;
-			var expl2 = document.getElementById('explanation2').innerHTML;
-			var expl3 = document.getElementById('explanation3').innerHTML;
-			var expl4 = document.getElementById('explanation4').innerHTML;
+			expl1 = document.getElementById('explanation1').innerHTML;
+			expl2 = document.getElementById('explanation2').innerHTML;
+			expl3 = document.getElementById('explanation3').innerHTML;
+			expl4 = document.getElementById('explanation4').innerHTML;
 			if(expl1 === '')
 			{
 				document.getElementById('explanation1').innerHTML = "Non sono state rilevate spiegazioni per il contesto: "+datiInput[1];
@@ -730,11 +747,11 @@ function setExplanation1(datiInput,urlConsigliato) {
 			letturaReview3(datiInput[3],urlConsigliato);
 			letturaReview4(datiInput[4],urlConsigliato);
 			letturaReview5(datiInput[5],urlConsigliato);
-			var expl1 = document.getElementById('explanation1').innerHTML;
-			var expl2 = document.getElementById('explanation2').innerHTML;
-			var expl3 = document.getElementById('explanation3').innerHTML;
-			var expl4 = document.getElementById('explanation4').innerHTML;
-			var expl5 = document.getElementById('explanation5').innerHTML;
+			expl1 = document.getElementById('explanation1').innerHTML;
+			expl2 = document.getElementById('explanation2').innerHTML;
+			expl3 = document.getElementById('explanation3').innerHTML;
+			expl4 = document.getElementById('explanation4').innerHTML;
+			expl5 = document.getElementById('explanation5').innerHTML;
 			if(expl1 === '')
 			{
 				document.getElementById('explanation1').innerHTML = "Non sono state rilevate spiegazioni per il contesto: "+datiInput[1];
