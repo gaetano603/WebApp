@@ -234,7 +234,7 @@
 							<br>
 							<div class='context-btn'>
 								<a id="button-run" onclick="startExplanationSystem()"
-								class='btn-custom section-toggle' data-section ='recommendation' data-section='explanation'>
+								class='btn-custom section-toggle' data-section ='recommendation'>
 									Run
 								</a>
 
@@ -394,12 +394,12 @@
 							<br>
 							<div class="section-footer">
 								<div class='context-btn'>
-									<button id="return" class='btn-custom section-toggle' data-section ='explanation' onclick="saveData1()">
+									<button id="return" class='btn-custom section-toggle' data-section ='explanationSection' onclick="saveData1()">
 										Invio
 									</button>
 							
 
-									<button id="compare-explanations" class='btn-custom' data-section ='explanation'>
+									<button id="compare-explanations" class='btn-custom' data-section ='explanationSection' onclick="readInfo()">
 										Prosegui senza salvare
 									</button>
 							</div>
@@ -412,7 +412,7 @@
 					Explanation Section
 				=====================================================-->
 
-				<section id='explanation' class='section portfolio-section border-d'>
+				<section id='explanationSection' class='section portfolio-section border-d'>
 					<div class='section-block portfolio-block' >
 						<div class='container-fluid' id="containerImage" >
 							<div class='section-header' >
@@ -541,7 +541,7 @@
 										Invio
 									</button>
 
-									<button id="next-raccomnandation" class='btn-custom' onclick="suggerisciAltro()">
+									<button id="next-raccomnandation" class='btn-custom' data-section='recommendation' onclick="suggerisciAltro()">
 										Valuta Successivo
 									</button>
 							</div>
