@@ -45,6 +45,7 @@ body{
 }
 *{
 	font-family: inherit;
+	font-size: medium;
 }
 .view-project,
 .portfolio-filters > li > a,
@@ -1257,6 +1258,18 @@ my mod
 	#return{
 		color:#00008B;
 		border: solid 1px #00008B;
+	}
+	
+	#compare-explanations{
+		color:#00008B;
+		border: solid 1px #00008B;
+		float:right;
+	}
+	
+	#prosegui{
+		color:#00008B;
+		border: solid 1px #00008B;
+		float:right;
 	}
 
 	#next-raccomnandation{
