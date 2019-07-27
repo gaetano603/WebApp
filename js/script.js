@@ -1001,10 +1001,7 @@ function setImage(url){
 	if(urlImage == undefined){
 		var img = document.createElement("img");
 		img.src = "nessuna_immagine.png";
-		var img1 = document.createElement("img1");
-		img1.src = "nessuna_immagine.png";
      	document.getElementById('image_container').appendChild(img);
-    	document.getElementById('image_container1').appendChild(img1);
 	}	else{
 		fetch(urlImage)
 		.then(res => res.blob()) // Gets the response and returns it as a blob
@@ -1012,10 +1009,22 @@ function setImage(url){
 			let objectURL = URL.createObjectURL(blob);
 			let myImage = new Image();
 			myImage.src = objectURL;
-			let myImage1 = new Image();
-			myImage1.src = objectURL;
 			document.getElementById('image_container').appendChild(myImage);
-			document.getElementById('image_container1').appendChild(myImage1)
+		});
+	}
+	
+	if(urlImage == undefined){
+		var img1 = document.createElement("img");
+		img1.src = "nessuna_immagine1.png";
+     	document.getElementById('image_container1').appendChild(img1);
+	}	else{
+		fetch(urlImage)
+		.then(res => res.blob()) // Gets the response and returns it as a blob
+		.then(blob => {
+			let objectURL1 = URL.createObjectURL(blob);
+			let myImage1 = new Image();
+			myImage1.src = objectURL1;
+			document.getElementById('image_container1').appendChild(myImage1);
 		});
 	}
 
