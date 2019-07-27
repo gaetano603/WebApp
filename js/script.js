@@ -366,9 +366,11 @@ function getContextActive() {
 
 function startExplanationSystem() {
 	datiInput = getContextActive();
+	console.log(datiInput);
+	
 	citySelezionta = datiInput[0].toString();
 	createListLocali(citySelezionta);
-
+	
 	mapLocal.forEach(sameContextLocal);
 	console.log("locali 1 contesto matchato: " + arrayUrl1Match.length);
 	console.log("locali 2 contesto matchato: " + arrayUrl2Match.length);
@@ -377,8 +379,11 @@ function startExplanationSystem() {
 	console.log("locali 5 contesto matchato: " + arrayUrl5Match.length);
 
 	var arrayLocaliMatch = sceltaArrayUrl();
-
+	console.log(arrayLocaliMatch);
+	
 	let iRandom = getRandomUrlFromArray(arrayLocaliMatch);
+	console.log(iRandom);
+	
 
 	urlConsigliato = arrayLocaliMatch[iRandom];
 	console.log(urlConsigliato);
@@ -815,12 +820,16 @@ function logMapElements(value, key, map) {
 
 //verifica che i contesti siano presenti
 function sameContextLocal(value, key, map){
+	
 	var x = 0;
-	for (var i = 0; i < arraySelectedContext.length; i++) {
-		if (arraySelectedContext[i] == 1 && value[i] == 1){
+	for (var i = 0; i < arraySelectedContext.length; i++) 
+	{
+		if (arraySelectedContext[i] == 1 && value[i] == 1)
+		{
 			x++;
 		}
 	}
+	
 	switch (x) {
 		case 1:
 			arrayUrl1Match.push(key);
@@ -859,25 +868,12 @@ function sceltaArrayUrl(){
 }
 
 function getRandomUrlFromArray(array){
-	if (datiInput.length == 2)
-	{
-		if (datiInput[1] == 3||datiInput[1] == 4||datiInput[1] == 9||datiInput[1] == 10||datiInput[1] == 11||datiInput[1] == 12)
-		{
-			return 0;
-		}
-		else
-		{
-			var max = Math.floor((array.length - 1)/5);
-			var random =Math.floor(Math.random() * (+ max - +0)) + +0;
-			return random;
-		}
-	}
-	else
-	{
-		var max = Math.floor((array.length - 1)/3);
-		var random =Math.floor(Math.random() * (+ max - +0)) + +0;
-		return random;
-	}
+	console.log(array);
+	
+	var random = Math.floor(Math.random() * array.length);
+	console.log(random);
+	return random;
+	
 }
 
 function getStringContext(s){
@@ -995,6 +991,8 @@ function setImage(url){
 	var imageContainer1 = document.getElementById('image_container1');
 	while (imageContainer.firstChild) {
 			imageContainer.removeChild(imageContainer.firstChild);
+	}
+	while (imageContainer1.firstChild) {
 			imageContainer1.removeChild(imageContainer1.firstChild);
 	}
 
