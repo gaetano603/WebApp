@@ -1162,8 +1162,13 @@ function saveData1(){
 	var livello_convincimento;
 	var livello_newInfo;
 	var livello_fiducia;
-
-
+	var livello_efficacia
+	
+	document.getElementsByName('livello_efficacia').forEach(function(button) {
+    if (button.checked) {
+        livello_efficacia = button.getAttribute('id')[button.getAttribute('id').length-1];
+    }
+	});
 
 	document.getElementsByName('livello_comprensione').forEach(function(button) {
     if (button.checked) {
@@ -1255,6 +1260,7 @@ function saveData1(){
 		salute: salute,
 		contesti : num_totali,
 		spiegati : num_spiegati,
+		livello_efficacia : livello_efficacia,
 		livello_comprensione : livello_comprensione,
 		livello_convincimento : livello_convincimento,
 		livello_newInfo : livello_newInfo,
