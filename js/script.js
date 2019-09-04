@@ -308,6 +308,9 @@ function letturaImage(){
 }
 
 function clearAllRadios() {
+	
+	
+	
 	let array =[];
 	var rad1 = document.getElementsByName('umore');
 	var rad2 = document.getElementsByName('salute');
@@ -379,14 +382,11 @@ function startExplanationSystem() {
 	console.log("locali 5 contesto matchato: " + arrayUrl5Match.length);
 
 	var arrayLocaliMatch = sceltaArrayUrl();
-	console.log(arrayLocaliMatch);
 	
 	let iRandom = getRandomUrlFromArray(arrayLocaliMatch);
-	console.log(iRandom);
 	
 
 	urlConsigliato = arrayLocaliMatch[iRandom];
-	console.log(urlConsigliato);
 	nome_locale = mapNomi.get(urlConsigliato);
 	let dett = mapDettagli.get(urlConsigliato);
 	document.getElementById('nome_locale').innerHTML = nome_locale;
@@ -480,6 +480,7 @@ function letturaReviewUnique(contesto,url)
 			{
 				var explanationAggregation = 'E’ un locale adatto per <b>' + getStringContext(contesto) + '</b> per questo motivo: "'+ value +'"';
 				document.getElementById('explanation1').innerHTML = explanationAggregation;
+				document.getElementById('expl1').innerHTML = explanationAggregation;
 				num_spiegati++;
 				
 			}
@@ -868,10 +869,8 @@ function sceltaArrayUrl(){
 }
 
 function getRandomUrlFromArray(array){
-	console.log(array);
 	
 	var random = Math.floor(Math.random() * array.length);
-	console.log(random);
 	return random;
 	
 }
@@ -1088,6 +1087,7 @@ function disableButtonRun(id) {
 function suggerisciAltro(){
 
 	getConfirmation();
+	
 
 	console.log("proseguo");
 	document.getElementById('explintro').innerHTML = '';
@@ -1275,6 +1275,9 @@ clearAllRadios();
 // 		saveData()
 //-----------------------------------------------------------------------------
 function saveData(){
+	
+	
+	
 	var comprensione;
 	var convincimento;
 	var newInfo;
@@ -1387,6 +1390,19 @@ function saveData(){
 
 writeNewPost(data);
 clearAllRadios();
+document.getElementById('explintro').innerHTML = '';
+	document.getElementById('explintro1').innerHTML = '';
+	document.getElementById('explanation1').innerHTML = '';
+	document.getElementById('explanation2').innerHTML = '';
+	document.getElementById('explanation3').innerHTML = '';
+	document.getElementById('explanation4').innerHTML = '';
+	document.getElementById('explanation5').innerHTML = '';
+	document.getElementById('expl1').innerHTML = '';
+	document.getElementById('expl2').innerHTML = '';
+	document.getElementById('expl3').innerHTML = '';
+	document.getElementById('expl4').innerHTML = '';
+	document.getElementById('expl5').innerHTML = '';
+	document.getElementById('explanationbaseline').innerHTML = '';
 }
 
 function writeNewPost(postData) {
