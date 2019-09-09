@@ -1103,8 +1103,8 @@ function suggerisciAltro(){
 	document.getElementById('expl4').innerHTML = '';
 	document.getElementById('expl5').innerHTML = '';
 	document.getElementById('explanationbaseline').innerHTML = '';
-			
 
+	num_spiegati=0;
 	var arrayLocaliMatch = sceltaArrayUrl();
 	let iRandom = getRandomUrlFromArray(arrayLocaliMatch);
 	urlConsigliato = arrayLocaliMatch[iRandom];
