@@ -212,7 +212,7 @@ var arrayUrl4Match = [];
 var arrayUrl5Match = [];
 var datiInput;
 var nome_locale;
-var num_totali;
+var num_totali=0;
 var num_spiegati=0;
 var urlConsigliato;
 
@@ -1103,8 +1103,8 @@ function suggerisciAltro(){
 	document.getElementById('expl4').innerHTML = '';
 	document.getElementById('expl5').innerHTML = '';
 	document.getElementById('explanationbaseline').innerHTML = '';
+			
 
-	num_spiegati=0;
 	var arrayLocaliMatch = sceltaArrayUrl();
 	let iRandom = getRandomUrlFromArray(arrayLocaliMatch);
 	urlConsigliato = arrayLocaliMatch[iRandom];
@@ -1403,6 +1403,8 @@ document.getElementById('explintro').innerHTML = '';
 	document.getElementById('expl4').innerHTML = '';
 	document.getElementById('expl5').innerHTML = '';
 	document.getElementById('explanationbaseline').innerHTML = '';
+	num_spiegati=0;
+	num_totali=0;
 }
 
 function writeNewPost(postData) {
