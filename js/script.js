@@ -1087,7 +1087,8 @@ function disableButtonRun(id) {
 function suggerisciAltro(){
 
 	getConfirmation();
-	
+	num_spiegati=0;
+	num_totali=0;
 
 	console.log("proseguo");
 	document.getElementById('explintro').innerHTML = '';
